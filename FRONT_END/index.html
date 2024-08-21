@@ -9,103 +9,100 @@
 <body>
     <div class="container">
         <h1>Weekly Timetable</h1>
-        <table>
-            <thead>
-                <tr>
-                    <th>Day/Time</th>
-                    <th>08:00 AM - 09:00 AM</th>
-                    <th>09:00 AM - 10:00 AM</th>
-                    <th>10:00 AM - 11:00 AM</th>
-                    <th>11:00 AM - 12:00 PM</th>
-                    <th>12:00 PM - 01:00 PM</th>
-                    <th>01:00 PM - 02:00 PM</th>
-                    <th>02:00 PM - 03:00 PM</th>
-                    <th>03:00 PM - 04:00 PM</th>
-                    <th>04:00 PM - 05:00 PM</th>
-                    <th>05:00 PM - 06:00 PM</th>
-                    <th>06:00 PM - 07:00 PM</th>
-                    <th>07:00 PM - 08:00 PM</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>Monday</td>
-                    <td id = "1"></td>
-                    <td id = "2"></td>
-                    <td id = "3"></td>
-                    <td id = "4"></td>
-                    <td id = "5"></td>
-                    <td id = "6"></td>
-                    <td id = "7"></td>
-                    <td id = "8"></td>
-                    <td id = "9"></td>
-                    <td id = "10"></td>
-                    <td id = "11"></td>
-                    <td id = "12"></td>
-                </tr>
-                <tr>
-                    <td>Tuesday</td>
-                    <td id = "1"></td>
-                    <td id = "2"></td>
-                    <td id = "3"></td>
-                    <td id = "4"></td>
-                    <td id = "5"></td>
-                    <td id = "6"></td>
-                    <td id = "7"></td>
-                    <td id = "8"></td>
-                    <td id = "9"></td>
-                    <td id = "10"></td>
-                    <td id = "11"></td>
-                    <td id = "12"></td>
-                </tr>
-                <tr>
-                    <td>Wednesday</td>
-                    <td id = "1"></td>
-                    <td id = "2"></td>
-                    <td id = "3"></td>
-                    <td id = "4"></td>
-                    <td id = "5"></td>
-                    <td id = "6"></td>
-                    <td id = "7"></td>
-                    <td id = "8"></td>
-                    <td id = "9"></td>
-                    <td id = "10"></td>
-                    <td id = "11"></td>
-                    <td id = "12"></td>
-                </tr>
-                <tr>
-                    <td>Thursday</td>
-                    <td id = "1"></td>
-                    <td id = "2"></td>
-                    <td id = "3"></td>
-                    <td id = "4"></td>
-                    <td id = "5"></td>
-                    <td id = "6"></td>
-                    <td id = "7"></td>
-                    <td id = "8"></td>
-                    <td id = "9"></td>
-                    <td id = "10"></td>
-                    <td id = "11"></td>
-                    <td id = "12"></td>
-                </tr>
-                <tr>
-                    <td>Friday</td>
-                    <td id = "1"></td>
-                    <td id = "2"></td>
-                    <td id = "3"></td>
-                    <td id = "4"></td>
-                    <td id = "5"></td>
-                    <td id = "6"></td>
-                    <td id = "7"></td>
-                    <td id = "8"></td>
-                    <td id = "9"></td>
-                    <td id = "10"></td>
-                    <td id = "11"></td>
-                    <td id = "12"></td>
-                </tr>
-                <!-- Add more rows for Wednesday to Friday as needed -->
-            </tbody>
-        </table>
+        <section class="timetable">
+            <ol class="timings">
+            <li>08:00</li>
+            <li>09:00</li>
+            <li>10:00</li>
+            <li>11:00</li>
+            <li>12:00</li>
+            <li>13:00</li>
+            <li>14:00</li>
+            <li>15:00</li>
+            <li>16:00</li>
+            <li>17:00</li>
+            <li>18:00</li>
+            <li>19:00</li>
+            <li>20:00</li>
+            </ol>
+            <ol class="week">
+            <li class="day" id="mon">
+                <span class="name">Mon</span>
+                <div class="hour hour__10 class1">
+                <div class="title">ST2334</div>
+                <div>LEC[SL1]</div>
+                </div>
+                <div class="hour hour__12 class2">
+                <div class="title">CFG1010</div>
+                <div>TUT[02]</div>
+                </div>
+                <div class="hour hour__12 class2">
+                <div class="title">CFG1010</div>
+                <div>TUT[02]</div>
+                </div>
+            </li>
+            <li class="day" id="tue">
+                <span class="name">Tue</span>
+                <div class="hour hour__08 hour--two class3">
+                <div class="title">MA2213</div>
+                <div>LEC[SL1]</div>
+                </div>
+                <div class="hour hour__12 class4">
+                <div class="title">CS2020</div>
+                <div>TUT[02]</div>
+                </div>
+                <div class="hour hour__15 class3">
+                <div class="title">MA2213</div>
+                <div>LAB[B04]</div>
+                </div>
+                <div class="hour hour__15 class3">
+                <div class="title">MA2213</div>
+                <div>TUT[04]</div>
+                </div>
+            </li>
+            <li class="day" id="wed">
+                <span class="name">Wed</span>
+                <div class="hour hour__10 class4">
+                <div class="title">CS2020</div>
+                <div>LEC[01]</div>
+                </div>
+                <div class="hour hour__14 class1">
+                <div class="title">ST2334</div>
+                <div>TUT[08]</div>
+                </div>
+            </li>
+            <li class="day" id="thu">
+                <span class="name">Thu</span>
+                <div class="hour hour__10 class1">
+                <div class="title">ST2334</div>
+                <div>LEC[SL1]</div>
+                </div>
+                <div class="hour hour__14 hour--two class5">
+                <div class="title">GES1011</div>
+                <div>TUT[D3]</div>
+                </div>
+            </li>
+            <li class="day" id="fri">
+                <span class="name">Fri</span>
+                <div class="hour hour__08 class3">
+                <div class="title">MA2213</div>
+                <div>LEC[SL1]</div>
+                </div>
+                <div class="hour hour__10 hour--two class4">
+                <div class="title">CS2020</div>
+                <div>LEC[01]</div>
+                </div>
+                <div class="hour hour__13 class4">
+                <div class="title">CS2020</div>
+                <div>REC[01]</div>
+                </div>
+                <div class="hour hour__14 hour--two class5">
+                <div class="title">GES1011</div>
+                <div>LEC[01]</div>
+                </div>
+            </li>
+            </ol>
+        </section>
     </div>
     <script src="scripts.js"></script>
 </body>
