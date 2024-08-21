@@ -5,7 +5,7 @@ import os
 import pandas as pd
 
 
-###### SEARCHING FOR READING CSV,XLS,XLSX FILES ######
+###### SEARCHING FOR READING CSV FILES ######
 # Specify the directory you want to check
 folder_path = './'
 
@@ -14,7 +14,7 @@ files_found = []
 
 # Iterate over all files in the folder
 for file_name in os.listdir(folder_path):
-    if file_name.endswith(('.csv', '.xlsx', '.xls')):
+    if file_name.endswith('.csv'):
         files_found.append(file_name)
 
 # Output the results
@@ -26,7 +26,7 @@ else:
     print("No CSV, XLSX, or XLS files found in the folder.")
 
 
-
+###### READING CSV FILES ######
 file_path = folder_path+files_found[0]
 df = pd.read_excel(file_path)
 # Display the data
