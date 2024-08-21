@@ -176,6 +176,13 @@ ol {
             transition: min-width 0.2s ease-in-out;
             background-color: #f0f8ff; /* Default background color */
         }
+        .day:nth-child(odd) {
+            background-color: #e0efff; /* Light blue */
+        }
+        
+        .day:nth-child(even) {
+            background-color: #d0e7ff; /* Slightly darker blue */
+        }
         .week{
             overflow-x: hidden;
         }
