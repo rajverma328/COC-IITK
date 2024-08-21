@@ -23,11 +23,12 @@ if files_found:
     if len(files_found) > 1:
         print("since the folder contains multiple readable fromat files please delete old ones")
 else:
-    print("No CSV, XLSX, or XLS files found in the folder.")
+    print("No CSV files found in the folder.")
 
 
 ###### READING CSV FILES ######
 file_path = folder_path+files_found[0]
-df = pd.read_excel(file_path)
-# Display the data
-print(df.head())
+df = pd.read_csv(file_path)
+# Display the headings of data
+print(df.columns.tolist())
+col_name = df.columns.tolist()
