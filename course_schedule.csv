@@ -1,0 +1,767 @@
+S.No.,Br,Course Name/Group Name,Prerequisite,Slot Name/Course Type,Credits,Instructor,Instuctor Email,Time,Venue,Time,Venue,Time,Venue,First Course Handout(FCH)
+1,AE,INTRODUCTION TO AEROSPACE ENGINEERING(AE201M),,"OE-1 DC,Minor / FIRST-HALF",3-0-0-0(5),"ABHISHEK . (I), Subrahmanyam Saderla(O)","abhish@iitk.ac.in (I), saderlas@iitk.ac.in (O)",M (EEM117) W (EEM117) F (EEM117)  17:00-18:00,EEM117,,,,,Document
+2,AE,DYNAMICS(AE209),,CORE 12 DC / REGULAR,2-1-0-0(8),SANJAY  KUMAR (I),skmr@iitk.ac.in (I),M (EEM117) W (EEM117)  12:00-13:00,EEM117,F (EEM117)  12:00-13:00,EEM117,,,Document
+3,AE,COMPRESSIBLE AERODYNAMICS(AE311),( ESO201 OR ESO201A AND ESO204A OR ESO204  ),SLOT-2 DC / REGULAR,3-0-0-0(9),Tufan Guha(I),tkguha@iitk.ac.in (I),"M (EEM117) F (EEM117)  08:00-09:00 ,T (EEM117)  09:00-10:00",EEM117,,,,,Document
+4,AE,FLIGHT MECHANICS(AE321),( AE201M  ) AND (AE209  ),"SLOT-3-1 DC,Minor / REGULAR",3-0-0-0(9),Raghavendra  Kukillaya(I),raghavpk@iitk.ac.in (I),T (EEM117) W (EEM117) F (EEM117)  16:00-17:00,EEM117,,,,,Document
+5,AE,AEROSPACE STRUCTURES I(AE333),( ESO202 OR ESO202A  ),"SLOT-5-1 DC,Minor / REGULAR",3-0-0-0(9),Gopalakrishna M Kamath   (I),gmkamath@iitk.ac.in (I),"W (EEM117) F (EEM117)  14:00-15:00 ,T (EEM117)  17:00-18:00",EEM117,,,,,Document
+6,AE,TECHNICAL COMMUNICATION(AE401A),,SLOT-BLANK PRF / FIRST-HALF,0-0-2-2(2),RAKESH  KUMAR (I),rkm@iitk.ac.in (I),,,,,T (L06)  10:00-12:00,L06,Document
+7,AE,ROCKET PROPULSION(AE441A),( AE311A  ),SLOT-1-1-3 PRF / FIRST-HALF,3-0-0-0(5),SATHESH  MARIAPPAN (I),sathesh@iitk.ac.in (I),W (L08)  08:00-09:00,L08,,,,,Document
+8,AE,EXPERIMENTS IN AEROSPACE ENGINEERING III(AE451A),( AE351A  ),SLOT-BLANK PRF / REGULAR,0-0-3-2(5),"RAJESH  KITEY   (I), Mohammed Ibrahim Sugarno(O), D Chaitanya Rao(O)","kitey@iitk.ac.in (I), ibrahim@iitk.ac.in (O), chaitanya@iitk.ac.in (O)",,,,,M 14:00-17:00,,Not Available
+9,AE,AIRCRAFT DESIGN-I(AE461A),,SLOT-4 PRF / REGULAR,1-0-2-2(7),Subrahmanyam Saderla(I),saderlas@iitk.ac.in (I),F (EEM117)  15:00-16:00,EEM117,,,Th 14:00-17:00,,Document
+10,AE,B TECH PROJECT(AE471A),,SLOT-BLANK PRF / REGULAR,0-0-0-0(9),DUGCAE (I),dugcae@iitk.ac.in (I),,,,,,,Not Available
+11,AE,UNDERGRADUATE PROJECT III(AE472A),,SLOT-BLANK PRF / REGULAR,3-0-0-0(9),DUGCAE (I),dugcae@iitk.ac.in (I),,,,,,,Not Available
+12,AE,BOUNDARY LAYER THEORY(AE481),( ESO204A OR ESO204 OR ME231 OR ME231A OR CE261  ),"OE-2 DE,PRF,OE / REGULAR",3-0-0-0(9),DEBOPAM  DAS   (I),das@iitk.ac.in (I),W (AE: NWTF Class room) F (AE: NWTF Class room)  09:00-10:15,AE: NWTF Class room,,,,,Document
+13,AE,INTRO TO AEROSPACE ENGG.(AE601),,PG-1 PRF / REGULAR,3-0-0-0(9),"C S  UPADHYAY   (I), D Chaitanya Rao(O)","shekhar@iitk.ac.in (I), chaitanya@iitk.ac.in (O)","M (L08) F (L08)  08:00-09:00 ,T (L08)  09:00-10:00",L08,,,,,Document
+14,AE,MATHEMATICS FOR AEROSPACE ENGG.(AE602),,PG-8 PRF / REGULAR,3-0-0-0(9),Rajesh Ranjan(I),rajeshr@iitk.ac.in (I),T (L16) F (L16)  12:00-13:15,L16,,,,,Document
+15,AE,AERODYNAMICS-I(AE610),,PG-4 PRF / REGULAR,3-0-0-0(9),Pradeep Moise(I),pmoise@iitk.ac.in (I),M (L11) Th (L11)  12:00-13:15,L11,,,,,Document
+16,AE,MEASUREMENTS IN FLUID MECHANICS(AE611),,"DE-1 DE,PRF,OE / REGULAR",3-0-0-0(9),Arun  Perumal(I),akp@iitk.ac.in (I),M (EEM117) Th (EEM117)  09:00-10:15,EEM117,,,,,Not Available
+17,AE,VISCOUS FLOWS(AE614),,"OE-3 DE,PRF,OE / REGULAR",3-0-0-0(9),KAMAL  PODDAR   (I),kamal@iitk.ac.in (I),W (AE: NWTF Class room) F (AE: NWTF Class room)  10:30-12:00,AE: NWTF Class room,,,,,Document
+18,AE,MULTIDISCIPLINARY DESIGN OPTIMIZATION(AE631),,PG-15 PRF / REGULAR,2-0-3-0(9),"Pradeep Moise(I), Prabhat Hajela(O)","pmoise@iitk.ac.in (I), hajela@iitk.ac.in (O)","T (AE: NWTF Class room)  16:00-16:45 ,Th (AE: NWTF Class room)  17:15-18:00",AE: NWTF Class room,,,W 14:00-17:00,,Document
+19,AE,SATELLITE ATTITUDE DYNAMICS AND CONTROL(AE642),,"DE-2 DE,PRF,OE / REGULAR",3-0-0-0(9),Dipak  Giri(I),dkgiri@iitk.ac.in (I),M (AE: NWTF Class room) Th (AE: NWTF Class room)  10:30-12:00,AE: NWTF Class room,,,,,Document
+20,AE,SPORTS AERODYNAMICS(AE643),,"DE-2 DE,PRF,OE / REGULAR",3-0-0-0(9),SANJAY  MITTAL   (I),smittal@iitk.ac.in (I),M (L06) Th (L06)  10:30-12:00,L06,,,,,Document
+21,AE,SCIENTIFIC MACHINE LEARNING FOR FLUID MECHANICS(AE646),,"DE-3 DE,PRF,OE / REGULAR",2-0-3-0(9),Murali Damodaran(I),dmurali@iitk.ac.in (I),M (AE: Helicopter building) Th (AE: Helicopter building)  12:00-13:00,AE: Helicopter building,,,T (T109)  14:00-16:00,T109,Document
+22,AE,FLIGHT DYNAMICS(AE647),,PG-4 PRF / REGULAR,3-0-0-0(9),ASHISH  TIWARI (I),ashtew@iitk.ac.in (I),M (AE: NWTF Class room) Th (AE: NWTF Class room)  12:00-13:15,AE: NWTF Class room,,,,,Document
+23,AE,AEROMECHANICS OF UNMANNED AERIAL SYSTEMS(AE656),,PG-2 PRF / REGULAR,3-0-0-0(9),ABHISHEK . (I),abhish@iitk.ac.in (I),M (T210) Th (T210)  09:00-10:15,T210,,,,,Document
+24,AE,FUNDAMENTALS OF COMBUSTION(AE663),,PG-2 PRF / REGULAR,3-0-0-0(9),Ajay  Singh(I),ajayvs@iitk.ac.in (I),MTh 09:00-10:15,,,,,,Document
+25,AE,APPLIED COMPRESSIBLE FLOWS(AE664),,PG-3 PRF / REGULAR,3-0-0-0(9),RAKESH  KUMAR (I),rkm@iitk.ac.in (I),M (EEM117) Th (EEM117)  10:30-12:00,EEM117,,,,,Document
+26,AE,AEROSPACE STRUCTURAL ANALYSIS - I(AE670),,PG-3 PRF / REGULAR,3-0-0-0(9),P M  MOHITE   (I),mohite@iitk.ac.in (I),M (AE: Helicopter building) Th (AE: Helicopter building)  10:30-12:00,AE: Helicopter building,,,,,Document
+27,AE,AEROACOUSTICS(AE671),,"PG-5 DE,PRF,OE / REGULAR",3-0-0-0(9),Navrose (I),navrose@iitk.ac.in (I),W (EEM117) F (EEM117)  09:00-10:15,EEM117,,,,,Document
+28,AE,DYNAMICS AND VIBRATION(AE688),,PG-13 PRF / REGULAR,3-0-0-0(9),Tanmay Mathur(I),mathur@iitk.ac.in (I),M (AE: Helicopter building) Th (AE: Helicopter building)  14:00-15:15,AE: Helicopter building,,,,,Document
+29,AE,M TECH THESIS(AE699),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),"DPGCAE (I), DUGCAE (O)","dpgcae@iitk.ac.in (I), dugcae@iitk.ac.in (O)",,,,,,,Not Available
+30,AE,CONTINUUM MECHANICS(AE702),,PG-2 PRF / REGULAR,3-0-0-0(9),Pritam  Chakraborty   (I),cpritam@iitk.ac.in (I),M (AE: Helicopter building) Th (AE: Helicopter building)  09:00-10:15,AE: Helicopter building,,,,,Document
+31,AE,COMPUTATIONAL METHODS(AE703),,PG-13 PRF / REGULAR,3-0-0-0(9),Arnab Samanta(I),asamanta@iitk.ac.in (I),M (AE: NWTF Class room) Th (AE: NWTF Class room)  14:00-15:15,AE: NWTF Class room,,,,,Document
+32,AE,EXPERIMENTAL STRESS ANALYSIS(AE707),,"PG-5 DE,PRF,OE / REGULAR",3-0-0-0(9),RAJESH  KITEY   (I),kitey@iitk.ac.in (I),W (AE: Helicopter building) F (AE: Helicopter building)  09:00-10:15,AE: Helicopter building,,,,,Not Available
+33,AE,OPTIMAL SPACE FLIGHT CONTROL(AE777),,"PG-6 DE,PRF,OE / REGULAR",3-0-0-0(9),ASHISH  TIWARI (I),ashtew@iitk.ac.in (I),W (L01) F (L01)  10:30-12:00,L01,,,,,Document
+34,AE,PHD THESIS(AE799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCAE (I),dpgcae@iitk.ac.in (I),,,,,,,Not Available
+35,AE,AEROSPACE ENGINEERING POSTGRADUATE SEMINAR(AE801),,PG-7 PRF / REGULAR,0-0-0-0(0),DPGCAE (I),dpgcae@iitk.ac.in (I),T (T212) T (T201)  17:00-18:30,"T201 ,T212",,,,,Not Available
+36,AE,INTRODUCTION TO PROFESSION & COMMUNICATION(AE888),,SLOT-BLANK PRF / REGULAR,1-0-0-0(3),"Not Offered (I), PINGALA DESK (O)","automation@iitk.ac.in (I), pingala@iitk.ac.in (O)",,,,,,,Not Available
+37,AE,MS - RESEARCH THESIS(AE899),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCAE (I),dpgcae@iitk.ac.in (I),,,,,,,Not Available
+38,AE,ENGINEERING GRAPHICS(TA111) /A,,TA111 IC / REGULAR,2-0-3-0(9),ABHIJIT KUSHARI (I),akushari@iitk.ac.in (I),M (L18) W (L18)  15:00-16:00,L18,,,MTWThF 10:00-12:50,,Document
+39,AE,ENGINEERING GRAPHICS(TA111) /B,,TA111 IC / REGULAR,2-0-3-0(9),ALAKESH CHANDRA  MANDAL (I),alakeshm@iitk.ac.in (I),M (L19) W (L19)  15:00-16:00,L19,,,MTWThF 10:00-12:50,,Not Available
+40,BSBE,ORGAN SYSTEM PHYSIOLOGY AND ANATOMY(BSE211),,3-1 DC / REGULAR,3-0-0-0(9),Sai Pydi(I),pydi@iitk.ac.in (I),M (BSBE: MFCEM SR) W (BSBE: MFCEM SR) F (BSBE: MFCEM SR)  12:00-13:00,BSBE: MFCEM SR,,,,,Not Available
+41,BSBE,BIOCHEMISTRY(BSE221),,OE-1 DC / REGULAR,3-0-0-0(9),Anusmita Sahoo(I),asahoo@iitk.ac.in (I),M (BSBE: MFCEM SR) W (BSBE: MFCEM SR) F (BSBE: MFCEM SR)  17:00-18:00,BSBE: MFCEM SR,,,,,Document
+42,BSBE,MOLECULAR CELL BIOLOGY(BSE311),,SLOT-2 PRF / REGULAR,3-0-0-0(9),Robert Sonowal(I),rsonowal@iitk.ac.in (I),"M (BSBE: MFCEM SR) F (BSBE: MFCEM SR)  08:00-09:00 ,T (BSBE: MFCEM SR)  09:00-10:00",BSBE: MFCEM SR,,,,,Document
+43,BSBE,MOLECULAR BIOLOGY LAB(BSE312),,SLOT-3-2 PRF / REGULAR,1-0-6-0(9),"Dibyendu Kumar Das  (I), Rakesh Majhi(O)","dkdas@iitk.ac.in (I), rakesh@iitk.ac.in (O)",Th (BSBE: MFCEM SR)  17:00-18:00,BSBE: MFCEM SR,,,WTh 14:00-17:00,,Not Available
+44,BSBE,BIOMATERIALS(BSE411),,SLOT-1 PRF / REGULAR,3-0-0-0(9),Santosh Misra(I),skmisra@iitk.ac.in (I),T (DJAC: 205H) W (DJAC: 205H) Th (DJAC: 205H)  08:00-09:00,DJAC: 205H,,,,,Document
+45,BSBE,BIOMATERIALS(BSE411A),,SLOT-1 PRF / REGULAR,3-0-2-0(11),Santosh Misra(I),skmisra@iitk.ac.in (I),T (DJAC: 205H) W (DJAC: 205H) Th (DJAC: 205H)  08:00-09:00,DJAC: 205H,,,,,Document
+46,BSBE,BIOMATERIAL PHYSIOLOGY & BIO-MEMS LABORATORY(BSE412),,SLOT-5-2 PRF / REGULAR,1-0-6-0(9),"ASHOK  KUMAR (I), Rakesh Majhi(O)","ashokkum@iitk.ac.in (I), rakesh@iitk.ac.in (O)",T (L06)  17:00-18:00,L06,,,MT 14:00-17:00,,Not Available
+47,BSBE,BIOMATERIAL  PHYSIOLOGY & BIO-MEMS LABORATORY(BSE412A),,SLOT-5-2 PRF / REGULAR,1-0-6-0(9),"ASHOK  KUMAR (I), Rakesh Majhi(O)","ashokkum@iitk.ac.in (I), rakesh@iitk.ac.in (O)",T (BSBE: MFCEM SR)  17:00-18:00,BSBE: MFCEM SR,,,MT 14:00-17:00,,Not Available
+48,BSBE,METHODS IN BIOTECHNOLOGY-I  EXPERIMENTAL BIOSEPERATION(BSE492),,DE-1 PRF / REGULAR,3-0-0-0(9),Sai Chiliveri(I),saichay@iitk.ac.in (I),M (BSBE: SEMINAR ROOM) Th (BSBE: SEMINAR ROOM)  09:00-10:15,BSBE: SEMINAR ROOM,,,,,Document
+49,BSBE,UNDER GRADUATE PROJECT I(BSE496),,SLOT-BLANK UGP-1 / REGULAR,0-0-0-0(9),DUGCBSBE (I),dugc_bsbe@iitk.ac.in (I),,,,,,,Not Available
+50,BSBE,UNDER GRADUATE PROJECT III(BSE498),,SLOT-BLANK UGP-3 / REGULAR,0-0-0-0(9),DUGCBSBE (I),dugc_bsbe@iitk.ac.in (I),,,,,,,Not Available
+51,BSBE,UG PROJECT (UGP-III)(BSE498A),,"SLOT-BLANK PRF,UGP-3 / REGULAR",0-0-9-0(9),DUGCBSBE (I),dugc_bsbe@iitk.ac.in (I),,,,,,,Not Available
+52,BSBE,PROFESSIONAL COMMUNICATION(BSE601),,PG-1 PRF / REGULAR,1-0-0-0(0),"Nitin  Mohan(I), Debanjan Dasgupta(O)","nitinm@iitk.ac.in (I), debanjand@iitk.ac.in (O)",M (BSBE: SEMINAR ROOM) F (BSBE: SEMINAR ROOM)  08:00-09:00,BSBE: SEMINAR ROOM,,,,,Document
+53,BSBE,MODERN INSTRUMENTAL METHODS IN BIOLOGICAL SCIENCES(BSE611),,"DE-3 DE,PRF,OE / REGULAR",3-0-0-0(9),"Nitin  Mohan(I), Dibyendu Kumar Das  (O)","nitinm@iitk.ac.in (I), dkdas@iitk.ac.in (O)",M (BSBE: SEMINAR ROOM) Th (BSBE: SEMINAR ROOM)  12:00-13:15,BSBE: SEMINAR ROOM,,,,,Document
+54,BSBE,BIOMATERIALS(BSE613),,"PG-10 DE,PRF,OE / REGULAR",3-0-0-0(11),Santosh Misra(I),skmisra@iitk.ac.in (I),T (DJAC: 205H) W (DJAC: 205H) Th (DJAC: 205H)  08:00-09:00,DJAC: 205H,,,,,Document
+55,BSBE,BIOCHEMISTRY STRUCTURAL BIOLOGY(BSE631),,"DE-8 DE,PRF,OE / REGULAR",3-0-0-0(9),RAMASUBBU   SANKARARAMAKRISHNAN(I),rsankar@iitk.ac.in (I),W (BSBE: SEMINAR ROOM) F (BSBE: SEMINAR ROOM)  12:00-13:15,BSBE: SEMINAR ROOM,,,,,Document
+56,BSBE,MICROBIOLOGY AND IMMUNOLOGY(BSE642),,"PG-9 DE,PRF,OE / REGULAR",3-0-0-0(9),SARAVANAN MATHESHWARAN(I),saran@iitk.ac.in (I),W (BSBE: SEMINAR ROOM) F (BSBE: SEMINAR ROOM)  17:00-18:30,BSBE: SEMINAR ROOM,,,,,Not Available
+57,BSBE,CELLULAR MOLECULAR BIOLOGY(BSE651),,PG-3 PRF / REGULAR,3-0-0-0(9),JAYANDHARAN GIRIDHARA RAO(I),jayrao@iitk.ac.in (I),M (BSBE: MFCEM SR) Th (BSBE: MFCEM SR)  10:30-12:00,BSBE: MFCEM SR,,,,,Document
+58,BSBE,PHYSIOLOGY(BSE655),,"PG-13 DE,PRF,OE / REGULAR",3-0-0-0(9),"JONAKI  SEN (I), BUSHRA  ATEEQ (O)","jonaki@iitk.ac.in (I), bushra@iitk.ac.in (O)",M (BSBE: SEMINAR ROOM) Th (BSBE: SEMINAR ROOM)  14:00-15:15,BSBE: SEMINAR ROOM,,,,,Document
+59,BSBE,NEUROBIOLOGY(BSE656),,"PG-6 DE,PRF,OE / REGULAR",3-0-0-0(9),NITIN GUPTA(I),guptan@iitk.ac.in (I),W (BSBE: MFCEM SR) F (BSBE: MFCEM SR)  10:30-12:00,BSBE: MFCEM SR,,,,,Not Available
+60,BSBE,STATISTICS FOR MODERN BIOLOGY(BSE658),,"PG-11 DE,PRF,OE / REGULAR",3-0-0-0(9),Arjun  Ramakrishnan(I),arjunr@iitk.ac.in (I),"T (BSBE: SEMINAR ROOM)  10:00-11:00 ,W (BSBE: SEMINAR ROOM) F (BSBE: SEMINAR ROOM)  15:00-16:00",BSBE: SEMINAR ROOM,,,,,Not Available
+61,BSBE,BIOLOGICAL MEMBRANES(BSE661),,"PG-5 DE,PRF,OE / REGULAR",3-0-0-0(9),Appu Singh(I),singhappu@iitk.ac.in (I),W (BSBE: SEMINAR ROOM) F (BSBE: SEMINAR ROOM)  09:00-10:15,BSBE: SEMINAR ROOM,,,,,Not Available
+62,BSBE,ADVANCED CELL BIOLOGY(BSE672),,PG-15 PRF / REGULAR,3-0-0-0(9),Suresh Kumar(I),sureshkr@iitk.ac.in (I),"T 14:00-15:30 ,Th 15:30-17:00",,,,,,Document
+63,BSBE,ELECTRONICS AND SIGNAL PROCESSING FOR BIOLOGISTS(BSE698X),,"PG-3 DE,PRF / REGULAR",3-0-0-0(9),Nikunj Bhagat(I),nbhagat@iitk.ac.in (I),M (BSBE: SEMINAR ROOM) Th (BSBE: SEMINAR ROOM)  10:30-12:00,BSBE: SEMINAR ROOM,,,,,Document
+64,BSBE,M.TECH THESIS(BSE699),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),"DPGCBSBE (I), DUGCBSBE (O)","dpgc_bsbe@iitk.ac.in (I), dugc_bsbe@iitk.ac.in (O)",,,,,,,Not Available
+65,BSBE,SEMINAR(BSE701),,SLOT-BLANK PRF / REGULAR,0-0-0-0(0),DPGCBSBE (I),dpgc_bsbe@iitk.ac.in (I),,,,,MT 16:00-17:00,,Not Available
+66,BSBE,SEMINAR(BSE702),,SLOT-BLANK PRF / REGULAR,0-0-0-0(0),DPGCBSBE (I),dpgc_bsbe@iitk.ac.in (I),,,,,MT 16:00-17:00,,Not Available
+67,BSBE,HEALTHCARE VENTURES & ENTERPRISES II(BSE798A),( BSE667  ),PG-11 PRF / REGULAR,1-0-6-0(9),AMITABHA BANDYOPADHYAY (I),abandopa@iitk.ac.in (I),M 18:00-19:00,,,,WTh 14:00-17:00,,Not Available
+68,BSBE,PHD THESIS(BSE799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCBSBE (I),dpgc_bsbe@iitk.ac.in (I),,,,,,,Not Available
+69,BSBE,PRINCIPLES OF BIOTECHNOLOGY(ESO206),,ESO-3 ESO/SO / REGULAR,3-0-0-0(9),"ASHWANI KUMAR  THAKUR (I), Shanu Jain(O)","akthakur@iitk.ac.in (I), shanuj@iitk.ac.in (O)",M (L07) W (L07) F (L07)  09:00-10:00,L07,,,,,Document
+70,BSBE,INTRODUCTION TO BIOLOGY(LIF111),,LIF111 IC / REGULAR,2-0-0-0(6),"PRADIP  SINHA (I), ARUN KUMAR SHUKLA(O)","pradips@iitk.ac.in (I), arshukla@iitk.ac.in (O)",W (L20) F (L20)  11:00-12:00,L20,,,,,Not Available
+71,CE,ENVIRONMENT AND SUSTAINABILITY(CE212),,CORE 8 SCHEME / REGULAR,3-0-0-0(9),"TARUN  GUPTA (I), PURNENDU  BOSE (O)","tarun@iitk.ac.in (I), pbose@iitk.ac.in (O)",M (L19) W (L19) Th (L19)  08:00-09:00,L19,,,,,Document
+72,CE,CIVIL ENGINEERING MATERIALS(CE243),,3-1 DC / REGULAR,2-0-2-0(8),"HARISH K V(I), SYAM NAIR(O)","kvharish@iitk.ac.in (I), syamnair@iitk.ac.in (O)",M (L17) W (L17)  12:00-13:00,L17,,,TThF 14:00-16:00,,Not Available
+73,CE,FLUID MECHANICS FOR CIVIL ENGINEERS(CE261),,OE-1 DC / REGULAR,3-0-1-0(10),"Chunendra Sahu(I), SHIVAM TRIPATHI(O)","cksahu@iitk.ac.in (I), shiva@iitk.ac.in (O)",M (L19) W (L19) F (L19)  17:00-18:00,L19,,,TTh 16:00-18:00,,Document
+74,CE,ENVIRONMENTAL QUALITY AND PROCESSES PRACTICAL(CE311),,PG-3a PRF / REGULAR,0-0-4-0(4),"Abhishek (I), MUKESH  SHARMA (O)","abhishekc@iitk.ac.in (I), mukesh@iitk.ac.in (O)",T (L01)  11:00-12:00,L01,,,MTTh 14:00-17:00,,Document
+75,CE,PRINCIPLES OF GEOINFORMATICS(CE331),,SLOT-4 DC / REGULAR,2-0-2-0(8),Salil Goel(I),sgoel@iitk.ac.in (I),W (L01) F (L01)  15:00-16:00,L01,,,M (WL235) T (WL235) Th (WL235)  15:00-17:00,WL235,Document
+76,CE,GEOINFORMATICS LAB(CE331P),( CE331T  ),SLOT-BLANK DC / REGULAR,0-0-2-0(2),Salil Goel(I),sgoel@iitk.ac.in (I),,,,,MTTh 15:00-17:00,,Not Available
+77,CE,CIVIL ENGINEERING COMMUNICATION SKILLS(CE341),,SLOT-72 DC / REGULAR,0-0-0-2(2),ABHAS SINGH(I),abhas@iitk.ac.in (I),T (L16)  18:00-19:00,L16,,,,,Document
+78,CE,FOUNDATION DESIGN(CE351),( CE252 OR CE351A  ),SLOT-1 DC / REGULAR,3-0-1-0(10),ARGHYA DAS(I),arghya@iitk.ac.in (I),T (L02) W (L02) Th (L02)  08:00-09:00,L02,,,MTTh 15:00-17:00,,Document
+79,CE,ENGINEERING HYDROLOGY(CE361),,3-1 PRF / REGULAR,2-0-0-0(6),Tushar Apurv(I),tusharap@iitk.ac.in (I),M (L02) W (L02)  12:00-13:00,L02,,,,,Document
+80,CE,DESIGN OF REINFORCED CONCRETE STRUCTURES(CE371),( ESO202  ),DE-1 PRF / REGULAR,3-0-0-0(9),SUPARNO MUKHOPADHYAY(I),suparno@iitk.ac.in (I),M (L10) Th (L10)  09:00-10:15,L10,,,,,Document
+81,CE,REINFORCED CEMENT CONCRETE DESIGN(CE372A),( CE242A AND ESO202A  ),DE-1 PRF / REGULAR,2-0-0-0(6),SUPARNO MUKHOPADHYAY(I),suparno@iitk.ac.in (I),MTh 09:00-10:15,,,,,,Not Available
+82,CE,INTRODUCTION TO TRANSPORTATION ENGINEERING(CE381),,SLOT-2 DC / REGULAR,3-0-0-0(9),"Venkatesan  Kanagaraj(I), Prabin Ashish(O)","venkatk@iitk.ac.in (I), pkashish@iitk.ac.in (O)","M (L02) F (L02)  08:00-09:00 ,T (L02)  09:00-10:00",L02,,,,,Not Available
+83,CE,CONSTRUCTION MANAGEMENT(CE441B),,"SLOT-3 PRF,DC / SECOND-HALF",3-0-0-0(5),SUDHIR MISRA(I),sud@iitk.ac.in (I),WThF 16:00-17:00,,,,,,Not Available
+84,CE,APPLICATION OF GEOTECHNICAL ENGINEERING(CE451),( CE252 OR CE351A AND CE352A OR CE351  ),DE-2-2 PRF / REGULAR,3-0-0-2(11),"Gaurav  Tiwari(I), RAJESH SATHIYAMOORTHY(O), NIHAR RANJAN  PATRA (O), Jagdish  Sahoo(O), ARGHYA DAS(O)","gauravt@iitk.ac.in (I), hsrajesh@iitk.ac.in (O), nrpatra@iitk.ac.in (O), jpsahoo@iitk.ac.in (O), arghya@iitk.ac.in (O)","M (L10) Th (L10)  10:30-12:00 ,T (L12)  17:15-18:00","L10 ,L12",,,,,Document
+85,CE,SPECIAL TOPICS IN STRUCTURAL DESIGN(CE471),,"PG-7A-1 DE,PRF,OE / REGULAR",3-0-0-2(11),DURGESH C  RAI (I),dcrai@iitk.ac.in (I),M (T103) Th (T103)  14:00-15:15,T103,,,,,Document
+86,CE,TRANSPORTATION FACILITIES DESIGN(CE481),( CE381 OR CE382A  ),"DE-1 DE,PRF,OE / REGULAR",3-0-0-2(11),"SYAM NAIR(I), Hemant Gehlot(O)","syamnair@iitk.ac.in (I), hemantg@iitk.ac.in (O)",M (L14) Th (L14)  09:00-10:15,L14,,,,,Document
+87,CE,UNDER GRADUATE RESEARCH -II(CE491A),,"SLOT-BLANK PRF,UGP-2 / REGULAR",0-0-0-0(9),DUGCCE (I),dugcce@iitk.ac.in (I),,,,,,,Not Available
+88,CE,UNDER GRADUATE RESEARCH -III(CE492A),( CE491A  ),"SLOT-BLANK PRF,UGP-3 / REGULAR",0-0-0-0(9),DUGCCE (I),dugcce@iitk.ac.in (I),,,,,,,Not Available
+89,CE,MATHEMATICS FOR CIVIL ENGINEERS(CE603),,"PG-1 DE,PRF,OE,Minor / REGULAR",2-0-0-0(5),Amar Nath Chowdhury(I),amarrc@iitk.ac.in (I),"M (T201)  08:00-09:00 ,T (T201)  09:00-10:00",T201,,,,,Document
+90,CE,NUMERICAL METHODS FOR CIVIL ENGINEERS(CE604),,"PG-15 DE,PRF,OE,Minor / REGULAR",2-0-0-0(5),SACHCHIDANAND  TRIPATHI (I),snt@iitk.ac.in (I),Th (L10)  15:30-17:00,L10,,,,,Document
+91,CE,PROBABILITY AND STATISTICS FOR CIVIL ENGINEERS(CE605),,"PG-7 DE,PRF,OE,Minor / REGULAR",2-0-0-0(5),MUKESH  SHARMA (I),mukesh@iitk.ac.in (I),T (L13)  17:00-18:30,L13,,,,,Not Available
+92,CE,OPTIMIZATION METHODS FOR CIVIL ENGINEERS(CE606M),( MTH101A OR MTH111M AND MTH112M AND MTH102A OR MTH113M OR MTH114M  ),"DE-4 DE,PRF,OE,Minor / FIRST-HALF",3-0-0-0(5),Hemant Gehlot(I),hemantg@iitk.ac.in (I),M (T208) Th (T208)  14:00-15:15,T208,,,,,Document
+93,CE,ADVANCED HYDROLOGY(CE610),,"PG-5 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),"RICHA  OJHA (I), SAUMYEN  GUHA (O)","richao@iitk.ac.in (I), sguha@iitk.ac.in (O)",W (WL226) F (WL226)  09:00-10:15,WL226,,,,,Document
+94,CE,ADVANCED HYDRAULICS(CE611),,"PG-6 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),RAJESH  SRIVASTAVA (I),rajeshs@iitk.ac.in (I),W (T101) F (T101)  10:30-12:00,T101,,,,,Document
+95,CE,STRUCTURAL DYNAMICS(CE620),,"DE-3 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),SUDIB KUMAR MISHRA(I),smishra@iitk.ac.in (I),M (T103) Th (T103)  12:00-13:15,T103,,,,,Not Available
+96,CE,ENGINEERING MECHANICS(CE621),,"PG-3 DE,PRF,OE,Minor / REGULAR",3-0-0-4(9),VINAY KUMAR  GUPTA (I),vinaykg@iitk.ac.in (I),M (T203) Th (T203)  10:30-12:00,T203,,,,,Not Available
+97,CE,ADVANCED GEOTECHNICAL ENGINEERING(CE631),,"PG-4 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Bipin  Gupta(I),bkgupta@iitk.ac.in (I),M (T209) Th (T209)  12:00-13:15,T209,,,,,Document
+98,CE,REINFORCED EARTH STRUCTURES(CE633),,"DE-1 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Jagdish  Sahoo(I),jpsahoo@iitk.ac.in (I),M (T209) Th (T209)  09:00-10:15,T209,,,,,Document
+99,CE,GEOTECHNICAL MEASUREMENTS AND EXPLORATION(CE638),,"PG-5 DE,PRF,OE,Minor / REGULAR",2-0-3-0(9),NIHAR RANJAN  PATRA (I),nrpatra@iitk.ac.in (I),W (WL228) F (WL228)  09:00-10:15,WL228,,,WF 14:00-16:50,,Not Available
+100,CE,INFRASTRUCTURE ASSET MANAGEMENT(CE640),,"OE-2 DE,PRF,OE,Minor / REGULAR",2-0-0-0(6),"SUDHIR MISRA(I), Chirag Kothari(O)","sud@iitk.ac.in (I), ckothari@iitk.ac.in (O)",W (L15) F (L15)  09:00-10:00,L15,,,,,Document
+101,CE,QUALITY AND SAFETY IN CONSTRUCTION(CE645M),,"DE-2 DE,PRF,OE,Minor / FIRST-HALF",3-0-0-0(5),Srinivas Mantrala(I),smantrala@iitk.ac.in (I),M (T210) Th (T210)  10:30-12:00,T210,,,,,Document
+102,CE,PHYSICO-CHEMICAL PRINCIPLES AND PROCESS(CE664),,"PG-4 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Abhijith G R(I),abhijith@iitk.ac.in (I),M (L03) Th (L03)  12:00-13:15,L03,,,,,Document
+103,CE,ECOLOGICAL AND BIOLOGICAL PRINCIPLES AND PROCESS(CE665),,"PG-5 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Manoj Tiwari(I),mktiwari@iitk.ac.in (I),W (T203) F (T203)  09:00-10:15,T203,,,,,Document
+104,CE,AIR POLLUTION AND ITS CONTROL(CE666),,"OE-3 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),ANUBHA  GOEL (I),anubha@iitk.ac.in (I),W (L13) F (L13)  10:30-12:00,L13,,,,,Not Available
+105,CE,INTRODUCTION TO REMOTE SENSING(CE671),,"DE-3 DE,PRF,OE,Minor / REGULAR",3-0-2-0(11),BHARAT  LOHANI     (I),blohani@iitk.ac.in (I),M (T212) Th (T212)  12:00-13:15,T212,,,F 14:00-16:00,,Document
+106,CE,PHYSICAL GEODESY(CE678),,"PG-9 DE,PRF,OE,Minor / REGULAR",3-0-2-0(11),Balaji Devaraju(I),dbalaji@iitk.ac.in (I),WF 17:00-18:30,,,,W 14:00-16:00,,Not Available
+107,CE,TRAFFIC ENGINEERING(CE683),,PG-3 PRF / REGULAR,3-0-0-0(9),PARTHA  CHAKROBORTY (I),partha@iitk.ac.in (I),M (WL226) Th (WL226)  10:30-12:00,WL226,,,,,Not Available
+108,CE,M TECH SEMINAR I(CE697),,SLOT-BLANK PRF / REGULAR,0-0-0-0(0),DPGCCE (I),dpgcce@iitk.ac.in (I),,,,,,,Not Available
+109,CE,M. TECH THESIS(CE699),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),"DPGCCE (I), DUGCCE (O)","dpgcce@iitk.ac.in (I), dugcce@iitk.ac.in (O)",,,,,,,Not Available
+110,CE,CONSTRUCTION EQUIPMENT AND METHODS FOR BRIDGES(CE713M),,"DE-6 DE,PRF,OE,Minor / FIRST-HALF",3-0-0-0(5),Srinivas Mantrala(I),smantrala@iitk.ac.in (I),W (T204) F (T204)  15:30-17:00,T204,,,,,Document
+111,CE,CONTRACT MANAGEMENT(CE715M),,DE-2 PRF / SECOND-HALF,3-0-0-0(5),Srinivas Mantrala(I),smantrala@iitk.ac.in (I),MTh 10:30-12:00,,,,,,Not Available
+112,CE,PROJECT MANAGEMENT AND CONTROL(CE716),,DE-1 PRF / REGULAR,3-0-0-0(9),Chirag Kothari(I),ckothari@iitk.ac.in (I),M (WL228) Th (WL228)  09:00-10:15,WL228,,,,,Document
+113,CE,FINITE ELEMENT METHODS FOR CIVIL ENGINEERING APPLICATIONS(CE723),,"PG-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),SAMIT  RAY CHAUDHURI (I),samitrc@iitk.ac.in (I),M (T212) Th (T212)  09:00-10:15,T212,,,,,Document
+114,CE,UNSATURATED SOIL MECHANICS(CE732),,"PG-6 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),RAJESH SATHIYAMOORTHY(I),hsrajesh@iitk.ac.in (I),W (T112) F (T112)  10:30-12:00,T112,,,,,Document
+115,CE,FLOOD MODELLING(CE736),,"DE-3 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Gourabananda Pahar(I),gpahar@iitk.ac.in (I),M (T211) Th (T211)  12:00-13:15,T211,,,,,Document
+116,CE,HYDROMETRY(CE738),,"DE-2 DE,PRF,OE,Minor / REGULAR",2-0-3-0(9),SHIVAM TRIPATHI(I),shiva@iitk.ac.in (I),M (T112) Th (T112)  10:30-12:00,T112,,,WF 14:00-17:00,,Document
+117,CE,SURFACE WATER QUALITY MODELING(CE760M),,"DE-1 DE,PRF,OE,Minor / SECOND-HALF",3-0-0-0(5),Abhijith G R(I),abhijith@iitk.ac.in (I),MTh 09:00-10:15,,,,,,Not Available
+118,CE,ATMOSPHERIC MODELING(CE762M),,"DE-2 DE,PRF,OE,Minor / SECOND-HALF",3-0-0-0(5),SACHCHIDANAND  TRIPATHI (I),snt@iitk.ac.in (I),MTh 10:30-12:00,,,,,,Not Available
+119,CE,ADJUSTMENT COMPUTATIONS FOR GEOINFORMATICS-I(CE770),,"DE-8 DE,PRF,OE,Minor / REGULAR",2-0-1-0(6),ONKAR  DIKSHIT   (I),onkar@iitk.ac.in (I),W (T209) F (T209)  12:00-13:15,T209,,,WF 16:00-17:00,,Not Available
+120,CE,REFERENCE FRAMES  COORDINATE SYSTEMS AND MAP PROJECTIONS(CE772M),,"DE-2 DE,PRF,OE,Minor / FIRST-HALF",3-0-1-0(6),NAGARAJAN BALASUBRAMANIAN(I),nagaraj@iitk.ac.in (I),M (T212) Th (T212)  10:30-12:00,T212,,,M 14:00-16:50,,Document
+121,CE,GEODETIC ASTRONOMY AND INTRODUCTION TO SATELLITE GEODESY(CE773M),,"DE-2 DE,PRF,OE,Minor / SECOND-HALF",3-0-1-0(6),NAGARAJAN BALASUBRAMANIAN(I),nagaraj@iitk.ac.in (I),MTh 10:30-12:00,,,,M 14:00-16:50,,Not Available
+122,CE,MACHINE LEARNING AND DATA ANALYTICS FOR CIVIL ENGINEERING APPLICATIONS(CE784),,"DE-2 DE,PRF,OE,Minor / REGULAR",3-0-0-2(11),Pranamesh Chakraborty(I),pranames@iitk.ac.in (I),M (T211) Th (T211)  10:30-12:00,T211,,,,,Document
+123,CE,ANALYSIS AND DESIGN OF BITUMINOUS PAVEMENTS(CE786),,"PG-5 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),ANIMESH DAS (I),adas@iitk.ac.in (I),W (T201) F (T201)  09:00-10:15,T201,,,,,Document
+124,CE,COMPUTATIONAL TOOLS FOR TRANSPORTATION ENGINEERING(CE787),,"DE-5 DE,PRF,OE,Minor / REGULAR",3-0-2-0(11),"Aditya Medury(I), Venkatesan  Kanagaraj(O)","amedury@iitk.ac.in (I), venkatk@iitk.ac.in (O)","T (T205)  14:00-15:15 ,M (T205)  15:30-17:00",T205,,,F 14:00-16:50,,Document
+125,CE,LITERATURE SEARCH AND REVIEW(CE791),,"SLOT-BLANK DE,PRF,OE,Minor / REGULAR",0-0-0-0(5),DPGCCE (I),dpgcce@iitk.ac.in (I),,,,,,,Not Available
+126,CE,SCIENTIFIC WRITING SKILLS(CE792),,"SLOT-BLANK DE,PRF,OE,Minor / REGULAR",0-0-0-0(5),DPGCCE (I),dpgcce@iitk.ac.in (I),,,,,,,Not Available
+127,CE,SCIENTIFIC PRASENTATION SKILLS(CE793),,"SLOT-BLANK DE,PRF,OE,Minor / REGULAR",0-0-0-0(5),DPGCCE (I),dpgcce@iitk.ac.in (I),,,,,,,Not Available
+128,CE,SCIENTIFIC DATA ANALYSIS PRESENTATION AND INTERPRETATION(CE794),,"SLOT-BLANK DE,PRF,OE,Minor / REGULAR",0-0-0-0(5),DPGCCE (I),dpgcce@iitk.ac.in (I),,,,,,,Not Available
+129,CE,PHD SEMINAR I(CE797),,"SLOT-BLANK DE,PRF,OE,Minor / REGULAR",0-0-0-0(0),"Tushar Apurv(I), RICHA  OJHA (O)","tusharap@iitk.ac.in (I), richao@iitk.ac.in (O)",,,,,,,Not Available
+130,CE,PHD SEMINAR II(CE798),,"SLOT-BLANK DE,PRF,OE,Minor / REGULAR",0-0-0-0(0),"Tushar Apurv(I), RICHA  OJHA (O)","tusharap@iitk.ac.in (I), richao@iitk.ac.in (O)",,,,,,,Not Available
+131,CE,PHD THESIS(CE799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCCE (I),dpgcce@iitk.ac.in (I),,,,,,,Not Available
+132,CE,MS RESEARCH SEMINAR I(CE897),,"SLOT-BLANK DE,PRF,OE,Minor / REGULAR",0-0-0-0(0),DPGCCE (I),dpgcce@iitk.ac.in (I),,,,,,,Not Available
+133,CE,MS - RESEARCH THESIS(CE899),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCCE (I),dpgcce@iitk.ac.in (I),,,,,,,Not Available
+134,CE,MECHANICS OF SOLIDS(ESO202),,ESO-1 ESO/SO / REGULAR,3-1-0-1(11),Chinmoy Kolay(I),ckolay@iitk.ac.in (I),M (L17) Th (L17) F (L17)  10:00-11:00,L17,W (L14) W (L05) W (L04) W (T108) W (T107) W (T106) W (T105) W (T104) W (T103)  10:00-11:00,"T103 ,T104 ,T105 ,T106 ,T107 ,T108 ,L04 ,L05 ,L14",,,Document
+135,CE,COMPUTATIONAL METHODS IN ENGINEERING(ESO208),,ESO-2 ESO/SO / REGULAR,3-1-0-0(11),Balaji Devaraju(I),dbalaji@iitk.ac.in (I),M (L19) Th (L19) F (L19)  11:00-12:00,L19,W (T107) W (T106) W (T105) W (T104) W (T103)  11:00-12:00,"T103 ,T104 ,T105 ,T106 ,T107",,,Not Available
+136,CGS,INTRODUCTION TO COGNITIVE SCIENCE(CGS401),,"PG-5 OE,Minor / REGULAR",3-0-0-0(9),DEVPRIYA KUMAR(I),devpriya@iitk.ac.in (I),W (L12) F (L12)  09:00-10:15,L12,,,,,Not Available
+137,CGS,COMPUTATIONAL TOOLS FOR COGNITIVE SCIENCE(CGS600),,"PG-6 PRF,OE,DC,Minor / REGULAR",3-0-2-0(11),Himanshu Yadav(I),himanshu@iitk.ac.in (I),W (CGS: ESB2(518)) F (CGS: ESB2(518))  10:30-12:00,CGS: ESB2(518),,,,,Document
+138,CGS,FOUNDATIONS OF COGNITIVE SCIENCE(CGS601),,"PG-13 PRF,OE,Minor / REGULAR",3-0-0-0(9),ARK VERMA(I),arkverma@iitk.ac.in (I),M (CGS: ESB2(518)) Th (CGS: ESB2(518))  14:00-15:15,CGS: ESB2(518),,,,,Document
+139,CGS,BASIC STATISTICS DATA ANALYSIS & INFERENCE(CGS602),,"PG-9 PRF,OE,Minor / REGULAR",3-0-2-0(11),Sharika KM(I),sharika@iitk.ac.in (I),W (CGS: ESB2(518)) F (CGS: ESB2(518))  17:00-18:30,CGS: ESB2(518),,,,,Document
+140,CGS,EXPERIMENT DESIGN AND ANALYSIS(CGS610M),,"PG-8 PRF,OE,Minor / FIRST-HALF",3-0-0-0(5),ARK VERMA(I),arkverma@iitk.ac.in (I),"T (CGS: ESB2(518)) F (CGS: ESB2(518))  12:00-13:00 ,W (CGS: ESB2(518))  14:00-15:00",CGS: ESB2(518),,,,,Document
+141,CGS,BASICS OF PSYCHOPHYSICS(CGS611M),,"PG-11 PRF,OE,Minor / SECOND-HALF",3-0-0-0(5),DEVPRIYA KUMAR(I),devpriya@iitk.ac.in (I),"T (CGS: ESB2(518))  10:00-11:00 ,W (CGS: ESB2(518))  15:00-16:00 ,M (CGS: ESB2(518))  17:00-18:00",CGS: ESB2(518),,,,,Not Available
+142,CGS,COGNITIVE UNDERPINNINGS OF LEARNING AND TECHNOLOGY(CGS614),( CGS401 OR CGS401A OR CGS601  ),PG-6 PRF / REGULAR,3-0-0-0(9),Anveshna Srivastava(I),anveshna@iitk.ac.in (I),WF 10:30-12:00,,,,,,Document
+143,CGS,TOPICS IN TRANSLATIONAL NEUROSCIENCE(CGS641),,"PG-15 PRF,OE,Minor / REGULAR",3-0-0-0(9),Pragathi Balasubramani(I),pbalasub@iitk.ac.in (I),T (CGS: ESB2(518)) Th (CGS: ESB2(518))  15:30-17:00,CGS: ESB2(518),,,,,Not Available
+144,CGS,CONSCIOUSNESS(CGS652),,"PG-3 PRF,OE,Minor / REGULAR",3-0-0-0(9),Narayanan Srinivasan(I),nsrini@iitk.ac.in (I),M (CGS: ESB2(518)) Th (CGS: ESB2(518))  10:30-12:00,CGS: ESB2(518),,,,,Document
+145,CGS,PROJECT(CGS702),,"PG-1 PRF,OE,DC,Minor / REGULAR",3-0-0-0(9),ARK VERMA(I),arkverma@iitk.ac.in (I),"M (CGS: ESB2(518)) F (CGS: ESB2(518))  08:00-09:00 ,T (CGS: ESB2(518))  09:00-10:00",CGS: ESB2(518),,,,,Not Available
+146,CGS,PHD THESIS(CGS799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCCGS (I),dpgc_cgs@iitk.ac.in (I),,,,,,,Not Available
+147,CGS,SEMINAR ON COGNITIVE SCIENCE(CGS801),,"PG-1 PRF,OE,Minor / REGULAR",0-0-0-0(0),ARK VERMA(I),arkverma@iitk.ac.in (I),"M (T111) F (T111)  08:00-09:00 ,T (T111)  09:00-10:00 ,W (T111)  14:00-15:00",T111,,,,,Not Available
+148,CGS,MS - RESEARCH THESIS(CGS899),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCCGS (I),dpgc_cgs@iitk.ac.in (I),,,,,,,Not Available
+149,CHE,INTRODUCTION TO CHEMICAL ENGINEERING(CHE201),,SLOT-71 DC / REGULAR,1-0-0-0(3),SIDDHARTHA  PANDA (I),spanda@iitk.ac.in (I),T (L01)  10:00-11:00,L01,,,,,Document
+150,CHE,INTRODUCTION TO CHE + PROCESS CALCULATION(CHE251),,3-1 DC / REGULAR,3-0-3-0(12),"SRI  SIVAKUMAR (I), Harshwardhan  Katkar(O)","srisiva@iitk.ac.in (I), hkatkar@iitk.ac.in (O)",M (L04) W (L04) F (L04)  12:00-13:00,L04,,,MW 14:00-17:00,,Document
+151,CHE,TRANSPORT PHENOMENA: FUNDAMENTALS AND APPLICATIONS(CHE311),,SLOT-2 PRF / REGULAR,3-0-3-0(12),"VISWANATHAN  SHANKAR (I), K P Krishnaraj(O)","vshankar@iitk.ac.in (I), krishnaraj@iitk.ac.in (O)","M (L05) F (L05)  08:00-09:00 ,T (L05)  09:00-10:00",L05,,,MTWThF 14:00-17:00,,Document
+152,CHE,CHEMICAL REACTION ENGINEERING(CHE331),,3-1-2 PRF / REGULAR,3-0-3-0(12),"NISHITH  KUMAR VERMA(I), RAJ GANESH S  PALA (O)","nishith@iitk.ac.in (I), rpala@iitk.ac.in (O)",T (L01) W (L01) F (L01)  12:00-13:00,L01,,,M (L01) TWThF 14:00-17:00,L01,Not Available
+153,CHE,UG PROJECT (UGP-I)(CHE349A),,"SLOT-BLANK PRF,UGP-1 / REGULAR",0-0-0-4(4),DUGCCHE (I),dugc_che@iitk.ac.in (I),,,,,,,Not Available
+154,CHE,PROCESS DYNAMICS AND CONTROL(CHE381),,ESO-2 PRF / REGULAR,3-0-3-0(12),Ishan Bajaj(I),ibajaj@iitk.ac.in (I),M (L03) W (L03) Th (L03)  11:00-12:00,L03,,,MTWThF 14:00-17:00,,Document
+155,CHE,UG PROJECT II(CHE398A),,"SLOT-BLANK PRF,UGP-2 / REGULAR",0-0-9-0(9),DUGCCHE (I),dugc_che@iitk.ac.in (I),,,,,,,Not Available
+156,CHE,CHEMICAL ENGINEERING DESIGN(CHE453A),,"SLOT-1 PRF,DC / REGULAR",3-0-2-0(11),Dipin Pillai(I),dipinsp@iitk.ac.in (I),T (L03) W (L03) Th (L03)  08:00-09:00,L03,,,MT 14:00-17:00,,Document
+157,CHE,UNIT OPERATIONS AND PROCESS CONTROL LABORATORY(CHE492A),( CHE312A AND CHE313A AND CHE331A AND CHE381A  ),"SLOT-4 PRF,DC / REGULAR",1-0-3-2(8),"Soumik Das(I), RAJU KUMAR GUPTA(O), Himanshu   Sharma(O)","dsoumik@iitk.ac.in (I), guptark@iitk.ac.in (O), sharmah@iitk.ac.in (O)",W (L02)  15:00-16:00,L02,,,MTF 14:00-17:00,,Document
+158,CHE,UNDER GRADUATE PROJECT I(CHE496),,SLOT-BLANK PRF / REGULAR,0-0-0-0(9),DUGCCHE (I),dugc_che@iitk.ac.in (I),,,,,,,Not Available
+159,CHE,UNDER GRADUATE PROJECT II(CHE497),,SLOT-BLANK DE / REGULAR,0-0-0-0(9),DUGCCHE (I),dugc_che@iitk.ac.in (I),,,,,,,Not Available
+160,CHE,UNDER GRADUATE PROJECT-III(CHE497A),,"SLOT-BLANK PRF,UGP-3 / REGULAR",0-0-0-0(9),DUGCCHE (I),dugc_che@iitk.ac.in (I),,,,,,,Not Available
+161,CHE,UNDER GRADUATE PROJECT IV(CHE498A),,"SLOT-BLANK PRF,UGP-4 / REGULAR",0-0-9-0(9),DUGCCHE (I),dugc_che@iitk.ac.in (I),,,,,,,Not Available
+162,CHE,TRANSPORT PHENOMENA(CHE611),,"PG-6 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Akash Choudhary(I),achoudhary@iitk.ac.in (I),W (L11) F (L11)  10:30-12:00,L11,,,,,Document
+163,CHE,THE STRUCTURE & RHEOLOGY OF COMPLEX FLUIDS(CHE613),,"DE-1 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),YOGESH MORESHWAR  JOSHI (I),joshi@iitk.ac.in (I),"M (L05) Th (L05)  09:00-10:15 ,F (L05)  14:00-15:00",L05,,,,,Not Available
+164,CHE,INTRODUCTION TO GRANULAR MECHANICS(CHE616),,"DE-8 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),ANURAG TRIPATHI(I),anuragt@iitk.ac.in (I),W (T210) F (T210)  12:00-13:15,T210,,,,,Document
+165,CHE,THERMODYNAMICS(CHE621),,"PG-4 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),ANIMANGSU GHATAK (I),aghatak@iitk.ac.in (I),M (T109) Th (T109)  12:00-13:15,T109,,,,,Document
+166,CHE,CHEMICAL REACTION ENGINEERING(CHE631),,"OE-1 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Vishal  Agarwal (I),vagarwal@iitk.ac.in (I),M (T212) W (T212) F (T212)  17:00-18:00,T212,,,,,Document
+167,CHE,PRINCIPLES OF HETEROGENEOUS CATALYSIS(CHE633),( CHE331  ),"PG-11 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),GOUTAM  DEO (I),goutam@iitk.ac.in (I),"T (WL226)  10:00-11:00 ,W (WL226) F (WL226)  15:00-16:00 ,M (WL226)  17:00-18:00",WL226,,,,,Document
+168,CHE,MATHEMATICAL METHODS IN CHEMICAL ENGINEERING(CHE641),,"DE-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),SANJEEV GARG (I),sgarg@iitk.ac.in (I),M (L13) Th (L13)  10:30-12:00,L13,,,,,Document
+169,CHE,MESOSCALE AND CONTINUUM SIMULATIONS IN CHEMICAL ENGINEERING(CHE643),,"PG-15 DE,PRF,OE,Minor / REGULAR",1-0-6-0(9),"INDRANIL SAHA DALAL(I), Harshwardhan  Katkar(O)","indrasd@iitk.ac.in (I), hkatkar@iitk.ac.in (O)",T (T111) Th (T111)  15:30-17:00,T111,,,,,Document
+170,CHE,PROCESS ENGG. PRINCIPLES IN MICRO. FABRICATION(CHE659),,"DE-1 DE,PRF,Minor / REGULAR",3-0-0-0(9),SIDDHARTHA  PANDA (I),spanda@iitk.ac.in (I),"M (L12) Th (L12)  09:00-10:15 ,F (L12)  14:00-15:00",L12,,,,,Document
+171,CHE,ELECTROCHEMICAL ENERGY CONVERSION AND STORAGE(CHE664),,"OE-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),RAJ GANESH S  PALA (I),rpala@iitk.ac.in (I),W (T211) F (T211)  09:00-10:15,T211,,,,,Not Available
+172,CHE,SPECIAL TOPICS(CHE679),,"OE-2 DE,PRF,OE / REGULAR",3-0-0-0(9),Raghavendra Ragipani(I),ragipani@iitk.ac.in (I),W (T212) F (T212)  09:00-10:15,T212,,,,,Document
+173,CHE,AN INTRODUCTION TO SYSTEMS BIOLOGY(CHE684),,"OE-8 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),RAGHVENDRA  SINGH (I),raghvend@iitk.ac.in (I),W (WL235) F (WL235)  12:00-13:15,WL235,,,,,Document
+174,CHE,M TECH THESIS(CHE699),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),"DPGCCHE (I), DUGCCHE (O)","dpgc_che@iitk.ac.in (I), dugc_che@iitk.ac.in (O)",,,,,,,Not Available
+175,CHE,DEEP LEARNING FOR CHEMICAL ENGINEERING(CHE798B),,PG-10 PRF / REGULAR,3-0-0-0(9),INDRANIL SAHA DALAL(I),indrasd@iitk.ac.in (I),T (WL237) W (WL237) Th (WL237)  08:00-09:00,WL237,,,,,Document
+176,CHE,PHD THESIS(CHE799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCCHE (I),dpgc_che@iitk.ac.in (I),,,,,,,Not Available
+177,CHE,GRADUATE SEMINAR(CHE801),,"PG-12 DE,PRF,OE,Minor / REGULAR",0-0-0-0(0),RAJU KUMAR GUPTA(I),guptark@iitk.ac.in (I),T (T205)  11:00-12:00,T205,,,,,Document
+178,CHE,MS - RESEARCH THESIS(CHE899),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCCHE (I),dpgc_che@iitk.ac.in (I),,,,,,,Not Available
+179,CHE,THERMODYNAMICS(ESO201),,ESO-1 ESO/SO / REGULAR,3-1-0-1(11),PANKAJ  A  APTE (I),papte@iitk.ac.in (I),M (L20) W (L20) F (L20)  10:00-11:00,L20,Th (T102) Th (T101) Th (T110) Th (T109) Th (T108) Th (T107) Th (T106) Th (T105) Th (T104) Th (T103)  10:00-11:00,"T103 ,T104 ,T105 ,T106 ,T107 ,T108 ,T109 ,T110 ,T101 ,T102",,,Document
+180,CHM,GENERAL CHEMISTRY(CHM102A) /A,,CHM112 (1) IC / REGULAR,2-1-0-0(8),"Nagma Parveen(I), Venkata Mothika(O), Ritika  Gautam(O), Mainak  Sadhukhan(O)","nagma@iitk.ac.in (I), smothika@iitk.ac.in (O), rgautam@iitk.ac.in (O), mainaks@iitk.ac.in (O)",M (T212) W (T212)  14:00-15:00,T212,F (T212)  15:00-16:00,T212,,,Document
+181,CHM,GENERAL CHEMISTRY(CHM102A) /B,,CHM112 (2) IC / REGULAR,2-1-0-0(8),"Nagma Parveen(I), Venkata Mothika(O), Ritika  Gautam(O), Mainak  Sadhukhan(O)","nagma@iitk.ac.in (I), smothika@iitk.ac.in (O), rgautam@iitk.ac.in (O), mainaks@iitk.ac.in (O)",TTh 15:00-16:00,,F 15:00-16:00,,,,Not Available
+182,CHM,CHEMISTRY LABORATORY(CHM111) /C,,SLOT-BLANK IC / REGULAR,0-0-3-0(3),"Vishal  (I), Dharmaraja Allimuthu(O), Apparao Draksharapu(O)","vgrao@iitk.ac.in (I), atdharma@iitk.ac.in (O), appud@iitk.ac.in (O)",,,,,MTWTh 14:00-16:45,,Document
+183,CHM,CHEMISTRY LABORATORY(CHM111) /D,,SLOT-BLANK IC / REGULAR,0-0-3-0(3),"Vishal  (I), Dharmaraja Allimuthu(O), Apparao Draksharapu(O)","vgrao@iitk.ac.in (I), atdharma@iitk.ac.in (O), appud@iitk.ac.in (O)",,,,,MTWTh 14:00-17:00,,Not Available
+184,CHM,GENERAL CHEMISTRY: PHYSICAL CHEMISTRY(CHM112M) /A,,CHM112 (1) IC / FIRST-HALF,2-1-0-0(4),"Nagma Parveen(I), Mainak  Sadhukhan(O)","nagma@iitk.ac.in (I), mainaks@iitk.ac.in (O)",M (L19) W (L19)  14:00-15:00,L19,F (L16) F (L06) F (L02)  15:00-16:00,"L02 ,L06 ,L16",,,Document
+185,CHM,GENERAL CHEMISTRY: PHYSICAL CHEMISTRY(CHM112M) /B,,CHM112 (2) IC / FIRST-HALF,2-1-0-0(4),"Nagma Parveen(I), Mainak  Sadhukhan(O)","nagma@iitk.ac.in (I), mainaks@iitk.ac.in (O)",T (L19) Th (L19)  15:00-16:00,L19,F (L12) F (L11) F (L10)  15:00-16:00,"L10 ,L11 ,L12",,,Not Available
+186,CHM,GENERAL CHEMISTRY: INORGANIC & ORGANIC CHEMISTRY(CHM113M) /A,,CHM112 (1) IC / SECOND-HALF,2-1-0-0(4),"Ritika  Gautam(I), Venkata Mothika(O)","rgautam@iitk.ac.in (I), smothika@iitk.ac.in (O)",MW 14:00-15:00,,F 15:00-16:00,,,,Not Available
+187,CHM,GENERAL CHEMISTRY: INORGANIC & ORGANIC CHEMISTRY(CHM113M) /B,,CHM112 (2) IC / SECOND-HALF,2-1-0-0(4),"Ritika  Gautam(I), Venkata Mothika(O)","rgautam@iitk.ac.in (I), smothika@iitk.ac.in (O)",TTh 15:00-16:00,,F 15:00-16:00,,,,Not Available
+188,CHM,BASIC ORGANIC CHEMISTRY-I(CHM201),,3-1 DC / REGULAR,3-0-0-0(9),Ramkrishna Sarkar(I),ramkrishna@iitk.ac.in (I),M (WL228) W (WL228) F (WL228)  12:00-13:00,WL228,,,,,Document
+189,CHM,BAISC PHYSICAL CHEMISTRY I(CHM221),,ESO/SO-3 DC / REGULAR,3-0-0-0(9),THIRUVANCHERIL G GOPAKUMAR(I),gopan@iitk.ac.in (I),M (L14) W (L14) F (L14)  11:00-12:00,L14,,,,,Document
+190,CHM,BASIC INORGANIC CHEMISTRY - I(CHM241),,OE-1-1 DC / REGULAR,3-0-0-0(9),Anantharaj Sengeni(I),ananths@iitk.ac.in (I),M (L16) W (L16) Th (L16)  17:00-18:00,L16,,,,,Document
+191,CHM,ORGANIC CHEMISTRY I(CHM303),,SLOT-2 PRF / REGULAR,3-0-0-0(9),MANAS KUMAR  GHORAI (I),mkghorai@iitk.ac.in (I),"M (L15) F (L15)  08:00-09:00 ,T (L15)  09:00-10:00",L15,,,,,Not Available
+192,CHM,ORGANIC QUALITATIVE & QUANTITATIVE ANALYSIS(CHM305),,SLOT-BLANK DC / REGULAR,0-0-6-0(6),RAMESH  RAMAPANICKER (I),rameshr@iitk.ac.in (I),,,,,WTh 14:00-17:00,,Document
+193,CHM,PHYSICAL CHEMISTRY I(CHM321),,CORE 10 PRF / REGULAR,3-0-0-0(9),Devendra Mani(I),dmani@iitk.ac.in (I),M (L08) W (L08) F (L08)  10:00-11:00,L08,,,,,Document
+194,CHM,INORGANIC CHEMISTRY I(CHM345),,OE-1 DC / REGULAR,3-0-0-0(9),Prakash Mondal(I),pcmondal@iitk.ac.in (I),M (T201) W (T201) F (T201)  17:00-18:00,T201,,,,,Document
+195,CHM,CHEMISTRY COMMUNICATION SKILLS(CHM361),,SLOT-72 DC / REGULAR,2-0-0-0(6),"R  GURUNATH (I), BASKER SUNDARARAJU(O)","gurunath@iitk.ac.in (I), basker@iitk.ac.in (O)","T (L07)  10:00-12:00 ,F (L07)  15:00-17:00",L07,,,,,Document
+196,CHM,CHEMISTRY COMMUNICATION SKILLS(CHM361A),,SLOT-72 DC / REGULAR,0-0-2-0(2),"R  GURUNATH (I), BASKER SUNDARARAJU(O)","gurunath@iitk.ac.in (I), basker@iitk.ac.in (O)","T 10:00-12:00 ,F 15:00-17:00",,,,,,Document
+197,CHM,UNDER GRADUATE PROJECT-I(CHM391),,SLOT-BLANK UGP-1 / REGULAR,0-0-0-0(4),DUGCCHM (I),dugc_chm@iitk.ac.in (I),,,,,,,Not Available
+198,CHM,ORGANIC CHEMISTRY I(CHM401),,SLOT-2 PRF / REGULAR,3-0-0-0(9),MANAS KUMAR  GHORAI (I),mkghorai@iitk.ac.in (I),"M (L15) F (L15)  08:00-09:00 ,T (L15)  09:00-10:00",L15,,,,,Not Available
+199,CHM,PHYSICAL CHEMISTRY LAB(CHM423),,SLOT-BLANK DC / REGULAR,0-0-6-0(6),MANABENDRA CHANDRA(I),mchandra@iitk.ac.in (I),,,,,WTh 14:00-17:00,,Document
+200,CHM,PHYSICAL CHEMISTRY LABORATORY(CHM423A),,"SLOT-BLANK PRF,DC / REGULAR",0-0-6-0(6),PRATIK  SEN (I),psen@iitk.ac.in (I),,,,,MT 14:00-17:00,,Document
+201,CHM,UNDER GRADUATE PROJECT-III(CHM491A),,"SLOT-BLANK PRF,UGP-3 / REGULAR",0-0-0-0(9),DUGCCHM (I),dugc_chm@iitk.ac.in (I),,,,,,,Not Available
+202,CHM,ORGANIC PREPARATION LAB(CHM503),,SLOT-BLANK DC / REGULAR,0-0-6-0(6),ANAND SINGH(I),anands@iitk.ac.in (I),,,,,MT 14:00-17:00,,Document
+203,CHM,MATHEMATICS FOR CHEMISTRY(CHM521),,DE-3 DC / REGULAR,2-0-0-0(6),Arnab  Ghosh(I),arnab@iitk.ac.in (I),M (L15) Th (L15)  12:00-13:15,L15,,,,,Document
+204,CHM,MATHEMATICS FOR CHEMISTRY(CHM600),,"DE-3 DE,PRF,OE / REGULAR",3-0-0-0(9),Arnab  Ghosh(I),arnab@iitk.ac.in (I),M (L15) Th (L15)  12:00-13:15,L15,,,,,Document
+205,CHM,ADVANCED ORGANIC CHEMISTRY II(CHM602),,"PG-4 DE,PRF,OE / REGULAR",3-0-0-0(9),Srinivas Dharavath(I),srinivasd@iitk.ac.in (I),M (CHM: FB434) Th (CHM: FB434)  12:00-13:15,CHM: FB434,,,,,Document
+206,CHM,PRINCIPLES OF ORGANIC CHEMISTRY(CHM609),,PG-2 PRF / REGULAR,3-0-0-0(9),Parthasarathi Subramanian(I),parthas@iitk.ac.in (I),M (CHM: FB434) Th (CHM: FB434)  09:00-10:15,CHM: FB434,,,,,Document
+207,CHM,PHYSICAL ORGANIC CHEMISTRY(CHM611),,"PG-3 DE,PRF,DC / REGULAR",3-0-0-0(9),DATTATRAYA H DETHE(I),ddethe@iitk.ac.in (I),M (L11) Th (L11)  10:30-12:00,L11,,,,,Document
+208,CHM,CHEMISTRY OF ORGANOMETALLIC COMPOUNDS(CHM616),,"PG-6 DE,PRF,OE / REGULAR",3-0-0-0(9),M L N  RAO (I),maddali@iitk.ac.in (I),W (CHM: FB426) F (CHM: FB426)  10:30-12:00,CHM: FB426,,,,,Not Available
+209,CHM,CHEMICAL BINDING(CHM621),,"PG-10 DE,PRF,DC / REGULAR",3-0-0-0(9),NISANTH N  NAIR (I),nnair@iitk.ac.in (I),T (L09) W (L09) Th (L09)  08:00-09:00,L09,,,,,Document
+210,CHM,PRINCIPLES OF PHYSICAL CHEMISTRY(CHM629),,PG-9 PRF / REGULAR,3-0-0-0(9),AMALENDU CHANDRA (I),amalen@iitk.ac.in (I),W (CHM: FB434) F (CHM: FB434)  17:00-18:30,CHM: FB434,,,,,Document
+211,CHM,APPLICATIONS OF MODERN INSTRUMENTAL METHODS(CHM631),( CHM402 OR CHM402A AND CHM442 OR CHM442A  ),"PG-5 DE,PRF,DC / REGULAR",3-0-0-0(9),"Dharmaraja Allimuthu(I), Apparao Draksharapu(O)","atdharma@iitk.ac.in (I), appud@iitk.ac.in (O)",W (L09) F (L09)  09:00-10:15,L09,,,,,Document
+212,CHM,ORBITAL INTERACTIONS IN CHEMISTRY(CHM645),,"PG-9 DE,PRF,OE / REGULAR",3-0-0-0(9),JITENDRA   BERA(I),jbera@iitk.ac.in (I),W (WL228) F (WL228)  17:00-18:30,WL228,,,,,Not Available
+213,CHM,BIO-INORGANIC CHEMISTRY(CHM646),,"PG-1 DE,PRF / REGULAR",3-0-0-0(9),SANKAR PRASAD  RATH (I),sprath@iitk.ac.in (I),"M (L09) F (L09)  08:00-09:00 ,T (L09)  09:00-10:00",L09,,,,,Document
+214,CHM,THE CHEMISTRY OF METAL-CARBON BOND: STRUCTURE REACTIVITY & APPLICATIONS(CHM648),,"PG-4 DE,PRF,OE / REGULAR",3-0-0-0(9),SABUJ KUMAR KUNDU(I),sabuj@iitk.ac.in (I),M (T207) Th (T207)  12:00-13:15,T207,,,,,Document
+215,CHM,PRINCIPLES OF INORGANIC CHEMISTRY(CHM649),,PG-15 PRF / REGULAR,3-0-0-0(9),RAJA ANGAMUTHU(I),raja@iitk.ac.in (I),T (L08) Th (L08)  17:15-18:30,L08,,,,,Not Available
+216,CHM,QUANTUM DYNAMICS IN CHEMISTRY(CHM667),,"PG-2 DE,PRF,OE / REGULAR",3-0-0-0(9),Mainak  Sadhukhan(I),mainaks@iitk.ac.in (I),M (T204) Th (T204)  09:00-10:15,T204,,,,,Document
+217,CHM,ADVANCED MAIN GROUP CHEMISTRY(CHM668),,"PG-10 DE,PRF,OE / REGULAR",3-0-0-0(9),ANANTHARAMAN  GANAPATHI (I),garaman@iitk.ac.in (I),T (CHM: FB434) W (CHM: FB434) Th (CHM: FB434)  08:00-09:00,CHM: FB434,,,,,Not Available
+218,CHM,MOLECULAR REACTION DYNAMICS(CHM679),,"OE-3 DE,PRF / REGULAR",3-0-0-0(9),KESHAVAMURTHY  SRIHARI (I),srihari@iitk.ac.in (I),W (T211) F (T211)  10:30-12:00,T211,,,,,Document
+219,CHM,MODERN CHEMISTRY AND APPLICATIONS OF LANTHANIDES(CHM682),,"PG-2 DE,PRF,OE / REGULAR",3-0-0-0(9),ASHIS KUMAR PATRA(I),akpatra@iitk.ac.in (I),M (WL235) Th (WL235)  09:00-10:15,WL235,,,,,Document
+220,CHM,CHEMISTRY OF DRUG DESIGN AND METABOLISM(CHM698),,"PG-9 DE,PRF,OE / REGULAR",3-0-0-0(9),SANDEEP  VERMA   (I),sverma@iitk.ac.in (I),W (T108) F (T108)  17:00-18:30,T108,,,,,Document
+221,CHM,M. Sc. PROJECT(CHM699),,"SLOT-BLANK PRF,DC / REGULAR",0-0-0-0(18),DPGCCHM (I),dpgc_chm@iitk.ac.in (I),,,,,,,Not Available
+222,CHM,RESEARCH(CHM799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCCHM (I),dpgc_chm@iitk.ac.in (I),,,,,,,Not Available
+223,CHM,GENERAL SEMINAR2(CHM800),,SLOT-BLANK PRF / REGULAR,0-0-0-0(0),DPGCCHM (I),dpgc_chm@iitk.ac.in (I),,,,,,,Not Available
+224,CHM,GRADUATE SEMINAR(CHM801),,SLOT-BLANK PRF / REGULAR,0-0-0-0(0),DPGCCHM (I),dpgc_chm@iitk.ac.in (I),,,,,,,Not Available
+225,CHM,INTRODUCTION TO PROFESSION AND COMMUNICATION SKILLS IN CHEMISTRY(CHM888),,SLOT-72 PRF / REGULAR,2-0-0-0(6),"R  GURUNATH (I), BASKER SUNDARARAJU(O)","gurunath@iitk.ac.in (I), basker@iitk.ac.in (O)","T (L07)  10:00-12:00 ,F (L07)  15:00-17:00",L07,,,,,Document
+226,CHM,ATOMS  MOLECULES AND PHOTONS(CSO202),,"ESO-3-1 ESO/SO,OE / REGULAR",3-1-0-0(11),"DEBABRATA GOSWAMI (I), DASARI L V K PRASAD(O)","dgoswami@iitk.ac.in (I), dprasad@iitk.ac.in (O)",M (L02) W (L02) Th (L02)  09:00-10:00,L02,F (L04) F (L02)  09:00-10:00,"L02 ,L04",,,Document
+227,COM,ENGLISH LANGUAGE & COMMUNICATION (BASIC) (SCHEME)(ELC111),,ELC111 IC / REGULAR,2-1-1-0(9),"SUDHARSHANA N P(I), Lakshmana Pinninti(O)","sudh@iitk.ac.in (I), lakshman@iitk.ac.in (O)",M (T106) M (T105) M (T104) M (T103) W (T106) W (T105) W (T104) W (T103) F (T106) F (T105) F (T104) F (T103)  17:00-18:00,"T103 ,T104 ,T105 ,T106",Th (T106) Th (T105) Th (T104) Th (T103)  17:00-18:00,"T103 ,T104 ,T105 ,T106",,,Document
+228,COM,ENGLISH LANGUAGE & COMMUNICATION (INTERMEDIATE) (SCHEME)(ELC112),,ELC112 IC / REGULAR,2-1-1-0(9),"SUDHARSHANA N P(I), Lakshmana Pinninti(O)","sudh@iitk.ac.in (I), lakshman@iitk.ac.in (O)",M (DJAC: 206H) M (DJAC: 203H) M (L10) W (DJAC: 206H) W (DJAC: 203H) W (L10) F (DJAC: 206H) F (DJAC: 203H) F (L10)  08:00-09:00,"L10 ,DJAC: 203H ,DJAC: 206H",Th (DJAC: 206H) Th (DJAC: 203H) Th (L10)  08:00-09:00,"L10 ,DJAC: 203H ,DJAC: 206H",,,Document
+229,COM,ENGLISH LANGUAGE & COMMUNICATION (ADVANCED) (SCHEME)(ELC113),,ELC112 IC / REGULAR,2-1-1-0(9),"SUDHARSHANA N P(I), Lakshmana Pinninti(O)","sudh@iitk.ac.in (I), lakshman@iitk.ac.in (O)",M (L12) M (L11) W (L12) W (L11) F (L12) F (L11)  08:00-09:00,"L11 ,L12",Th (L12) Th (L11)  08:00-09:00,"L11 ,L12",,,Document
+230,COM,ENGLISH LANGUAGE AND COMMUNICATION(ELC114),,ELC114 PRF / REGULAR,2-1-1-0(9),"SUDHARSHANA N P(I), Lakshmana Pinninti(O)","sudh@iitk.ac.in (I), lakshman@iitk.ac.in (O)","W (L03) F (L03)  09:00-10:00 ,M (L03) T (L03)  15:00-16:00",L03,,,,,Document
+231,COM,PRACTICAL ETHICS(ETH111),,ETH111 IC / REGULAR,1-0-0-2(3),"Pradeep Moise(I), Y N  MOHAPATRA   (O), Ushasi Roy(O), Swathi Battula(O), SUBHAJIT  ROY (O), SHASHANK SHEKHAR(O), R  GURUNATH (O), PRAVEEN KULSHRESHTHA(O), Nivedita Bhaktha(O), NAVEEN TIWARI(O), Hiranya Sahoo(O), Debanjan Dasgupta(O), BHASKAR  DASGUPTA   (O), BASKER SUNDARARAJU(O), APARNA DAR (O), Anupam Banerjee(O), AJIT K CHATURVEDI (O), Abhishek (O), A V RAVISHANKAR  SARMA (O)","pmoise@iitk.ac.in (I), ynm@iitk.ac.in (O), ushasiroy@iitk.ac.in (O), swathi@iitk.ac.in (O), subhajit@iitk.ac.in (O), shashank@iitk.ac.in (O), gurunath@iitk.ac.in (O), pravk@iitk.ac.in (O), nbhaktha@iitk.ac.in (O), naveent@iitk.ac.in (O), hiranya@iitk.ac.in (O), debanjand@iitk.ac.in (O), dasgupta@iitk.ac.in (O), basker@iitk.ac.in (O), adar@iitk.ac.in (O), anupamb@iitk.ac.in (O), akc@iitk.ac.in (O), abhishekc@iitk.ac.in (O), avrs@iitk.ac.in (O)",,,,,"W (T104)  08:00-09:30 ,T (T102) T (T101) T (T112) T (T111) T (T109) T (T108) T (T107) T (T106) T (T105) T (T104) T (T103)  11:00-12:30 ,F (AE: NWTF Class room) F (T210) F (T209) F (T207) F (T111) F (T110)  17:00-18:30","T104 ,T103 ,T104 ,T105 ,T106 ,T107 ,T108 ,T109 ,T111 ,T112 ,T101 ,T102 ,T110 ,T111 ,T207 ,T209 ,T210 ,AE: NWTF Class room",Document
+232,COM,TOPICS IN INNOVATION AND ENTREPRENEURSHIP(SEP698),,"SLOT-BLANK DE,PRF / REGULAR",0-0-0-0(9),ABHISHEK . (I),abhish@iitk.ac.in (I),,,,,,,Not Available
+233,CSE,MATHEMATICS FOR COMPUTER SCIENCE -I(CS201),,"3-1 DE,PRF,OE,DC,Minor / REGULAR",3-0-0-0(9),ANIL  SETH   (I),seth@iitk.ac.in (I),M (CS: RM101) W (CS: RM101) F (CS: RM101)  12:00-13:00,CS: RM101,,,,,Document
+234,CSE,PRINCIPLES OF DATA BASE SYSTEMS(CS315),( ESC101A OR ESC111M AND ESC112M OR ESC113M AND ESO207 OR ESO207A  ),"DE-6 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),PURUSHOTTAM  KAR (I),purushot@iitk.ac.in (I),W (CS: RM101) F (CS: RM101)  15:30-17:00,CS: RM101,,,,,Not Available
+235,CSE,OPERATING SYSTEMS(CS330),( ESC101A OR ESC111M AND ESC112M OR ESC113M AND ESO207A OR ESO207 AND CS220 OR CS220A  ),"SLOT-1 DE,PRF,OE,DC,Minor / REGULAR",3-0-4-0(13),Debadatta Mishra(I),debam@iitk.ac.in (I),T (CS: RM101) W (CS: RM101) Th (CS: RM101)  08:00-09:00,CS: RM101,,,TF 14:00-17:00,,Document
+236,CSE,THEORY OF COMPUTATION(CS340),( ESC101A OR ESC111M AND ESC112M OR ESC113M AND ESO207 OR ESO207A  ),"SLOT-2 DE,PRF,OE,DC,Minor / REGULAR",3-0-0-0(9),SUNIL EASAW  SIMON (I),simon@iitk.ac.in (I),"M (CS: RM101) F (CS: RM101)  08:00-09:00 ,T (CS: RM101)  09:00-10:00",CS: RM101,,,,,Not Available
+237,CSE,ALGORITHMS-II(CS345),( ESC101A OR ESC111M AND ESC112M OR ESC113M AND ESO207A OR ESO207  ),"ESO-3 DE,PRF,OE,DC,Minor / REGULAR",3-0-0-0(9),RAGHUNATH  TEWARI (I),rtewari@iitk.ac.in (I),M (CS: RM101) W (CS: RM101) F (CS: RM101)  09:00-10:00,CS: RM101,,,,,Document
+238,CSE,PRINCIPLES OF PROGRAMMING LANGAUGES(CS350),( ESO207 OR ESO207A  ),"DE-6 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),SATYADEV  NANDAKUMAR   (I),satyadev@iitk.ac.in (I),W (CS: KD102) F (CS: KD102)  15:30-17:00,CS: KD102,,,,,Document
+239,CSE,INTRODUCTION TO COMPUTER GRAPHICS(CS360),,"DE-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Soumya Dutta(I),soumyad@iitk.ac.in (I),M (CS: RM101) Th (CS: RM101)  10:30-12:00,CS: RM101,,,,,Document
+240,CSE,UG PROJECT (UGP-I)(CS395A),,SLOT-BLANK UGP-1 / REGULAR,0-0-0-0(4),DUGCCSE (I),dugc_cse@iitk.ac.in  (I),,,,,,,Not Available
+241,CSE,UG PROJECT (UGP-II)(CS396A),,SLOT-BLANK UGP-2 / REGULAR,0-0-0-0(9),DUGCCSE (I),dugc_cse@iitk.ac.in  (I),,,,,,,Not Available
+242,CSE,PARALLEL PROGRAMMING(CS433),( CS220 OR CS220A AND CS330 OR CS330A AND ESC101A OR ESC111M AND ESC112M OR ESC113M AND ESO207 OR ESO207A  ),"DE-8 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),MAINAK  CHAUDHURI   (I),mainakc@iitk.ac.in (I),W (CS: KD102) F (CS: KD102)  12:00-13:15,CS: KD102,,,,,Document
+243,CSE,INTRODUCTION TO SOFTWARE ENGINEERING(CS455),( ESO207A OR ESO207  ),"DE-4 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Sruti Ragavan(I),srutis@iitk.ac.in (I),M (CS: KD102) Th (CS: KD102)  14:00-15:15,CS: KD102,,,,,Document
+244,CSE,UNDER GRADUATE PROJECT I(CS496),,SLOT-BLANK UGP-1 / REGULAR,0-0-0-0(9),DUGCCSE (I),dugc_cse@iitk.ac.in  (I),,,,,,,Not Available
+245,CSE,UNDER GRADUATE PROJECT-II(CS497),,SLOT-BLANK UGP-2 / REGULAR,3-0-0-0(9),DUGCCSE (I),dugc_cse@iitk.ac.in  (I),,,,,,,Not Available
+246,CSE,UNDER GRADUATE PROJECT-III(CS498),,SLOT-BLANK UGP-3 / REGULAR,0-0-9-0(9),DUGCCSE (I),dugc_cse@iitk.ac.in  (I),,,,,,,Not Available
+247,CSE,UNDER GRADUATE PROJECT-III(CS498A),,SLOT-BLANK UGP-3 / REGULAR,0-0-0-0(9),DUGCCSE (I),dugc_cse@iitk.ac.in  (I),,,,,,,Not Available
+248,CSE,UNDER GRADUATE PROJECT-IV(CS499),,SLOT-BLANK UGP-4 / REGULAR,(),DUGCCSE (I),dugc_cse@iitk.ac.in  (I),,,,,,,Not Available
+249,CSE,UNDER GRADUATE PROJECT-IV(CS499A),,SLOT-BLANK UGP-4 / REGULAR,0-0-0-0(9),DUGCCSE (I),dugc_cse@iitk.ac.in  (I),,,,,,,Not Available
+250,CSE,DESIGN AND ANALYSIS OF ALGORITHMS(CS602),,"DE-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),SURENDER  BASWANA   (I),sbaswana@iitk.ac.in (I),M (CS: KD101) Th (CS: KD101)  10:30-12:00,CS: KD101,,,,,Document
+251,CSE,PROGRAMMING FOR PERFORMANCE(CS610),,"DE-7 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Swarnendu  Biswas(I),swarnendu@iitk.ac.in (I),"M (CS: KD103) F (CS: KD103)  08:00-09:00 ,T (CS: KD103)  09:00-10:00",CS: KD103,,,,,Document
+252,CSE,COMPUTER SYSTEMS SECURITY(CS628),,"DE-4 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Angshuman Karmakar(I),angshuman@iitk.ac.in (I),M (CS: KD103) Th (CS: KD103)  14:00-15:15,CS: KD103,,,,,Document
+253,CSE,EMBEDDED AND CYBER-PHYSICAL SYSTEMS(CS637),,"DE-3 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),INDRANIL  SAHA (I),isaha@iitk.ac.in (I),M (L07) Th (L07)  12:00-13:15,L07,,,,,Not Available
+254,CSE,COMPUTATIONAL COMPLEXITY(CS640),,"DE-3 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Not Offered (I),automation@iitk.ac.in (I),MTh 12:00-13:15,,,,,,Not Available
+255,CSE,PARALLEL ALGORITHMS(CS646),,"DE-8 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),SANJEEV  SAXENA   (I),ssax@iitk.ac.in (I),W (CS: KD101) F (CS: KD101)  12:00-13:15,CS: KD101,,,,,Not Available
+256,CSE,FUNCTIONAL PROGRAMMING(CS653),,"PG-5 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),AMEY KARKARE (I),karkare@iitk.ac.in (I),W (CS: KD102) F (CS: KD102)  09:00-10:15,CS: KD102,,,,,Not Available
+257,CSE,TOPICS IN MALWARE ANALYSIS & INTRUSION DETECTION(CS658),,"DE-3 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),SANDEEP KUMAR  SHUKLA (I),sandeeps@iitk.ac.in (I),M (CS: KD102) Th (CS: KD102)  12:00-13:15,CS: KD102,,,,,Not Available
+258,CSE,INTRODUCTION TO INTERNET OF THINGS & ITS INDUSTRIAL APPLICATIONS(CS667),,"PG-6 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Priyanka Bagade(I),pbagade@iitk.ac.in (I),W (CS: KD102) F (CS: KD102)  10:30-12:00,CS: KD102,,,,,Not Available
+259,CSE,COMPLEXITY MEASURES FOR BOOLEAN FUNCTIONS(CS672),,"DE-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),RAJAT  MITTAL (I),rmittal@iitk.ac.in (I),M (CS: KD103) Th (CS: KD103)  10:30-12:00,CS: KD103,,,,,Document
+260,CSE,POST QUANTUM SECURITY(CS674),,"DE-8 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Debapriya Roy(I),dbroy@iitk.ac.in (I),W (CS: KD103) F (CS: KD103)  12:00-13:15,CS: KD103,,,,,Document
+261,CSE,TOPICS IN LARGE DATA ANALYSIS AND VISUALIZATION(CS677),,"DE-5 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),"Soumya Dutta(I), Preeti Malakar(O)","soumyad@iitk.ac.in (I), pmalakar@iitk.ac.in (O)","T (CS: KD101)  14:00-15:15 ,M (CS: KD101)  15:30-17:00",CS: KD101,,,,,Document
+262,CSE,DATA MINING(CS685),,"PG-6 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),ARNAB BHATTACHARYA (I),arnabb@iitk.ac.in (I),W (CS: KD101) F (CS: KD101)  10:30-12:00,CS: KD101,,,,,Document
+263,CSE,COMPUTATIONAL GENOMICS(CS690),,"DE-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Hamim  Zafar(I),hamim@iitk.ac.in (I),M (CS: KD102) Th (CS: KD102)  10:30-12:00,CS: KD102,,,,,Document
+264,CSE,SPECIAL TOPICS IN COMPUTER SCIENCE(CS697),,"SLOT-BLANK DE,PRF,OE,Minor / REGULAR",0-0-0-0(9),PIYUSH  RAI (I),rpiyush@iitk.ac.in (I),,,,,,,Not Available
+265,CSE,M TECH THESIS(CS699),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),"DPGCCSE (I), DUGCCSE (O)","dpgc_cse@iitk.ac.in (I), dugc_cse@iitk.ac.in  (O)",,,,,,,Not Available
+266,CSE,SECURE COMPUTATION(CS714),,OE-1 PRF / REGULAR,3-0-0-0(9),Adithya Vadapalli(I),avadapalli@iitk.ac.in (I),MWF 17:00-18:00,,,,,,Document
+267,CSE,SENSING COMMUNICATIONS AND NETWORKING FOR SMART WIRELESS DEVICES(CS724),,"PG-6 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Amitangshu Pal(I),amitangshu@iitk.ac.in (I),W (CS: RM101) F (CS: RM101)  10:30-12:00,CS: RM101,,,,,Document
+268,CSE,TOPICS IN OPERATING SYSTEMS(CS730),,"DE-5 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Debadatta Mishra(I),debam@iitk.ac.in (I),"T (CS: KD103)  14:00-15:15 ,M (CS: KD103)  15:30-17:00",CS: KD103,,,,,Document
+269,CSE,ARITHMETIC CIRCUIT COMPLEXITY(CS748),,"SLOT-BLANK DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),NITIN  SAXENA (I),nitin@iitk.ac.in (I),,CS: KD102,,,,,Not Available
+270,CSE,INTRODUCTION TO MACHINE LEARNING(CS771),,"PG-18 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),PIYUSH  RAI (I),rpiyush@iitk.ac.in (I),M (L20) Th (L20)  18:00-19:15,L20,,,,,Document
+271,CSE,STATISTICAL NATURAL LANGUAGE PROCESSING(CS779),,"DE-4 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Ashutosh Modi(I),ashutoshm@iitk.ac.in (I),M (CS: RM101) Th (CS: RM101)  14:00-15:15,CS: RM101,,,,,Document
+272,CSE,COMPUTATIONAL COGNITIVE SCIENCE(CS786),,"DE-5 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Nisheeth  Srivastava   (I),nsrivast@iitk.ac.in (I),"T (CS: RM101)  14:00-15:15 ,M (CS: RM101)  15:30-17:00",CS: RM101,,,,,Document
+273,CSE,SPECIAL TOPICS IN COMPUTER SCIENCE(CS797),,SLOT-BLANK PRF / REGULAR,0-0-0-0(9),DPGCCSE (I),dpgc_cse@iitk.ac.in (I),,,,,,,Not Available
+274,CSE,SECURE COMPUTATION(CS798K),,"OE-1 DE,PRF,OE / REGULAR",3-0-0-0(9),Adithya Vadapalli(I),avadapalli@iitk.ac.in (I),M (CS: KD102) W (CS: KD102) F (CS: KD102)  17:00-18:00,CS: KD102,,,,,Not Available
+275,CSE,PHD THESIS(CS799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCCSE (I),dpgc_cse@iitk.ac.in (I),,,,,,,Not Available
+276,CSE,INTRODUCTION TO THE PROFESSION AND COMMUNICATIONS SKILLS(CS888),,"PG-6 DE,PRF,OE,Minor / REGULAR",2-0-0-0(6),"Preeti Malakar(I), NITIN  SAXENA (O), Nisheeth  Srivastava   (O), Debadatta Mishra(O)","pmalakar@iitk.ac.in (I), nitin@iitk.ac.in (O), nsrivast@iitk.ac.in (O), debam@iitk.ac.in (O)",W (CS: KD103) F (CS: KD103)  10:30-12:00,CS: KD103,,,,,Document
+277,CSE,MS - RESEARCH THESIS(CS899),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCCSE (I),dpgc_cse@iitk.ac.in (I),,,,,,,Not Available
+278,CSE,FUNDAMENTALS OF COMPUTING - I(ESC111M) /C,,ESC111 IC / FIRST-HALF,3-1-3-0(7),Urbi Chatterjee(I),urbic@iitk.ac.in (I),M (L20) Th (L20) F (L20)  12:00-13:00,L20,"W (T207)  12:00-13:00 ,T (T102) T (T101) T (CS: RM101) T (CS: KD103) T (CS: KD101) T (WL237) T (WL235) T (WL228) T (WL226) T (T208) T (T206) T (T205) T (T204) T (T203)  17:00-18:00","T207 ,T203 ,T204 ,T205 ,T206 ,T208 ,WL226 ,WL228 ,WL235 ,WL237 ,CS: KD101 ,CS: KD103 ,CS: RM101 ,T101 ,T102",ThF 14:00-17:00,,Not Available
+279,CSE,FUNDAMENTALS OF COMPUTING - I(ESC111M) /D,,ESC111 IC / FIRST-HALF,3-1-3-0(7),Urbi Chatterjee(I),urbic@iitk.ac.in (I),M (L20) Th (L20) F (L20)  12:00-13:00,L20,T (T211) T (T209) T (T112) T (T110) T (T109)  17:00-18:00,"T109 ,T110 ,T112 ,T209 ,T211",ThF 14:00-17:00,,Not Available
+280,CSE,FUNDAMENTALS OF COMPUTING - II(ESC112M) /C,,ESC111 IC / SECOND-HALF,3-1-3-0(7),Urbi Chatterjee(I),urbic@iitk.ac.in (I),F 12:00-13:00,,,,ThF 14:00-17:00,,Not Available
+281,CSE,FUNDAMENTALS OF COMPUTING - II(ESC112M) /D,,ESC111 IC / SECOND-HALF,3-1-3-0(7),Urbi Chatterjee(I),urbic@iitk.ac.in (I),F 12:00-13:00,,,,ThF 14:00-17:00,,Not Available
+282,CSE,DATA STRUCTURE & ALGORITHM(ESO207),( ESC101A OR ESC111M OR ESC112M OR ESC113M  ),ESO-1 ESO/SO / REGULAR,3-0-3-0(12),Sutanu Gayen(I),sutanu@iitk.ac.in (I),M (L07) W (L07) F (L07)  10:00-11:00,L07,,,MW 14:00-17:00,,Document
+283,DES,DESIGN THINKING & RESEARCH METHODS(DES604),,"PG-8 DE,PRF,DC / REGULAR",3-0-0-0(9),KOUMUDI  PATIL (I),kppatil@iitk.ac.in (I),"T (DJAC(601 HO))  12:00-13:30 ,W (DJAC(601 HO))  14:00-15:30",DJAC(601 HO),,,,,Not Available
+284,DES,INTEGRATED PRODUCT DEVELOPMENT-I(DES633),,"PG-2 DE,PRF,OE / REGULAR",2-0-3-0(9),NACHIKETA  TIWARI (I),ntiwari@iitk.ac.in (I),M (WL226) Th (WL226)  09:00-10:15,WL226,,,,,Not Available
+285,DES,METHODS FOR DESIGN RESEARCH(DES635),,"PG-13 DE,PRF / REGULAR",2-0-3-0(9),MAINAK  DAS (I),mainakd@iitk.ac.in (I),MTh 14:00-15:15,,,,,,Not Available
+286,DES,HUMAN MACHINE INTERACTION(DES638),,"PG-15 DE,PRF,OE / REGULAR",3-0-0-0(9),Gowdham P G(I),gowdhampg@iitk.ac.in (I),T (DJAC(601 HO)) Th (DJAC(601 HO))  15:30-17:00,DJAC(601 HO),,,,,Not Available
+287,DES,DESIGN FOR HUMAN MACHINE SYSTEMIC RELATIONSHIPS(DES640),,"PG-14 DE,PRF / REGULAR",3-0-0-0(9),Vivek Kant(I),vkant@iitk.ac.in (I),"T (DJAC(601 HP))  14:00-15:15 ,M (DJAC(601 HP))  15:30-17:00",DJAC(601 HP),,,,,Document
+288,DES,DESIGN FOR INDUSTRY 4.0 AND INDUSTRIAL INTERNET OF THINGS(DES641),,"PG-3 DE,PRF / REGULAR",3-0-0-0(9),Amar Behera(I),amarkb@iitk.ac.in (I),M (DJAC: 205H) Th (DJAC: 205H)  10:30-12:00,DJAC: 205H,,,,,Document
+289,DES,DESIGN PROJECT I(DES681),,"PG-4 DE,PRF,DC / REGULAR",1-0-6-0(9),"SATYAKI  ROY (I), JANAKARAJAN  RAMKUMAR   (O)","satyaki@iitk.ac.in (I), jrkumar@iitk.ac.in (O)",M (DJAC(601 HO)) Th (DJAC(601 HO))  12:00-13:15,DJAC(601 HO),,,,,Not Available
+290,DES,M DES THESIS(DES699),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),"DPGCDES (I), DUGCDES (O)","dpgc_des@iitk.ac.in (I), dugc_des@iitk.ac.in (O)",,,,,,,Not Available
+291,DES,PH.D THESIS(DES799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCDES (I),dpgc_des@iitk.ac.in (I),,,,,,,Not Available
+292,DES,SEMINAR I(DES801),,"PG-7 DE,PRF,DC / REGULAR",0-0-0-0(0),"JANAKARAJAN  RAMKUMAR   (I), SATYAKI  ROY (O)","jrkumar@iitk.ac.in (I), satyaki@iitk.ac.in (O)",T (DJAC(601 HO))  17:00-18:00,DJAC(601 HO),,,,,Not Available
+293,DOMS,INTRODUCTION TO MANAGEMENT(DMS201),,CORE 8 SCHEME / REGULAR,3-0-0-0(9),"AMIT SHUKLA(I), Abhinava Tripathi(O), Vipin B(O)","skamit@iitk.ac.in (I), abhinavat@iitk.ac.in (O), vipin@iitk.ac.in (O)",M (L01) W (L01) Th (L01)  08:00-09:00,L01,,,,,Document
+294,DOMS,PROBABILITY AND STATISTICS(DMS602),,"PG-2 PRF,OE,Minor / REGULAR",3-0-0-0(9),RAGHU NANDAN SENGUPTA(I),raghus@iitk.ac.in (I),M (IME: C3) Th (IME: C3)  09:00-10:15,IME: C3,,,,,Document
+295,DOMS,INTRODUCTION TO COMPUTING(DMS603),,"PG-15 PRF,OE,Minor / REGULAR",3-0-0-0(9),SHANKAR PRAWESH(I),sprawesh@iitk.ac.in (I),T (IME: C2) Th (IME: C2)  15:30-17:00,IME: C2,,,,,Document
+296,DOMS,OPERATIONS RESEARCH FOR MANAGEMENT(DMS605),,"PG-11 PRF,OE,Minor / REGULAR",3-0-0-0(9),FAIZ HAMID(I),fhamid@iitk.ac.in (I),"T (IME: C1)  10:30-12:00 ,M (IME: C1)  17:00-18:30",IME: C1,,,,,Not Available
+297,DOMS,COMPUTER AIDED DECISION SYSTEMS(DMS624),,"OE-8 PRF,OE,Minor / REGULAR",3-0-0-0(9),DEEPU  PHILIP (I),dphilip@iitk.ac.in (I),W (IME: C3) F (IME: C3)  12:00-13:15,IME: C3,,,,,Not Available
+298,DOMS,INTRODUCTION TO STOCHASTIC PROCESSES AND THEIR APPLICATIONS(DMS625),,"PG-4 PRF,OE,Minor / REGULAR",3-0-0-0(9),Sourav Majumdar(I),souravm@iitk.ac.in (I),M (IME: C3) Th (IME: C3)  12:00-13:15,IME: C3,,,,,Document
+299,DOMS,INTRODUCTION TO GAME THEORY(DMS636),,"PG-13 PRF,OE,Minor / REGULAR",3-0-0-0(9),SRI VANAMALLA V(I),vanamala@iitk.ac.in (I),M (IME: C3) Th (IME: C3)  14:00-15:15,IME: C3,,,,,Document
+300,DOMS,DATA MINING AND KNOWLEDGE DISCOVERY(DMS672),,"PG-6 PRF,OE,Minor / REGULAR",3-0-0-0(9),FAIZ HAMID(I),fhamid@iitk.ac.in (I),W (IME: C1) F (IME: C1)  10:30-12:00,IME: C1,,,,,Not Available
+301,DOMS,INDEPENDENT STUDY(DMS797),,"SLOT-BLANK DE,PRF / REGULAR",3-0-0-0(9),DPGCIME (I),dpgc_ime@iitk.ac.in (I),,,,,,,Not Available
+302,DOMS,RESEARCH SEMINAR(DMS801),,SLOT-BLANK PRF / REGULAR,0-0-0-0(0),DPGCIME (I),dpgc_ime@iitk.ac.in (I),,,,,,,Not Available
+303,DOMS,ACCOUNTING & FINANCE(MBA601),,"PG-11 PRF,OE,Minor / REGULAR",3-0-0-1(10),Harshal Mulay(I),hrmulay@iitk.ac.in (I),"T (IME: C3)  10:30-12:00 ,M (IME: C3)  17:00-18:30",IME: C3,,,,,Document
+304,DOMS,ECONOMIC ANALYSIS FOR MANAGEMENT(MBA606),,"PG-8 PRF,OE,Minor / REGULAR",3-0-0-1(10),Subhankar  Mukherjee(I),subhankar@iitk.ac.in (I),"T (IME: C3)  12:00-13:30 ,W (IME: C3)  14:00-15:30",IME: C3,,,,,Document
+305,DOMS,ORGANIZATION STRUCTURE AND BEHAVIOUR(MBA611),,"PG-7 PRF,OE,Minor / REGULAR",3-0-0-1(10),AMIT SHUKLA(I),skamit@iitk.ac.in (I),"F (IME: C3)  14:00-15:30 ,T (IME: C3)  17:00-18:30",IME: C3,,,,,Not Available
+306,DOMS,STRATEGIC MANAGEMENT(MBA623),,"PG-13 PRF,OE,Minor / REGULAR",3-0-0-1(10),AMIT SHUKLA(I),skamit@iitk.ac.in (I),M (IME: C5) Th (IME: C5)  14:00-15:15,IME: C5,,,,,Not Available
+307,DOMS,MARKETING MANAGEMENT(MBA631),,"PG-14 PRF,OE,Minor / REGULAR",3-0-0-1(10),Jitender Kumar(I),krjiten@iitk.ac.in (I),"T (IME: C3)  14:00-15:15 ,M (IME: C3)  15:30-17:00",IME: C3,,,,,Document
+308,DOMS,BUSINESS PROCESS MANAGEMENT(MBA647),,"PG-5 DE,PRF,OE,Minor / REGULAR",3-0-0-0(10),AMIT SHUKLA(I),skamit@iitk.ac.in (I),W (IME: C1) F (IME: C1)  09:00-10:15,IME: C1,,,,,Not Available
+309,DOMS,QUANTITATIVE METHODS FOR DECISION MAKING(MBA651),,"PG-9 PRF,OE,Minor / REGULAR",3-0-0-1(10),AVIJIT KHANRA(I),kavijit@iitk.ac.in (I),W (IME: C3) F (IME: C3)  17:00-18:30,IME: C3,,,,,Document
+310,DOMS,STATISTICAL MODELLING FOR BUSINESS ANALYTICS(MBA652),,"OE-8 PRF,OE,Minor / REGULAR",3-0-0-1(10),DEVLINA CHATTERJEE(I),devlina@iitk.ac.in (I),WF 12:00-13:15,,,,,,Not Available
+311,DOMS,SUPPLY CHAIN MANAGEMENT(MBA664),,"PG-14 PRF,OE,Minor / REGULAR",3-0-0-1(10),Suvendu Naskar(I),snaskar@iitk.ac.in (I),"T (IME: C5)  14:00-15:15 ,M (IME: C5)  15:30-17:00",IME: C5,,,,,Document
+312,DOMS,PROJECT MANAGEMENT(MBA666),,"PG-8 PRF,OE,Minor / REGULAR",3-0-0-1(10),Suvendu Naskar(I),snaskar@iitk.ac.in (I),"T (IME: C5)  12:00-13:30 ,W (IME: C5)  14:00-15:30",IME: C5,,,,,Document
+313,DOMS,INTRODUCTION TO CLIMATE CHANGE ECONOMICS AND POLICY(MBA667),,"PG-11 PRF,OE,Minor / REGULAR",3-0-0-1(10),Mousami Prasad(I),mousami@iitk.ac.in (I),"T (IME: C5)  10:30-12:00 ,M (IME: C5)  17:00-18:30",IME: C5,,,,,Document
+314,DOMS,INTRODUCTION TO POLICY MAKING(MBA669),,"PG-7 PRF,OE,Minor / REGULAR",3-0-0-1(10),Jothsna Rajan(I),jothsna@iitk.ac.in (I),"F (IME: C5)  14:00-15:30 ,T (IME: C5)  17:00-18:30",IME: C5,,,,,Document
+315,DOMS,MANAGING SERVICE OPERATIONS(MBA671),,"PG-4 PRF,OE,Minor / REGULAR",3-0-0-1(10),Prerna Gautam(I),gprerna@iitk.ac.in (I),M (IME: C5) Th (IME: C5)  12:00-13:15,IME: C5,,,,,Document
+316,DOMS,BEHAVIORAL FINANCE(MBA680),,"PG-8 PRF,OE,Minor / REGULAR",3-0-0-1(10),Suman  Saurabh(I),sumans@iitk.ac.in (I),"T (IME: C1)  12:00-13:00 ,W (IME: C1)  14:00-15:00",IME: C1,,,,,Document
+317,DOMS,POWER SECTOR REFORM & REGULATION: THEORY AND PRACTICE(MBA683),,"SLOT-BLANK PRF,OE,Minor / REGULAR",3-0-0-1(10),Not Offered (I),automation@iitk.ac.in (I),,,,,,,Not Available
+318,DOMS,MANAGEMENT SEMINARS(MBA698.),,SLOT-BLANK PRF / REGULAR,0-0-0-0(0),DPGCIME (I),dpgc_ime@iitk.ac.in (I),,,,,,,Not Available
+319,DOMS,CAPSTONE PROJECT I(MBA701),,"SLOT-BLANK DE,PRF / REGULAR",0-0-0-0(9),DPGCIME (I),dpgc_ime@iitk.ac.in (I),,,,,,,Not Available
+320,DOMS,SOCIAL MEDIA ANALYTICS I(MBA749M),,"PG-3 PRF,OE,Minor / FIRST-HALF",3-0-0-0(5),SHANKAR PRAWESH(I),sprawesh@iitk.ac.in (I),M (IME: C2) Th (IME: C2)  10:30-12:00,IME: C2,,,,,Document
+321,DOMS,SOCIAL MEDIA ANALYTICS II(MBA750M),,"PG-3 PRF,OE,Minor / SECOND-HALF",3-0-0-0(5),SHANKAR PRAWESH(I),sprawesh@iitk.ac.in (I),MTh 10:30-12:00,,,,,,Document
+322,DOMS,CAUSAL INFERENCE METHODS FOR BUSINESS ANALYTICS(MBA753M),,"PG-3 PRF,OE,Minor / FIRST-HALF",3-0-0-1(5),Nivedita Bhaktha(I),nbhaktha@iitk.ac.in (I),M (IME: C5) Th (IME: C5)  10:30-12:00,IME: C5,,,,,Document
+323,DOMS,FINANCIAL INTERMEDIATION & COMMERCIAL BANKING(MBA773M),,"PG-15 PRF,OE,Minor / FIRST-HALF",3-0-0-0(5),B V  PHANI (I),bvphani@iitk.ac.in (I),T (IME: C1) Th (IME: C1)  15:30-17:00,IME: C1,,,,,Document
+324,DOMS,CREDIT RISK MANAGEMENT & MODELLING(MBA774M),,"PG-15 PRF,OE,Minor / SECOND-HALF",3-0-0-0(5),B V  PHANI (I),bvphani@iitk.ac.in (I),TTh 15:30-17:00,,,,,,Not Available
+325,DOMS,RENEWABLE ENERGY - ECONOMICS  POLICY AND REGULATION(MBA782M),,"PG-2 PRF,OE,Minor / FIRST-HALF",3-0-0-0(5),ANOOP SINGH(I),anoops@iitk.ac.in (I),M (IME: C1) Th (IME: C1)  09:00-10:15,IME: C1,,,,,Document
+326,DOMS,DERIVATIVES & RISK MANAGEMENT FOR THE ENERGY AND ENVIRONMENTAL MARKETS(MBA784M),,"PG-2 PRF,OE,Minor / SECOND-HALF",3-0-0-0(5),ANOOP SINGH(I),anoops@iitk.ac.in (I),MTh 09:00-10:15,,,,,,Document
+327,DOMS,INVESTMENT BANKING: CAPITAL MARKET OPERATIONS(MBA785M),,"PG-9 PRF,OE,Minor / FIRST-HALF",3-0-0-0(5),Harshal Mulay(I),hrmulay@iitk.ac.in (I),W (IME: C5) F (IME: C5)  17:00-18:30,IME: C5,,,,,Document
+328,DOMS,ALERT MODELS IN FINANCE(MBA786M),,"PG-5 PRF,OE,Minor / FIRST-HALF",3-0-0-0(5),Parvati Neelakantan(I),parvati@iitk.ac.in (I),W (IME: C3) F (IME: C3)  09:00-10:15,IME: C3,,,,,Document
+329,DOMS,MANAGEMENT SEMINAR(MBA801),,SLOT-BLANK PRF / REGULAR,0-0-0-0(0),DPGCIME (I),dpgc_ime@iitk.ac.in (I),,,,,,,Not Available
+330,DOMS,PRODUCT DESIGN AND NEW PRODUCT MANAGEMENT(VLM601),,VLM01 PRF / REGULAR,3-0-3-0(8),"SATYAKI  ROY (I), MANINDRA  AGRAWAL   (O)","satyaki@iitk.ac.in (I), manindra@iitk.ac.in (O)",MWThF 15:15-17:15,,,,,,Not Available
+331,DOMS,SUPPLY CHAIN MANAGEMENT(VLM602),,VLM02 PRF / REGULAR,1-0-0-0(4),DEEPU  PHILIP (I),dphilip@iitk.ac.in (I),MWThF 09:00-10:00,,,,,,Not Available
+332,DOMS,ADVANCE MATERIALS(VLM603),,VLM03 PRF / REGULAR,1-0-1-0(3),ANISH UPADHYAYA (I),anishu@iitk.ac.in (I),MWThF 14:00-15:00,,,,,,Not Available
+333,DOMS,AUTOMATION & ROBOTICS IN MANUFACTURING(VLM604),,VLM04 PRF / REGULAR,1-0-1-0(3),"ASHISH DUTTA (I), S P  DAS   (O)","adutta@iitk.ac.in (I), spdas@iitk.ac.in (O)",MWThF 11:00-12:00,,,,,,Not Available
+334,DOMS,COMPUTER INTEGRATED MANUFACTURING SYSTEMS(VLM605),,VLM05 PRF / REGULAR,1-0-1-0(3),JANAKARAJAN  RAMKUMAR   (I),jrkumar@iitk.ac.in (I),MWThF 10:00-11:00,,,,,,Not Available
+335,DOMS,DATA ANALYSIS AND DECISION MAKING(VLM606),,VLM06 PRF / REGULAR,1-0-0-0(3),"RAGHU NANDAN SENGUPTA(I), AVIJIT KHANRA(O)","raghus@iitk.ac.in (I), kavijit@iitk.ac.in (O)",MWThF 12:00-13:00,,,,,,Document
+336,ECO,"ECONOMY, SOCIETY & PUBLIC POLICY(ECO111)",,CORE 8 SCHEME / REGULAR,3-1-0-0(11),Anna Thottappilly(I),annat@iitk.ac.in (I),M (L16) W (L16) Th (L16)  08:00-09:00,L16,F (L16) F (L13)  08:00-09:00,"L13 ,L16",,,Document
+337,ECO,MICROECONOMICS I(ECO211),,CORE 12 DC / REGULAR,3-1-0-0(11),SARANI  SAHA (I),sarani@iitk.ac.in (I),M (WL226) W (WL226) F (WL226)  12:00-13:00,WL226,Th (WL226)  12:00-13:00,WL226,,,Not Available
+338,ECO,OPTIMIZATION(ECO271),,ESO-3-2 DC / REGULAR,3-1-0-0(11),Srinivas Arigapudi(I),arigapudi@iitk.ac.in (I),M (L08) W (L08) F (L08)  09:00-10:00,L08,T (L08)  10:00-11:00,L08,,,Document
+339,ECO,MICROECONOMICS II(ECO311),,3-1-1 DC / REGULAR,3-1-0-0(11),Not Offered (I),automation@iitk.ac.in (I),MThF 12:00-13:00,,W 12:00-13:00,,,,Document
+340,ECO,MACROECONOMICS II(ECO331),,SLOT-2-1 DC / REGULAR,3-1-0-0(11),Sanjiv Kumar(I),sanjiv@iitk.ac.in (I),"M (L03) F (L03)  08:00-09:00 ,T (L03)  09:00-10:00",L03,W (L03)  18:30-19:00,L03,,,Document
+341,ECO,ECONOMETRICS II(ECO351),,3-3-3 DC / REGULAR,3-1-0-0(11),Malabika Koley(I),malabika@iitk.ac.in (I),M (L08) T (L08) Th (L08)  11:00-12:00,L08,W (L08)  11:00-12:00,L08,,,Document
+342,ECO,GAME THEORY(ECO371),,3-1-1 DC / REGULAR,3-1-0-0(11),Hargungeet Singh(I),hargungeet@iitk.ac.in (I),M (T201) Th (T201) F (T201)  12:00-13:00,T201,W (T201)  12:00-13:00,T201,,,Not Available
+343,ECO,TECHNICAL COMMUNICATION(ECO397A),,SLOT-BLANK PRF / REGULAR,0-0-2-0(2),DUGCECO (I),dugc_ecos@iitk.ac.in (I),,,,,,,Not Available
+344,ECO,UG PROJECT (UGP-I)(ECO398A),,SLOT-BLANK PRF / REGULAR,0-0-0-0(4),DUGCECO (I),dugc_ecos@iitk.ac.in (I),,,,,,,Not Available
+345,ECO,INDUSTRIAL ECONOMICS(ECO411A),( ECO301A  ),SLOT-5-1 DC / REGULAR,3-0-0-0(9),PRAVEEN KULSHRESHTHA(I),pravk@iitk.ac.in (I),"W (L11) F (L11)  14:00-15:00 ,T (L11)  17:00-18:00",L11,,,,,Document
+346,ECO,INTERNATIONAL ECONOMICS AND FINANCE(ECO412A),( ECO221A OR ECO231 AND ECO201A OR ECO101A  ),SLOT-1 DC / REGULAR,3-0-0-0(9),SOMESH KUMAR  MATHUR (I),skmathur@iitk.ac.in (I),T (L14) W (L14) Th (L14)  08:00-09:00,L14,,,,,Document
+347,ECO,UNDER GRADUATE PROJECT-III(ECO498A),,SLOT-BLANK PRF / REGULAR,0-0-0-0(9),DUGCECO (I),dugc_ecos@iitk.ac.in (I),,,,,,,Not Available
+348,ECO,ECONOMIC GROWTH THEORY AND PRACTICE(ECO523),,"DE-3 DE,PRF / REGULAR",3-0-0-0(9),SOHINI  SAHU   (I),ssahu@iitk.ac.in (I),M (WL235) Th (WL235)  12:00-13:15,WL235,,,,,Document
+349,ECO,PRODUCTIVITY AND EFFICIENCY ANALYSIS(ECO572),( ECO211 AND ECO341  ),"SLOT-BLANK DE,PRF / REGULAR",3-0-0-0(9),Not Offered (I),automation@iitk.ac.in (I),,,,,,,Not Available
+350,ECO,APPLIED MACROECONOMICS(ECO612),,"DE-8 DE,PRF / REGULAR",3-0-0-0(9),WASIM AHMAD(I),wasimad@iitk.ac.in (I),W (L03) F (L03)  12:00-13:15,L03,,,,,Not Available
+351,ECO,MATHEMATICAL METHODS FOR ECONOMICS(ECO671),,ESO-3 DC / REGULAR,3-0-0-0(9),Thirumulanathan Dhayaparan(I),nathan@iitk.ac.in (I),M (T103) W (T103) F (T103)  09:00-10:00,T103,,,,,Document
+352,ECO,M SC THESIS(ECO699),,SLOT-BLANK PRF / REGULAR,0-0-0-0(9),DUGCECO (I),dugc_ecos@iitk.ac.in (I),,,,,,,Not Available
+353,ECO,MICROECONOMICS(ECO701),,"PG-15 DE,PRF / REGULAR",3-0-0-0(9),Raghvi Garg(I),raghvi@iitk.ac.in (I),T (T201) Th (T201)  15:30-17:00,T201,,,,,Document
+354,ECO,ECONOMETRICS(ECO704),,DE-8 DE / REGULAR,3-0-0-0(9),Mahamitra Das(I),mahamitra@iitk.ac.in (I),W (WL237) F (WL237)  12:00-13:15,WL237,,,,,Document
+355,ECO,ECONOMIC GROWTH AND GEOPOLITICS(ECO715),,"PG-11 DE,PRF / REGULAR",3-0-0-0(9),VIMAL  KUMAR (I),vk@iitk.ac.in (I),"T (L15)  10:00-11:00 ,W (L15)  15:00-16:00 ,M (L17)  17:00-18:00","L15 ,L17",,,,,Document
+356,ECO,EMPIRICAL METHODS IN HEALTH ECONOMICS AND PUBLIC POLICY(ECO717),,PG-4 DE / REGULAR,3-0-0-0(9),Sukumar Vellakkal(I),vellakkal@iitk.ac.in (I),M (T203) Th (T203)  12:00-13:15,T203,,,,,Document
+357,ECO,ENVIRONMENTAL ECONOMICS: POLICY AND TRADE(ECO725),,"DE-6 DE,PRF / REGULAR",3-0-0-0(9),Sujaya Sircar(I),ssircar@iitk.ac.in (I),W (T112) F (T112)  15:30-17:00,T112,,,,,Not Available
+358,ECO,PUBLIC ECONOMICS AND PUBLIC POLICY(ECO731),,DE-4 PRF / REGULAR,3-0-0-0(9),Neelanjan Datta(I),ndatta@iitk.ac.in (I),M (L05) Th (L05)  14:00-15:15,L05,,,,,Document
+359,ECO,LAW AND ECONOMICS(ECO751),,"DE-3 DE,PRF / REGULAR",3-0-0-0(9),P MURALI  PRASAD (I),pmprasad@iitk.ac.in (I),MTh 12:00-13:15,,,,,,Not Available
+360,ECO,FINANCIAL ECONOMETRICS(ECO764),,"PG-15 DE,PRF / REGULAR",3-0-0-0(9),WASIM AHMAD(I),wasimad@iitk.ac.in (I),T (L08) Th (L08)  15:30-17:00,L08,,,,,Not Available
+361,ECO,PHD THESIS(ECO799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCECO (I),dpgc_ecos@iitk.ac.in (I),,,,,,,Not Available
+362,ECO,PG SEMINAR(ECO801),,SLOT-BLANK PRF / REGULAR,0-0-0-0(0),Aditya Vikram(I),vikrama@iitk.ac.in (I),,,,,,,Document
+363,ECO,PROFESSIONAL DEVELOPMENT & COMMUNICATION SKILLS(ECO888),,SLOT-BLANK PRF / REGULAR,1-0-0-0(3),DPGCECO (I),dpgc_ecos@iitk.ac.in (I),,,,,,,Not Available
+364,ECO,APPLIED PROBABILITY AND STATISTICS(HSO201),,ESO-2 ESO/SO / REGULAR,3-1-0-0(11),JOYDEEP  DUTTA (I),jdutta@iitk.ac.in (I),M (L18) Th (L18) F (L18)  11:00-12:00,L18,W (DJAC: 206H) W (DJAC: 205H) W (DJAC: 203H)  11:00-12:00,"DJAC: 203H ,DJAC: 205H ,DJAC: 206H",,,Not Available
+365,EE,SIGNALS  SYSTEMS AND NETWORKS(EE200),,"3-1-1 DE,OE,DC / REGULAR",3-1-0-0(11),"NAREN  NAIK     (I), Tushar Sandhan(O)","nnaik@iitk.ac.in (I), sandhan@iitk.ac.in (O)",M (L18) W (L18) F (L18)  12:00-13:00,L18,Th (WL228) Th (L13) Th (L05) Th (L04) Th (L02)  12:00-13:00,"L02 ,L04 ,L05 ,L13 ,WL228",,,Not Available
+366,EE,PRINCIPLES OF COMMUNICATIONS(EE320),,"SLOT-1-1 DE,PRF,OE,DC,Minor / REGULAR",3-1-0-0(11),"Abhishek Gupta(I), KETAN  RAJAWAT (O)","gkrabhi@iitk.ac.in (I), ketan@iitk.ac.in (O)",T (L18) W (L18) Th (L18)  08:00-09:00,L18,F (T108) F (T107) F (T106) F (T105) F (T104) F (T103)  15:00-16:00,"T103 ,T104 ,T105 ,T106 ,T107 ,T108",,,Document
+367,EE,POWER SYSTEMS(EE330),,"SLOT-2-2 DE,PRF,OE,DC,Minor / REGULAR",3-1-0-0(11),ABHEEJEET  MOHAPATRA   (I),abheem@iitk.ac.in (I),"M (L17) F (L17)  08:00-09:00 ,T (L17)  09:00-10:00",L17,Th (T102) Th (T101) Th (T106) Th (T105) Th (T104) Th (T103)  11:00-12:00,"T103 ,T104 ,T105 ,T106 ,T101 ,T102",,,Document
+368,EE,DIGITAL ELECTRONICS(EE370),,"ESO/SO-3 DE,PRF,OE,DC,Minor / REGULAR",3-1-0-0(11),SHUBHAM  SAHAY(I),ssahay@iitk.ac.in (I),M (L17) W (L17) F (L17)  11:00-12:00,L17,T (T108) T (T107) T (T106) T (T105) T (T104) T (T103)  17:00-18:00,"T103 ,T104 ,T105 ,T106 ,T107 ,T108",,,Document
+369,EE,ELECTRICAL ENGINEERING LAB I(EE380),( ESC201A OR ESC201 AND ESO203 OR ESO203A AND EE210 OR EE210A AND EE250 OR EE250A  ),"3-1-4 PRF,DC / REGULAR",0-3-6-0(12),YATINDRA NATH  SINGH (I),ynsingh@iitk.ac.in (I),"T (L02)  12:00-13:00 ,F (L02)  16:00-17:00 ,Th (L02)  17:00-18:00",L02,,,MTWTh 14:00-17:00,,Document
+370,EE,ELECTRICAL ENGINEERING COMMUNICATION SKILLS(EE390),,"SLOT-BLANK PRF,DC / REGULAR",0-0-2-0(2),"A R HARISH (I), Debdatta Ray(O)","arh@iitk.ac.in (I), dray@iitk.ac.in (O)",,,,,T (L17)  10:00-12:00,L17,Not Available
+371,EE,UNDER GRADUATE PROJECT II(EE392A),,SLOT-BLANK PRF / REGULAR,0-0-0-0(9),DUGCEE (I),dugc_ee@iitk.ac.in (I),,,,,,,Not Available
+372,EE,ELECTRICAL ENGINEERING LAB I(EE480A),,"3-1-4 PRF,DC / REGULAR",0-2-6-0(10),YATINDRA NATH  SINGH (I),ynsingh@iitk.ac.in (I),"T (L02)  12:00-13:00 ,F (L02)  16:00-17:00 ,Th (L02)  17:00-18:00",L02,,,MTWTh 14:00-17:00,,Document
+373,EE,UNDER GRADUATE PROJECT -III(EE491A),,SLOT-BLANK UGP-3 / REGULAR,0-0-0-0(9),DUGCEE (I),dugc_ee@iitk.ac.in (I),,,,,,,Not Available
+374,EE,UNDER GRADUATE PROJECT-IV(EE492A),,SLOT-BLANK UGP-4 / REGULAR,0-0-0-0(9),DUGCEE (I),dugc_ee@iitk.ac.in (I),,,,,,,Not Available
+375,EE,UNDER GRADUATE PROJECT I(EE496),,SLOT-BLANK UGP-1 / REGULAR,0-0-0-0(9),DUGCEE (I),dugc_ee@iitk.ac.in (I),,,,,,,Not Available
+376,EE,UNDER GRADUATE PROJECT II(EE497),,SLOT-BLANK UGP-2 / REGULAR,0-0-0-0(9),DUGCEE (I),dugc_ee@iitk.ac.in (I),,,,,,,Not Available
+377,EE,UNDER GRADUATE PROJECT III(EE498),,SLOT-BLANK UGP-3 / REGULAR,0-0-0-0(9),DUGCEE (I),dugc_ee@iitk.ac.in (I),,,,,,,Not Available
+378,EE,STATISTICAL SIGNAL PROCESSING-I(EE602),,"PG-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),ADITYA K  JAGANNATHAM   (I),adityaj@iitk.ac.in (I),M (T201) Th (T201)  09:00-10:15,T201,,,,,Document
+379,EE,IMAGE PROCESSING(EE604),,"OE-6 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Koteswar Jerripothula(I),kotesrj@iitk.ac.in (I),W (L05) F (L05)  15:30-17:00,L05,,,,,Document
+380,EE,INTRODUCTION TO SIGNAL ANALYSIS(EE605),,"PG-6 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),AJIT K CHATURVEDI (I),akc@iitk.ac.in (I),W (L12) F (L12)  10:30-12:00,L12,,,,,Not Available
+381,EE,ANALOG/DIGITAL VLSI CIRCUITS(EE610),,"PG-9 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Chithra (I),chithra@iitk.ac.in (I),W (WL235) F (WL235)  17:00-18:30,WL235,,,,,Document
+382,EE,SOLID STATE DEVICES I(EE614),,"DE-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Avinash Lahgere(I),alahgere@iitk.ac.in (I),M (L12) Th (L12)  10:30-12:00,L12,,,,,Document
+383,EE,SEMICONDUCTOR DEVICE MODELLING(EE616),,"PG-6 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),ALOKE KUMAR DUTTA (I),aloke@iitk.ac.in (I),W (EE: ACES213) F (EE: ACES213)  10:30-12:00,EE: ACES213,,,,,Document
+384,EE,INDUSTRIAL AUTOMATION AND CONTROL(EE617),,"DE-8 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),NISHCHAL K  VERMA   (I),nishchal@iitk.ac.in (I),W (T109) F (T109)  12:00-13:15,T109,,,,,Document
+385,EE,INTEGRATED CIRCUIT FABRICATION TECHNOLOGY(EE618),,"OE-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Amit   Verma(I),amitkver@iitk.ac.in (I),W (L11) F (L11)  09:00-10:15,L11,,,,,Document
+386,EE,REPRESENTATION AND ANALYSIS OF RANDOM SIGNALS(EE621),,"PG-9 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Subrahmanya  Peruru(I),swamyp@iitk.ac.in (I),W (L17) F (L17)  17:00-18:30,L17,,,,,Document
+387,EE,COMMUNICATION THEORY(EE622),,"PG-13 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),KASTURI  VASUDEVAN   (I),vasu@iitk.ac.in (I),M (T206) Th (T206)  14:00-15:15,T206,,,,,Document
+388,EE,SPEECH SIGNAL PROCESSING(EE627),,SLOT-BLANK PRF / REGULAR,3-0-0-0(4),Not Offered (I),automation@iitk.ac.in (I),,,,,,,Not Available
+389,EE,SIMULATON OF MODERN POWER SYSTEMS(EE630),,"PG-2 DE,PRF,OE,Minor / REGULAR",3-0-3-0(12),"Swathi Battula(I), Ebin Mathew(O)","swathi@iitk.ac.in (I), ebincm@iitk.ac.in (O)",M (T112) Th (T112)  09:00-10:15,T112,,,W 14:00-17:00,,Document
+390,EE,ADVANCED POWER SYSTEM STABILITY(EE631),,"DE-3 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),SAIKAT  CHAKRABARTI   (I),saikatc@iitk.ac.in (I),M (T105) Th (T105)  12:00-13:15,T105,,,,,Not Available
+391,EE,ELECTRICAL INSULATION IN POWER APPARATUS AND SYSTEMS(EE634),,"OE-8 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),NANDINI  GUPTA   (I),ngupta@iitk.ac.in (I),W (EE: ACES213) F (EE: ACES213)  12:00-13:15,EE: ACES213,,,,,Document
+392,EE,HVDC TRANSMISSION & FLEXIBLE A C TRANSMISSION SYSTEMS(EE635),,"PG-9 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Gururaj Vishwanath(I),gururajmv@iitk.ac.in (I),W (T102) F (T102)  17:00-18:30,T102,,,,,Document
+393,EE,ADVANCED ENGINEERING ELECTROMAGNETICS(EE641),,OE-1 PRF / REGULAR,3-0-0-0(9),ANIMESH BISWAS (I),abiswas@iitk.ac.in (I),M (EE: ACES213) W (EE: ACES213) F (EE: ACES213)  17:00-18:00,EE: ACES213,,,,,Not Available
+394,EE,ANTENNAS ANALYSIS & SYNTHESIS(EE642),( EE340 OR EE340A  ),"DE-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Raghvendra Chaudhary(I),raghvendra@iitk.ac.in (I),M (EE: ACES213) Th (EE: ACES213)  10:30-12:00,EE: ACES213,,,,,Document
+395,EE,MONOLITHIC MICROWAVE ICS(EE645),( EE340 AND EE210  ),"PG-1 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Nagaditya Poluri(I),npoluri@iitk.ac.in (I),"M (EE: ACES213) F (EE: ACES213)  08:00-09:00 ,T (EE: ACES213)  09:00-10:00",EE: ACES213,,,,,Document
+396,EE,MICROWAVE MEASUREMENTS AND DESIGN(EE647),,"SLOT-1 DE,PRF,OE,Minor / REGULAR",2-0-3-0(9),A R HARISH (I),arh@iitk.ac.in (I),W (EE: ACES213) Th (EE: ACES213)  08:00-09:00,EE: ACES213,,,Th 14:00-17:00,,Not Available
+397,EE,BASICS OF MODERN CONTROL SYSTEMS(EE650),,"PG-6 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Twinkle Tripathy(I),ttripathy@iitk.ac.in (I),W (L15) F (L15)  10:30-12:00,L15,,,,,Document
+398,EE,DIGITAL CONTROL(EE653),,"OE-1 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),RAMPRASAD  POTLURI   (I),potluri@iitk.ac.in (I),M (T107) W (T107) F (T107)  17:00-18:00,T107,,,,,Document
+399,EE,ROBUST CONTROL SYSTEMS(EE654),,"OE-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Abhilash Patel(I),apatel@iitk.ac.in (I),W (T101) F (T101)  09:00-10:15,T101,,,,,Document
+400,EE,BASICS OF POWER ELECTRONIC CONVERTERS(EE660),,"PG-6 DE,PRF,OE,Minor / REGULAR",3-0-3-0(12),PARTHASARATHI  SENSARMA   (I),sensarma@iitk.ac.in (I),W (T210) F (T210)  10:30-12:00,T210,,,F 14:00-17:00,,Not Available
+401,EE,FUNDAMENTALS OF ELECTRIC DRIVES(EE664),,"PG-3 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Piyush Kant(I),piyushkant@iitk.ac.in (I),M (WL235) Th (WL235)  10:30-12:00,WL235,,,,,Document
+402,EE,INFORMATION THEORY(EE667),,"PG-15 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Washim Mondal(I),wmondal@iitk.ac.in (I),T (T102) Th (T102)  15:30-17:00,T102,,,,,Document
+403,EE,WIRELESS COMMUNICATIONS(EE670),,"DE-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),ADRISH BANERJEE (I),adrish@iitk.ac.in (I),M (T205) Th (T205)  10:30-12:00,T205,,,,,Not Available
+404,EE,MIMO WIRELESS COMMUNICATION(EE677),,"PG-1 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),ROHIT  BUDHIRAJA   (I),rohitbr@iitk.ac.in (I),"M (WL228) F (WL228)  08:00-09:00 ,T (WL228)  09:00-10:00",WL228,,,,,Not Available
+405,EE,SMART GRID TECHNOLOGIES(EE679),,"OE-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Ankush Sharma(I),ansharma@iitk.ac.in (I),W (EE: ACES213) F (EE: ACES213)  09:00-10:15,EE: ACES213,,,,,Document
+406,EE,QUANTUM AND WAVE PHENOMENA(EE683),,"PG-4 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),"SHILPI  GUPTA   (I), Rituraj (O)","shilpig@iitk.ac.in (I), rituraj@iitk.ac.in (O)",M (EE: ACES213) Th (EE: ACES213)  12:00-13:15,EE: ACES213,,,,,Document
+407,EE,FIBER-OPTIC COMMUNICATIONS(EE684),,"PG-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),PRADEEP  KUMAR K   (I),pradeepk@iitk.ac.in (I),M (T203) Th (T203)  09:00-10:15,T203,,,,,Document
+408,EE,SEMICONDUCTOR OPTICAL COMMUNICATION DEVICES(EE685),,"PG-9 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),SHILPI  GUPTA   (I),shilpig@iitk.ac.in (I),W (T101) F (T101)  17:00-18:30,T101,,,,,Not Available
+409,EE,SPECIAL TOPICS IN MICROELECTRONICS(EE698D),,"OE-8 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),BAQUER  MAZHARI   (I),baquer@iitk.ac.in (I),W (T108) F (T108)  12:00-13:15,T108,,,,,Not Available
+410,EE,POWER CONVERTERS FOR EV CHARGING(EE698E),,"PG-15 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Suvendu Samanta(I),suvendus@iitk.ac.in (I),T (EE: ACES213) Th (EE: ACES213)  15:30-17:00,EE: ACES213,,,,,Document
+411,EE,RF MICROELECTRONICS(EE698F),,"SLOT-BLANK DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Not Offered (I),automation@iitk.ac.in (I),,,,,,,Not Available
+412,EE,MIXED -SIGNAL IC DESIGN(EE698I),,"DE-3 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Ashwin Kumar Ramakrishnan Sivakumar(I),ashwinrs@iitk.ac.in (I),M (T101) Th (T101)  12:00-13:15,T101,,,,,Not Available
+413,EE,INTRODUCTION TO COMPUTATIONAL BIOMEDICAL IMAGING(EE698J),,"OE-5 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),NAREN  NAIK     (I),nnaik@iitk.ac.in (I),"T (EE: ACES213)  14:00-15:15 ,M (EE: ACES213)  15:30-17:00",EE: ACES213,,,,,Not Available
+414,EE,PROGRAMMING FOR SIGNAL PROCESSING(EE698K),,"DE-3 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Vipul  Arora(I),vipular@iitk.ac.in (I),M (T208) Th (T208)  12:00-13:15,T208,,,,,Document
+415,EE,M TECH THESIS(EE699),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),"DPGCEE (I), DUGCEE (O)","dpgcee@iitk.ac.in (I), dugc_ee@iitk.ac.in (O)",,,,,,,Not Available
+416,EE,ADVANCED NETWORKING(EE798C),,"OE-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),YATINDRA NATH  SINGH (I),ynsingh@iitk.ac.in (I),W (T210) F (T210)  09:00-10:15,T210,,,,,Document
+417,EE,NANOPHOTONICS(EE798I),,"PG-15 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Rituraj (I),rituraj@iitk.ac.in (I),T (T101) Th (T101)  15:30-17:00,T101,,,,,Document
+418,EE,INTELLIGENT PATTERN RECOGNITION(EE798R),,"OE-5 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Tushar Sandhan(I),sandhan@iitk.ac.in (I),"T (L16)  14:00-15:15 ,M (L16)  15:30-17:00",L16,,,,,Not Available
+419,EE,SIGNAL PROCESSING FOR OPTICAL METROLOGY(EE798X),,"PG-13 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),RAJSHEKHAR  GANNAVARPU (I),gshekhar@iitk.ac.in (I),M (EE: ACES213) Th (EE: ACES213)  14:00-15:15,EE: ACES213,,,,,Document
+420,EE,ROBOT SYSTEMS: DYNAMICS AND CONTROL(EE798Y),,"PG-3 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),SOUMYA RANJAN  SAHOO (I),srsahoo@iitk.ac.in (I),M (T209) Th (T209)  10:30-12:00,T209,,,,,Document
+421,EE,MATHEMATICAL ENGINEERING AND PHYSICS USING MACHINE LEARNING(EE798Z),,"OE-1 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Sandip Tiwari(I),stiwari@iitk.ac.in (I),M (L04) W (L04) F (L04)  17:00-18:00,L04,,,,,Document
+422,EE,PHD THESIS(EE799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCEE (I),dpgcee@iitk.ac.in (I),,,,,,,Not Available
+423,EE,ELECTRICAL ENGINEERING PG SEMINAR COURSE(EE801),,"PG-12 DE,PRF,OE,Minor / REGULAR",0-0-0-0(0),"KUMAR VAIBHAV SRIVASTAVA (I), Twinkle Tripathy(O), PRADEEP  KUMAR K   (O), Gururaj Vishwanath(O), Ashwin Kumar Ramakrishnan Sivakumar(O), ADRISH BANERJEE (O)","kvs@iitk.ac.in (I), ttripathy@iitk.ac.in (O), pradeepk@iitk.ac.in (O), gururajmv@iitk.ac.in (O), ashwinrs@iitk.ac.in (O), adrish@iitk.ac.in (O)",T (T211) T (T210) T (T209) T (T208) T (T207) T (L15)  11:00-12:00,"L15 ,T207 ,T208 ,T209 ,T210 ,T211",,,,,Document
+424,EE,INTRODUCTION TO PROFESSION AND COMMUNICATION SKILLS FOR ELECTRICAL ENGINEERS(EE888),,PG-8 PRF / REGULAR,1-0-0-0(3),MD JALEEL  AKHTAR   (I),mjakhtar@iitk.ac.in (I),T (T210)  12:00-13:00,T210,,,,,Document
+425,EE,MS - RESEARCH THESIS(EE899),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCEE (I),dpgcee@iitk.ac.in (I),,,,,,,Not Available
+426,EE,INTRODUCTION TO ELECTRONICS(ESC201),,CORE 8 IC / REGULAR,3-1-3-0(14),"Imon Mondal(I), Rik Dey(O)","imon@iitk.ac.in (I), rikdey@iitk.ac.in (O)",M (L20) W (L20) F (L20)  08:00-09:00,L20,Th (T212) Th (T211) Th (T210) Th (T209) Th (T208) Th (T207) Th (T206) Th (T205) Th (T204) Th (T203) Th (T112) Th (T111) Th (T110) Th (T109) Th (T108) Th (T107) Th (T106) Th (T105) Th (T104) Th (T103)  08:00-09:00,"T103 ,T104 ,T105 ,T106 ,T107 ,T108 ,T109 ,T110 ,T111 ,T112 ,T203 ,T204 ,T205 ,T206 ,T207 ,T208 ,T209 ,T210 ,T211 ,T212",MTWThF 14:00-16:45,,Document
+427,ES,CRYSTALLOGRAPHY AND MINERALOGY(ES201),,"3-1 OE,DC,Minor / REGULAR",3-0-2-0(11),Deepak Dhingra(I),ddhingra@iitk.ac.in (I),M (ES: WL305) W (ES: WL305) F (ES: WL305)  12:00-12:50,ES: WL305,,,WTh 14:00-15:50,,Document
+428,ES,PHYSICAL HYDROLOGY(ES202),,"ESO/SO-3 OE,DC,Minor / REGULAR",3-0-0-0(9),INDRA SEKHAR SEN(I),isen@iitk.ac.in (I),M (ES: WL305) W (ES: WL305) F (ES: WL305)  11:00-11:50,ES: WL305,,,,,Document
+429,ES,GEOMORPHOLOGY(ES203),,"OE-1 OE,DC,Minor / REGULAR",2-0-0-0(6),JAVED N  MALIK     (I),javed@iitk.ac.in (I),M (ES: WL305) W (ES: WL305)  17:00-18:00,ES: WL305,,,,,Not Available
+430,ES,FUNDAMENTALS OF STRATIGRAPHY(ES301),,"OE-7 OE,DC,Minor / REGULAR",2-0-0-0(6),Hiranya Sahoo(I),hiranya@iitk.ac.in (I),M (ES: ESB3-312) F (ES: ESB3-312)  08:00-08:45,ES: ESB3-312,,,,,Not Available
+431,ES,ORE GEOLOGY(ES302),,"CORE 12 OE,DC,Minor / REGULAR",2-0-3-0(9),Govindarao Boddepalli(I),bgovind@iitk.ac.in (I),T (ES: WL305) Th (ES: WL305)  12:00-13:00,ES: WL305,,,F 14:00-17:00,,Document
+432,ES,STRUCTURAL GEOLOGY(ES303),,"PG-10 OE,DC,Minor / REGULAR",2-0-3-0(9),Amar  Agarwal(I),amarag@iitk.ac.in (I),T (ES: WL305) W (ES: WL305)  08:00-09:00,ES: WL305,,,W (ES: ESB3-312)  14:00-17:00,ES: ESB3-312,Document
+433,ES,GEOMORPHOLOGY AND EARTH SURFACE PROCESSES(ES313A),,PHY102A (B) PRF / REGULAR,3-0-0-0(9),JAVED N  MALIK     (I),javed@iitk.ac.in (I),MW 15:00-16:00,,,,,,Not Available
+434,ES,UNDER GRADUATE PROJECT -III(ES393A),,SLOT-BLANK UGP-3 / REGULAR,0-0-0-0(9),DUGCES (I),dugces@iitk.ac.in (I),,,,,,,Not Available
+435,ES,COMMUNICATION SKILLS IN EARTH SCIENCES(ES400A),,SLOT-BLANK DC / REGULAR,0-0-2-0(2),DUGCES (I),dugces@iitk.ac.in (I),,,,,,,Not Available
+436,ES,SEDIMENTARY PROCESSES & STRATIGRAPHIC PRINCIPLES(ES412A),,DE-7 PRF / REGULAR,2-0-2-0(8),Hiranya Sahoo(I),hiranya@iitk.ac.in (I),M (ES: ESB3-312) F (ES: ESB3-312)  08:00-09:00,ES: ESB3-312,,,,,Not Available
+437,ES,GEOLOGICAL EVOLUTION OF INDIAN PLATE(ES417A),,"SLOT-6 DE,OE,DC,Minor / REGULAR",2-0-0-0(6),"Anupam Banerjee(I), Govindarao Boddepalli(O)","anupamb@iitk.ac.in (I), bgovind@iitk.ac.in (O)",T (ES: ESB3-312) Th (ES: ESB3-312)  17:00-18:00,ES: ESB3-312,,,,,Document
+438,ES,ENGINEERING GEOLOGY(ES452A),,"DE-3 OE,DC,Minor / REGULAR",3-0-0-0(9),"JAVED N  MALIK     (I), Amar  Agarwal(O)","javed@iitk.ac.in (I), amarag@iitk.ac.in (O)",M (T112) Th (T112)  12:00-13:15,T112,,,,,Not Available
+439,ES,VOLCANOLOGY(ES457A),,"DE-1 DE,OE,Minor / REGULAR",3-0-0-0(9),Anupam Banerjee(I),anupamb@iitk.ac.in (I),M (ES: WL305) Th (ES: WL305)  09:00-10:15,ES: WL305,,,,,Document
+440,ES,MS PROJECT(ES599),,SLOT-BLANK DE / REGULAR,0-0-0-0(36),DUGCES (I),dugces@iitk.ac.in (I),,,,,,,Not Available
+441,ES,SATELLITE REMOTE SENSING & GIS FOR GEORESOURCE EVALUATION(ES644),,PG-3 PRF / REGULAR,2-0-3-0(9),Thupstan Angchuk(I),thupstan@iitk.ac.in (I),M (ES: ESB3-312) Th (ES: ESB3-312)  10:30-12:00,ES: ESB3-312,,,T 14:00-16:50,,Document
+442,ES,ISOTOPE GEOCHEMISTRY AND APPLICATIONS(ES649),,"PG-4 DE,PRF / REGULAR",3-0-0-0(9),DEBAJYOTI  PAUL (I),dpaul@iitk.ac.in (I),M (ES: ESB3-312) Th (ES: ESB3-312)  12:00-13:15,ES: ESB3-312,,,,,Document
+443,ES,MATHEMATICS FOR EARTH SCIENCES(ES651),,"PG-9 PRF,DC / REGULAR",3-0-0-0(9),Rabiul Biswas(I),rabiul@iitk.ac.in (I),W (ES: ESB3-312) F (ES: ESB3-312)  17:00-18:30,ES: ESB3-312,,,,,Document
+444,ES,ADVANCED STRUCTURAL GEOLOGY(ES654),,"PG-5 DE,PRF / REGULAR",3-0-0-0(9),SANTANU  MISRA (I),smisra@iitk.ac.in (I),W (T111) F (T111)  09:00-10:15,T111,,,,,Document
+445,ES,SOLID EARTH GEOPHYSICS(ES655),,"PG-2 DE,PRF / REGULAR",3-0-2-0(11),ANIMESH MANDAL(I),animeshm@iitk.ac.in (I),M (ES: ESB3-312) Th (ES: ESB3-312)  09:00-10:15,ES: ESB3-312,,,W (ES: ESB3-312)  14:00-15:50,ES: ESB3-312,Document
+446,ES,APPLIED HYDROGEOLOGY(ES666),,"PG-6 DE,PRF / REGULAR",3-0-0-0(9),Tajdarul  Syed(I),tsyed@iitk.ac.in (I),W (ES: ESB3-312) F (ES: ESB3-312)  10:30-12:00,ES: ESB3-312,,,,,Not Available
+447,ES,SEISMIC EXPLORATION AND SUBSURFACE IMAGING(ES682),,"DE-8 DE,PRF / REGULAR",3-0-0-0(9),DIBAKAR GHOSAL(I),dghosal@iitk.ac.in (I),W (ES: ESB3-312) F (ES: ESB3-312)  12:00-13:15,ES: ESB3-312,,,,,Document
+448,ES,M TECH THESIS(ES699),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),"DPGCES (I), DUGCES (O)","dpgces@iitk.ac.in (I), dugces@iitk.ac.in (O)",,,,,,,Not Available
+449,ES,PH D THESIS(ES799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCES (I),dpgces@iitk.ac.in (I),,,,,,,Not Available
+450,ES,INTRODUCTION TO PROFESSION & COMMUNICATION SKILLS IN EARTH SCIENCES(ES888),,"OE-5 PRF,DC / REGULAR",1-0-0-0(3),DPGCES (I),dpgces@iitk.ac.in (I),M (ES: ESB3-312)  15:30-17:00,ES: ESB3-312,,,,,Not Available
+451,ES,FUNDAMENTALS OF EARTH SCIENCES(ESO213),,ESO-3 ESO/SO / REGULAR,3-0-0-0(9),Ishwar Cukkemane(I),ishwar@iitk.ac.in (I),M (L01) W (L01) F (L01)  09:00-10:00,L01,,,,,Document
+452,HSS,INTRODUCTION TO WESTERN ART(ART103),,HSS I (1) HS1 / REGULAR,3-1-0-0(11),SHATARUPA THAKURTA  ROY   (I),stroy@iitk.ac.in (I),M (L18) W (L18) F (L18)  17:00-18:00,L18,Th (L18)  17:00-18:00,L18,,,Not Available
+453,HSS,MODERN ART(ART402),,HSS II (2) HS2 / REGULAR,3-0-0-0(9),RITWIJ BHOWMIK(I),ritwij@iitk.ac.in (I),M (L08) W (L08) F (L08)  17:10-18:00,L08,,,,,Not Available
+454,HSS,ART CRITICISM: THEORY AND PRACTICE(ART406),,"HSS II (1) HS2,OE / REGULAR",3-0-0-0(9),Rajarshi Sengupta (I),rsengupta@iitk.ac.in (I),T (DJAC: 206H) W (DJAC: 206H) F (DJAC: 206H)  12:00-13:00,DJAC: 206H,,,,,Document
+455,HSS,ART AS A MEDIUM OF COMMUNICATION(ART704),,PG-9 PRF / REGULAR,3-0-0-0(9),Rajarshi Sengupta (I),rsengupta@iitk.ac.in (I),W (HSS: FB668) F (HSS: FB668)  17:00-18:30,HSS: FB668,,,,,Not Available
+456,HSS,RESEARCH METHODS IN VISUAL CULTURE(ART708),,PG-6 PRF / REGULAR,2-0-3-0(9),SHATARUPA THAKURTA  ROY   (I),stroy@iitk.ac.in (I),W (WL235) F (WL235)  10:30-12:00,WL235,,,,,Not Available
+457,HSS,CREATIVE PAINTING-METHODOLOGY & PRACTICES(ART711),,PG-4 PRF / REGULAR,2-0-3-0(9),RITWIJ BHOWMIK(I),ritwij@iitk.ac.in (I),M (HSS: FB657) Th (HSS: FB657)  12:00-13:15,HSS: FB657,,,,,Not Available
+458,HSS,INTRODUCTION TO LINGUISTICS(ENG122),,HSS I (1) HS1 / REGULAR,3-1-0-0(11),CHAITHRA  PUTTASWAMY (I),chai@iitk.ac.in (I),M (L06) W (L06) F (L06)  17:00-18:00,L06,Th (L06)  17:00-18:00,L06,,,Document
+459,HSS,SECOND LANGUAGE ACQUISITION(ENG408),,HSS II (1) HS2 / REGULAR,3-0-0-0(9),SUDHARSHANA N P(I),sudh@iitk.ac.in (I),T (L15) W (L15) F (L15)  12:00-13:00,L15,,,,,Document
+460,HSS,THE INDO-ANGLIAN NOVEL(ENG431),,HSS II (1) HS2 / REGULAR,3-0-0-0(9),MINI  CHANDRAN (I),minic@iitk.ac.in (I),T (L11) W (L11) F (L11)  12:00-13:00,L11,,,,,Document
+461,HSS,MODERN DRAMA(ENG433),,HSS II (1) HS2 / REGULAR,3-0-0-0(9),G  NEELAKANTAN (I),gn@iitk.ac.in (I),T (L14) W (L14) F (L14)  12:00-13:00,L14,,,,,Document
+462,HSS,INDIAN LITERATURE(ENG437),,HSS II (1) HS2 / REGULAR,3-0-0-0(9),Muthukumar M(I),mkmuthu@iitk.ac.in (I),T (DJAC: 205H) W (DJAC: 205H) F (DJAC: 205H)  12:00-13:00,DJAC: 205H,,,,,Document
+463,HSS,POSTCOLONIAL LITERATURE(ENG438),,HSS II (2) HS2 / REGULAR,3-0-0-0(9),SUCHITRA  MATHUR (I),suchitra@iitk.ac.in (I),M (L09) W (L09) F (L09)  17:00-18:00,L09,,,,,Document
+464,HSS,NATURAL LANGUAGE SEMANTICS(ENG443),,HSS II (2) HS2 / REGULAR,3-0-0-0(9),Chinmay Dharurkar(I),chinmayd@iitk.ac.in (I),M (DJAC: 203H) W (DJAC: 203H) F (DJAC: 203H)  17:00-18:00,DJAC: 203H,,,,,Document
+465,HSS,ACADEMIC WRITING(ENG450),,HSS II (2) HS2 / REGULAR,3-0-0-0(9),Lakshmana Pinninti(I),lakshman@iitk.ac.in (I),M (DJAC: 205H) W (DJAC: 205H) F (DJAC: 205H)  17:00-18:00,DJAC: 205H,,,,,Document
+466,HSS,CLIMATE FICTION AND FILMS(ENG456),,HSS II (2) HS2 / REGULAR,3-0-0-0(9),T  RAVICHANDRAN (I),trc@iitk.ac.in (I),M (L12) W (L12) F (L12)  17:00-18:00,L12,,,,,Document
+467,HSS,FILM AND THEORY(ENG457),,HSS II (1) HS2 / REGULAR,3-0-0-0(9),Syed Feroz  Hassan (I),feroz@iitk.ac.in (I),T (L13) W (L13) F (L13)  12:00-13:00,L13,,,,,Document
+468,HSS,AUTOBIOGRAPHICAL LITERATURE(ENG460),,HSS II (2) HS2 / REGULAR,3-0-0-0(9),SAYAN CHATTOPADHYAY(I),sayanc@iitk.ac.in (I),M (L13) W (L13) F (L13)  17:00-18:00,L13,,,,,Document
+469,HSS,SYNTAX AND STRUCTURES OF LANGUAGE(ENG467),,HSS II (1) HS2 / REGULAR,3-0-0-0(9),Sh Francis Monsang(I),sfmonsang@iitk.ac.in (I),T (DJAC: 203H) W (DJAC: 203H) F (DJAC: 203H)  12:00-13:00,DJAC: 203H,,,,,Document
+470,HSS,INTRODUCTION TO INDIAN ENGLISH AUTOBIOGRAPHY(ENG611),,PG-4 PRF / REGULAR,3-0-0-0(9),SAYAN CHATTOPADHYAY(I),sayanc@iitk.ac.in (I),M (HSS: FB668) Th (HSS: FB668)  12:00-13:15,HSS: FB668,,,,,Document
+471,HSS,NATION THEORY AND LITERATURE(ENG705),,PG-14 PRF / REGULAR,3-0-0-0(9),Muthukumar M(I),mkmuthu@iitk.ac.in (I),"T (HSS: FB657)  14:00-15:15 ,M (HSS: FB657)  15:30-17:00",HSS: FB657,,,,,Not Available
+472,HSS,APPLIED LINGUISTICS(ENG708),,PG-6 PRF / REGULAR,3-0-0-0(9),SUDHARSHANA N P(I),sudh@iitk.ac.in (I),WF 10:30-12:00,,,,,,Document
+473,HSS,LINGUISTIC ANALYSIS(ENG709),,PG-3 PRF / REGULAR,3-0-0-0(9),Sh Francis Monsang(I),sfmonsang@iitk.ac.in (I),M (HSS: FB668) Th (HSS: FB668)  10:30-12:00,HSS: FB668,,,,,Not Available
+474,HSS,INDIVIDUAL PROJECTS(ENG716),,PG-6 PRF / REGULAR,3-0-0-0(9),G  NEELAKANTAN (I),gn@iitk.ac.in (I),W (WL228) F (WL228)  10:30-12:00,WL228,,,,,Document
+475,HSS,FEMINIST THEORY AND LITERATURE(ENG743),,"PG-6 DE,PRF,OE / REGULAR",3-0-0-0(9),SUCHITRA  MATHUR (I),suchitra@iitk.ac.in (I),W (HSS: FB668) F (HSS: FB668)  10:30-12:00,HSS: FB668,,,,,Document
+476,HSS,HISTORICAL LINGUISTICS(ENG754),,PG-6 PRF / REGULAR,3-0-0-0(9),Chinmay Dharurkar(I),chinmayd@iitk.ac.in (I),WF 10:30-12:00,,,,,,Document
+477,HSS,RESEARCH METHODS IN ENGLISH AS A SECOND LANGUAGE STUDIES(ENG755),,PG-3 PRF / REGULAR,3-0-0-0(9),Lakshmana Pinninti(I),lakshman@iitk.ac.in (I),M (HSS: FB657) Th (HSS: FB657)  10:30-12:00,HSS: FB657,,,,,Document
+478,HSS,LANGUAGE DOCUMENTATION AND DESCRIPTION(ENG763),,PG-4 PRF / REGULAR,3-0-0-0(9),CHAITHRA  PUTTASWAMY (I),chai@iitk.ac.in (I),M (EEM111) Th (EEM111)  12:00-13:15,EEM111,,,,,Document
+479,HSS,FILM THEORY AND HISTORIOGRAPHY(ENG765),,PG-5 PRF / REGULAR,3-0-0-0(9),Syed Feroz  Hassan (I),feroz@iitk.ac.in (I),W (HSS: FB657) F (HSS: FB657)  09:00-10:15,HSS: FB657,,,,,Document
+480,HSS,PERSPECTIVES OF THE POSTHUMAN AND/IN THE ANTHROPOCENE(ENG777),,PG-15 PRF / REGULAR,3-0-0-0(9),T  RAVICHANDRAN (I),trc@iitk.ac.in (I),T (T205) Th (T205)  15:30-17:00,T205,,,,,Document
+481,HSS,PHD THESIS(ENG799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCHSS (I),dpgc_hss@iitk.ac.in (I),,,,,,,Not Available
+482,HSS,PHD THESIS(FA799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCHSS (I),dpgc_hss@iitk.ac.in (I),,,,,,,Not Available
+483,HSS,DEMYSTIFYING CONSPIRACY THEORIES(IDC607),,PG-6 PRF / REGULAR,3-0-0-0(9),"Sushruth Ravish(I), Jothsna Rajan(O)","sravish@iitk.ac.in (I), jothsna@iitk.ac.in (O)",W (IME: C3) F (IME: C3)  10:30-12:00,IME: C3,,,,,Document
+484,HSS,INTRODUCTION TO CRITICAL THINKING(PHI147),,HSS I (1) HS1 / REGULAR,3-1-0-0(11),"A V RAVISHANKAR  SARMA (I), Sushruth Ravish(O)","avrs@iitk.ac.in (I), sravish@iitk.ac.in (O)",M (L20) W (L20) F (L20)  17:00-18:00,L20,Th (L20)  17:00-18:00,L20,,,Document
+485,HSS,INDIVIDUAL VS AUTHORITY(PHI448),,HSS II (1) HS2 / REGULAR,3-0-0-0(9),VINEET  SAHU (I),vineet@iitk.ac.in (I),T (L08) W (L08) F (L08)  12:00-13:00,L08,,,,,Document
+486,HSS,PHILOSOPHY OF COGNITIVE SCIENCE(PHI452),,HSS II (2) HS2 / REGULAR,3-0-0-0(9),Lalit  Saraswat(I),lalits@iitk.ac.in (I),M (L15) W (L15) F (L15)  17:00-18:00,L15,,,,,Document
+487,HSS,EXISTENTIALISM(PHI481),,HSS II (1) HS2 / REGULAR,3-0-0-0(9),PRASHANT BHALCHANDRA  BAGAD (I),pbagad@iitk.ac.in (I),T (L12) W (L12) F (L12)  12:00-13:00,L12,,,,,Document
+488,HSS,ADVANCED TOPICS IN PHILOSOPHY OF SCIENCE(PHI755),,PG-15 PRF / REGULAR,3-0-0-0(9),A V RAVISHANKAR  SARMA (I),avrs@iitk.ac.in (I),T (HSS: FB657) Th (HSS: FB657)  15:30-17:00,HSS: FB657,,,,,Not Available
+489,HSS,SOCIAL AND POLITICAL PHILOSPHY(PHI774),,PG-9 PRF / REGULAR,3-0-0-0(9),VINEET  SAHU (I),vineet@iitk.ac.in (I),W (HSS: FB657) F (HSS: FB657)  17:00-18:30,HSS: FB657,,,,,Document
+490,HSS,EVOLUTIONARY THEORIES OF KNOWLEDGE AND COGNITION(PHI786),,PG-15 PRF / REGULAR,3-0-0-0(9),Lalit  Saraswat(I),lalits@iitk.ac.in (I),T (HSS: FB668) Th (HSS: FB668)  15:30-17:00,HSS: FB668,,,,,Document
+491,HSS,PHILOSOPHY OF LITERATURE(PHI795),,PG-13 PRF / REGULAR,3-0-0-0(9),PRASHANT BHALCHANDRA  BAGAD (I),pbagad@iitk.ac.in (I),MTh 14:00-15:15,,,,,,Not Available
+492,HSS,PHD THESIS(PHI799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCHSS (I),dpgc_hss@iitk.ac.in (I),,,,,,,Not Available
+493,HSS,INTRODUCTION TO PSYCHOLOGY(PSY151),,HSS I (1) HS1 / REGULAR,3-1-0-0(11),"SHIKHA   DIXIT  (I), BRAJ  BHUSHAN (O)","shikha@iitk.ac.in (I), brajb@iitk.ac.in (O)",M (L01) W (L01) F (L01)  17:00-18:00,L01,Th (L04) Th (L03)  17:00-18:00,"L03 ,L04",,,Document
+494,HSS,PSYCHOLOGY OF WELLBEING(PSY470),,HSS II (2) HS2 / REGULAR,3-0-0-0(9),KUMAR RAVI  PRIYA (I),krp@iitk.ac.in (I),M (L10) W (L10) F (L10)  17:00-18:00,L10,,,,,Document
+495,HSS,PHD THESIS(PSY799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCHSS (I),dpgc_hss@iitk.ac.in (I),,,,,,,Not Available
+496,HSS,INTRODUCTION TO INDIAN SOCIETY(SOC173),,HSS I (1) HS1 / REGULAR,3-1-0-0(11),"MUNMUN JHA (I), Pradip  Swarnakar(O)","mjha@iitk.ac.in (I), spradip@iitk.ac.in (O)",M (L07) W (L07) F (L07)  17:00-18:00,L07,Th (L07)  17:00-18:00,L07,,,Not Available
+497,HSS,SOCIOLOGY OF DEVELOPMENT(SOC470),,HSS II (1) HS2 / REGULAR,3-0-0-0(9),BINAY  KUMAR  PATTNAIK (I),binay@iitk.ac.in (I),T (L06) F (L02)  12:00-13:15,"L02 ,L06",,,,,Not Available
+498,HSS,ENVIRONMENTAL SOCIOLOGY(SOC475),,HSS II (2) HS2 / REGULAR,3-0-0-0(9),Thounaojam Somokanta(I),somo@iitk.ac.in (I),M (DJAC: 206H) W (DJAC: 206H) F (DJAC: 206H)  17:00-18:00,DJAC: 206H,,,,,Document
+499,HSS,CONTEMPORARY APPLICATIONS OF SOCIAL DEMOGRAPHY(SOC476),,HSS II (2) HS2 / REGULAR,3-0-0-0(9),Esha Chatterjee(I),eshachat@iitk.ac.in (I),M (L14) W (L14) F (L14)  17:00-18:00,L14,,,,,Document
+500,HSS,SOCIOLOGICAL THEORY(SOC721),,PG-6 PRF / REGULAR,3-0-0-0(9),"MUNMUN JHA (I), Pradip  Swarnakar(O)","mjha@iitk.ac.in (I), spradip@iitk.ac.in (O)",W (HSS: FB657) F (HSS: FB657)  10:30-12:00,HSS: FB657,,,,,Not Available
+501,HSS,SOCIOLOGY OF DEVELOPMENT(SOC732),,PG-15 PRF / REGULAR,3-0-0-0(9),BINAY  KUMAR  PATTNAIK (I),binay@iitk.ac.in (I),T (T206) Th (T206)  15:30-17:00,T206,,,,,Not Available
+502,HSS,SOCIOLOGY OF ENVIRONMENT(SOC742),,PG-13 PRF / REGULAR,3-0-0-0(9),Thounaojam Somokanta(I),somo@iitk.ac.in (I),M (HSS: FB668) Th (HSS: FB668)  14:00-15:15,HSS: FB668,,,,,Not Available
+503,HSS,METHODS OF SOCIOLOGICAL RESEARCH(SOC751),,PG-3 PRF / REGULAR,3-0-0-0(9),Esha Chatterjee(I),eshachat@iitk.ac.in (I),M (T111) Th (T111)  10:30-12:00,T111,,,,,Document
+504,HSS,PHD THESIS(SOC799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCHSS (I),dpgc_hss@iitk.ac.in (I),,,,,,,Not Available
+505,IME,SEMINAR(IME698),,SLOT-BLANK PRF / REGULAR,0-0-0-0(0),DPGCIME (I),dpgc_ime@iitk.ac.in (I),,,,,,,Not Available
+506,IME,M TECH THESIS(IME699),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),"DPGCIME (I), DUGCIME (O)","dpgc_ime@iitk.ac.in (I), dugc_doms@iitk.ac.in (O)",,,,,,,Not Available
+507,IME,PHD THESIS(IME799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCIME (I),dpgc_ime@iitk.ac.in (I),,,,,,,Not Available
+508,ME,FLUID MECHANICS AND RATE PROCESSES(ESO204),,ESO-2 ESO/SO / REGULAR,3-1-0-0(11),ARUN KUMAR SAHA (I),aksaha@iitk.ac.in (I),M (L16) W (L16) F (L16)  11:00-12:00,L16,Th (L14) Th (L16) Th (WL228) Th (L09) Th (T206) Th (T110) Th (T109) Th (T108) Th (T107)  11:00-12:00,"T107 ,T108 ,T109 ,T110 ,T206 ,L09 ,WL228 ,L16 ,L14",,,Document
+509,ME,DYNAMICS(ME209),,3-1 DC / REGULAR,3-0-0-0(9),Dipayan Mukherjee(I),dipayanm@iitk.ac.in (I),M (L19) W (L19) F (L19)  12:00-13:00,L19,,,,,Document
+510,ME,ENERGY SYSTEMS I(ME301),,SLOT-1 PRF / REGULAR,3-0-0-0(9),Abhishek Sarkar(I),abhisheks@iitk.ac.in (I),T (L17) W (L17) Th (L17)  08:00-09:00,L17,,,,,Document
+511,ME,INTRODUCTION TO ELASTICITY(ME321),( ESO202A OR ESO202  ),SLOT-2 PRF / REGULAR,3-0-0-0(9),P  VENKITANARAYANAN     (I),venkit@iitk.ac.in (I),"M (L07) F (L07)  08:00-09:00 ,T (L07)  09:00-10:00",L07,,,,,Document
+512,ME,EXPERIMENTS IN MECHANICAL ENGINEERING I(ME333),,SLOT-BLANK PRF / REGULAR,0-0-3-0(3),"PRADIPTA K  PANIGRAHI (I), Chandraprakash Chindam(O), B  BHATTACHARYA   (O)","panig@iitk.ac.in (I), chindamc@iitk.ac.in (O), bishakh@iitk.ac.in (O)",,,,,T 10:00-12:50,,Document
+513,ME,INTRODUCTION TO REFRIGERATION AND AIR CONDITIONING(ME340),,"PG-3 DE,OE / REGULAR",3-0-0-0(9),Pranav Joshi(I),jpranavr@iitk.ac.in (I),M (T208) Th (T208)  10:30-12:00,T208,,,,,Document
+514,ME,HEAT TRANSFER(ME341),( ME231  ),CORE 12 PRF / REGULAR,3-0-0-0(9),Aditya  Saurabh(I),asaurabh@iitk.ac.in (I),M (L16) W (L16) Th (L16)  12:00-13:00,L16,,,,,Document
+515,ME,HEAT & MASS TRANSFER(ME341A),( ME231A  ),CORE 12 PRF / REGULAR,3-0-1-0(10),Aditya  Saurabh(I),asaurabh@iitk.ac.in (I),MWTh 12:00-13:00,,,,,,Not Available
+516,ME,INTERNAL COMBUSTION ENGINES(ME359),,"PG-4 DE,PRF,OE / REGULAR",3-0-0-0(9),"P A Lakshminarayanan(I), AVINASH KUMAR AGARWAL (O)","paln@iitk.ac.in (I), akag@iitk.ac.in (O)",M (T206) Th (T206)  12:00-13:15,T206,,,,,Not Available
+517,ME,SECONDARY MANUFACTURING PROCESSES(ME361),,OE-3-1 DC / REGULAR,2-0-1-0(7),Sarvesh Mishra(I),msarvesh@iitk.ac.in (I),W (L07) F (L07)  11:00-12:00,L07,,,MTTh 14:00-17:00,,Document
+518,ME,ROBOTICS(ME381),,DE-2-1 PRF / REGULAR,2-0-1-0(7),"ASHISH DUTTA (I), K Guruprasad(O)","adutta@iitk.ac.in (I), krgprao@iitk.ac.in (O)",M (L01) Th (L01)  11:00-12:00,L01,,,MTTh 14:00-17:00,,Not Available
+519,ME,ENERGY SYSTEMS-II(ME401A),( ESO201A AND ME231A  ),SLOT-1 PRF / REGULAR,3-0-1-0(10),SUBRATA  SARKAR   (I),subra@iitk.ac.in (I),T (L07) W (L07) Th (L07)  08:00-09:00,L07,,,MTh 14:00-17:00,,Document
+520,ME,ME PROJECT-1(ME451A),,SLOT-BLANK PRF / REGULAR,0-0-0-0(9),DUGCME (I),dugcme@iitk.ac.in (I),,,,,,,Not Available
+521,ME,NUMERICAL SOLUTIONS IN ENGINEERING MECHANICS(ME454),,"PG-6 DE,OE / REGULAR",3-0-0-0(9),ANINDYA  CHATTERJEE (I),anindya@iitk.ac.in (I),W (T205) F (T205)  10:30-12:00,T205,,,,,Not Available
+522,ME,UNDER GRADUATE PROJECT I(ME496),,SLOT-BLANK UGP-1 / REGULAR,0-0-0-0(9),DUGCME (I),dugcme@iitk.ac.in (I),,,,,,,Not Available
+523,ME,UNDER GRADUATE PROJECT III(ME497A),,SLOT-BLANK UGP-3 / REGULAR,0-0-0-0(6),DUGCME (I),dugcme@iitk.ac.in (I),,,,,,,Not Available
+524,ME,THERMAL ENVIROMENTAL CONTROL(ME613),,"PG-9 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Umesh Madanan(I),umadanan@iitk.ac.in (I),W (T204) F (T204)  17:00-18:30,T204,,,,,Document
+525,ME,INTRODUCTION TO SOLID MECHANICS(ME621),,"PG-7 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),ANURAG GUPTA (I),ag@iitk.ac.in (I),"W (L09)  12:00-13:00 ,F (L08)  14:00-15:00 ,T (L09)  17:00-18:00","L09 ,L08",,,,,Document
+526,ME,FINITE ELEMENT METHODS IN ENGINEERING MECHANICS(ME623),,"PG-13 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),SUMIT  BASU   (I),sbasu@iitk.ac.in (I),M (L12) Th (L12)  14:00-15:15,L12,,,,,Not Available
+527,ME,APPLIED DYNAMICS AND VIBRATIONS(ME625),,"PG-15 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),SHAKTI SINGH  GUPTA (I),ssgupta@iitk.ac.in (I),T (L16) Th (L16)  15:30-17:00,L16,,,,,Not Available
+528,ME,VIBRATION OF CONTINUOUS SYSTEM(ME626),,"PG-8 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),PANKAJ  WAHI   (I),wahi@iitk.ac.in (I),"T (T207) F (T207)  12:00-13:00 ,W (T207)  14:00-15:00",T207,,,,,Document
+529,ME,COMPUTATIONAL FLUID DYNAMICS AND HEAT TRANSFER(ME630),,"PG-4 DE,OE / REGULAR",3-0-0-0(9),Anikesh Pal(I),pala@iitk.ac.in (I),M (L09) Th (L09)  12:00-13:15,L09,,,,,Document
+530,ME,VISCOUS FLOW THEORY(ME631),,"PG-15 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),SANTANU  DE (I),sde@iitk.ac.in (I),T (L02) Th (L02)  15:30-17:00,L02,,,,,Document
+531,ME,CONDUCTION AND RADIATION(ME641),,"PG-7 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Shyam Gopalakrishnan(I),shyamsg@iitk.ac.in (I),"W (ME: FB370)  12:00-13:00 ,F (L10)  14:00-15:00 ,T (L10)  17:00-18:00","ME: FB370 ,L10",,,,,Document
+532,ME,MACHINE LEARNING FOR ENGINEERS(ME644),,"PG-5 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),MALAY KUMAR  DAS   (I),mkdas@iitk.ac.in (I),W (L06) F (L06)  09:00-10:15,L06,,,,,Document
+533,ME,INTRODUCTION TO TURBULENT FLUID MECHANICS(ME647),,"PG-10 DE,PRF,OE / REGULAR",3-0-0-0(9),SACHIN Y  SHINDE (I),sachin@iitk.ac.in (I),T (T102) W (T102)  08:00-09:15,T102,,,,,Document
+534,ME,COMPUTER AIDED DESIGN OF THERMAL SYSTEMS(ME648),,"PG-8 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),PRADIPTA K  PANIGRAHI (I),panig@iitk.ac.in (I),"T (T205) F (T205)  12:00-13:00 ,W (T205)  14:00-15:00",T205,,,,,Document
+535,ME,RAILROAD VEHICLE DYNAMICS(ME660),,"PG-4 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),N S  VYAS   (I),vyas@iitk.ac.in (I),M (T210) Th (T210)  12:00-13:15,T210,,,,,Not Available
+536,ME,MACHINING SCIENCE II(ME662),,"PG-3 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Sarvesh Mishra(I),msarvesh@iitk.ac.in (I),M (T207) Th (T207)  10:30-12:00,T207,,,,,Document
+537,ME,METAL FORMING(ME663),,"PG-9 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Supratik Mukhopadhyay(I),smukh@iitk.ac.in (I),W (T206) F (T206)  17:00-18:30,T206,,,,,Document
+538,ME,FUNDAMENTALS OF CASTING &  SOLIDIFICATION(ME664),,"PG-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Virkeshwar Kumar(I),virkeshwar@iitk.ac.in (I),M (L11) Th (L11)  09:00-10:15,L11,,,,,Document
+539,ME,MACHINING DYNAMICS(ME668),,"PG-11 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Not Offered (I),automation@iitk.ac.in (I),"T (T102)  10:00-11:00 ,F (T102)  15:00-16:00 ,M (T102)  17:00-18:00",T102,,,,,Not Available
+540,ME,ADDITIVE MANUFACTURING(ME670),,"PG-15 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),ARVIND  KUMAR (I),arvindkr@iitk.ac.in (I),T (T207) Th (T207)  15:30-17:00,T207,,,,,Document
+541,ME,MATHEMATICS FOR ENGINEERS(ME681),,"PG-12 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Manjesh Singh(I),manjesh@iitk.ac.in (I),"T (L02)  11:00-12:00 ,F (L01)  16:00-17:00 ,Th (L01)  17:00-18:00","L02 ,L01",,,,,Document
+542,ME,APPLIED NUMERICAL METHODS(ME685),,"PG-6 DE,PRF,OE / REGULAR",3-0-0-0(9),K  MURALIDHAR (I),kmurli@iitk.ac.in (I),W (T212) F (T212)  10:30-12:00,T212,,,,,Document
+543,ME,COMPRESSIBILITY AND HIGH-SPEED FLOW(ME688),,"PG-13 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Tushar Sikroria(I),tsikroria@iitk.ac.in (I),M (T104) Th (T104)  14:00-15:15,T104,,,,,Document
+544,ME,ENGINE MANAGEMENT(ME691),,"SLOT-BLANK DE,PRF,OE / REGULAR",3-0-0-0(9),AVINASH KUMAR AGARWAL (I),akag@iitk.ac.in (I),,,,,,,Not Available
+545,ME,ADVANCED THERMODYNAMICS(ME698L),,"PG-11 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),JISHNU  BHATTACHARYA (I),jishnu@iitk.ac.in (I),"T (T108)  09:30-11:00 ,M (T108)  17:00-18:30",T108,,,,,Document
+546,ME,MECHANICS OF ELECTROMAGNETIC MATERIALS(ME698Q),,"PG-14 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),ISHAN  SHARMA   (I),ishans@iitk.ac.in (I),"T 14:00-15:15 ,M 15:30-17:00",,,,,,Not Available
+547,ME,PLASTICITY IN CRYSTALLINE SOLIDS(ME698R),,"PG-11 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Ushasi Roy(I),ushasiroy@iitk.ac.in (I),"T (T109)  10:00-11:00 ,F (T109)  15:00-16:00 ,M (T109)  17:00-18:00",T109,,,,,Not Available
+548,ME,M TECH THESIS(ME699),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),"DPGCME (I), DUGCME (O)","dpgcme@iitk.ac.in (I), dugcme@iitk.ac.in (O)",,,,,,,Not Available
+549,ME,DESIGN FOR MANUFACTURE & ASSEMBLY(ME701),,"PG-13 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),NIRAJ  SINHA (I),nsinha@iitk.ac.in (I),MTh 14:00-15:15,,,,,,Not Available
+550,ME,DYNAMIC FRACTURE MECHANICS(ME722),,"SLOT-BLANK DE,PRF,OE / REGULAR",3-0-0-0(9),Not Offered (I),automation@iitk.ac.in (I),,,,,,,Document
+551,ME,COMPUTER AIDED ENGINEERING DESIGN(ME751),,"PG-11 DE,OE,Minor / REGULAR",3-0-0-0(9),ANUPAM  SAXENA   (I),anupams@iitk.ac.in (I),"T (T205)  10:00-11:00 ,F (T205)  15:00-16:00 ,M (T205)  17:00-18:00",T205,,,,,Not Available
+552,ME,VIBRATION CONTROL(ME756),,"PG-9 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),B  BHATTACHARYA   (I),bishakh@iitk.ac.in (I),W (T109) F (T109)  17:00-18:30,T109,,,,,Document
+553,ME,INTRODUCTION TO ROBOTICS(ME762),,"PG-6 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),K Guruprasad(I),krgprao@iitk.ac.in (I),W (L09) F (L09)  10:30-12:00,L09,,,,,Document
+554,ME,MATERIALS SELECTION IN MECHANICAL DESIGN(ME770),,"PG-15 DE,PRF,OE / REGULAR",3-0-0-0(9),KAMAL K  KAR   (I),kamalkk@iitk.ac.in (I),T (T208) Th (T208)  15:30-17:00,T208,,,,,Not Available
+555,ME,ENGINEERING ACOUSTICS AND ITS CONTROL(ME778),,"PG-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Akhilesh Mimani(I),amimani@iitk.ac.in (I),MTh 09:00-10:15,,,,,,Not Available
+556,ME,PHD THESIS(ME799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCME (I),dpgcme@iitk.ac.in (I),,,,,,,Not Available
+557,ME,MECHANICAL ENGINEERING POSTGRADUATE SEMINAR I(ME801),,"SLOT-4 DE,PRF / REGULAR",0-0-0-0(0),Chandraprakash Chindam(I),chindamc@iitk.ac.in (I),W (L16)  15:00-16:00,L16,,,,,Document
+558,ME,BASIC CONTROL SYSTEMS FOR MECHANICAL ENGINEERS(ME850),,"PG-9 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),ANINDYA  CHATTERJEE (I),anindya@iitk.ac.in (I),W (WL237) F (WL237)  17:00-18:30,WL237,,,,,Not Available
+559,ME,MS - RESEARCH THESIS(ME899),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCME (I),dpgcme@iitk.ac.in (I),,,,,,,Not Available
+560,ME,MANUFACTURING PROCESSES II(TA212),,SLOT-BLANK IC / REGULAR,0-0-3-0(3),Virkeshwar Kumar(I),virkeshwar@iitk.ac.in (I),,,,,TWTh 14:00-16:50,,Document
+561,MSE,INTRODUCTION TO MATERIALS SCIENCE AND ENGINEERING(ESO225),,ESO-2 ESO/SO / REGULAR,2-1-0-0(8),Shikhar Misra(I),shikharm@iitk.ac.in (I),M (L05) W (L05)  11:00-12:00,L05,Th (L05)  11:00-12:00,L05,,,Document
+562,MSE,THERMODYNAMICS & PHASE EQUILIBRIA(MSE201),,3-1-1 DC / REGULAR,3-1-0-0(11),KAUSTUBH NARHAR KULKARNI(I),kkaustub@iitk.ac.in (I),M (L06) W (L06) F (L06)  12:00-13:00,L06,Th (T102) Th (WL237) Th (L06)  12:00-13:00,"L06 ,WL237 ,T102",,,Document
+563,MSE,COMPUTATIONAL METHODS IN MATERIAL SCIENCE AND ENGINEERING(MSE204),,OE-1 DC / REGULAR,3-0-0-0(9),Shivam Tripathi(I),shivamt@iitk.ac.in (I),M (L05) W (L05) F (L05)  17:00-18:00,L05,,,,,Document
+564,MSE,PHASE TRANSFORMATIONS(MSE301),,OE-1 DC / REGULAR,3-0-0-0(9),RAJDIP MUKHERJEE(I),rajdipm@iitk.ac.in (I),M (L11) W (L11) F (L11)  17:00-18:00,L11,,,,,Document
+565,MSE,MECHANICAL BEHAVIOUR OF MATERIALS(MSE302),,SLOT-1 DC / REGULAR,3-0-0-0(9),Srinu Gangolu(I),srinu@iitk.ac.in (I),T (L06) W (L06) Th (L06)  08:00-09:00,L06,,,,,Document
+566,MSE,ELECTRONIC & MAGNETIC PROPERTIES OF MATERIALS(MSE303),,SLOT-2 DC / REGULAR,3-0-0-0(9),ANSHU GAUR(I),agaur@iitk.ac.in (I),"M (L06) F (L06)  08:00-09:00 ,T (L06)  09:00-10:00",L06,,,,,Document
+567,MSE,PRINCIPLES OF METAL EXTRACTION & REFINING(MSE304),,ESO-2 DC / REGULAR,3-0-0-0(9),AMARENDRA KUMAR SINGH(I),amarendra@iitk.ac.in (I),M (L04) W (L04) Th (L04)  11:00-12:00,L04,,,,,Document
+568,MSE,MATERIALS PROCESSING(MSE305),,3-1 DC / REGULAR,3-0-0-0(9),ANISH UPADHYAYA (I),anishu@iitk.ac.in (I),M (L05) W (L05) F (L05)  12:00-13:00,L05,,,,,Document
+569,MSE,PROCESS ENGINEERING LABORATORY(MSE314A),,SLOT-BLANK PRF / REGULAR,0-0-3-0(3),"SHOBIT OMAR(I), Rahul Sarkar(O)","somar@iitk.ac.in (I), rsarkar@iitk.ac.in (O)",,,,,MTTh 14:00-17:00,,Not Available
+570,MSE,MANUFACTURING PROCESSES LABORATORY(MSE315A),,SLOT-BLANK PRF / REGULAR,0-0-3-0(3),"SHOBIT OMAR(I), Rahul Sarkar(O)","somar@iitk.ac.in (I), rsarkar@iitk.ac.in (O)",,,,,MTTh 14:00-17:00,,Not Available
+571,MSE,UNDER GRADUATE PROJECT I(MSE349A),,SLOT-BLANK UGP-1 / REGULAR,0-0-2-0(4),DUGCMSE (I),dugc_mse@iitk.ac.in (I),,,,,,,Not Available
+572,MSE,MECHANICAL AND ELECTRONIC PROPERTIES OF MATERIALS LABORATORY(MSE351),,"SLOT-BLANK PRF,DC / REGULAR",0-0-3-0(3),"SARANG INGOLE (I), Nilesh Badwe(O)","sarang@iitk.ac.in (I), nbadwe@iitk.ac.in (O)",,,,,MTTh 14:00-17:00,,Document
+573,MSE,PROCESS METALLURGY AND MANUFACTURING LABORATORY(MSE352),,"SLOT-BLANK PRF,DC / REGULAR",0-0-3-0(3),"SHOBIT OMAR(I), Rahul Sarkar(O)","somar@iitk.ac.in (I), rsarkar@iitk.ac.in (O)",,,,,MTTh 14:00-17:00,,Not Available
+574,MSE,UNDER GRADUATE PROJECT II(MSE398A),,SLOT-BLANK UGP-2 / REGULAR,0-0-0-0(9),DUGCMSE (I),dugc_mse@iitk.ac.in (I),,,,,,,Not Available
+575,MSE,UNDER GRADUATE PROJECT IV(MSE449A),,SLOT-BLANK UGP-4 / REGULAR,0-0-0-0(9),DUGCMSE (I),dugc_mse@iitk.ac.in (I),,,,,,,Not Available
+576,MSE,UNDER GRADUATE PROJECT I(MSE496),,SLOT-BLANK UGP-1 / REGULAR,0-0-0-0(9),DUGCMSE (I),dugc_mse@iitk.ac.in (I),,,,,,,Not Available
+577,MSE,UNDER GRADUATE PROJECT II(MSE497),,SLOT-BLANK UGP-2 / REGULAR,0-0-0-0(9),DUGCMSE (I),dugc_mse@iitk.ac.in (I),,,,,,,Not Available
+578,MSE,UNDER GRADUATE PROJECT III(MSE497A),,SLOT-BLANK UGP-3 / REGULAR,3-0-0-0(9),DUGCMSE (I),dugc_mse@iitk.ac.in (I),,,,,,,Not Available
+579,MSE,UNDER GRADUATE PROJECT III(MSE498),,SLOT-BLANK UGP-3 / REGULAR,0-0-0-0(9),DUGCMSE (I),dugc_mse@iitk.ac.in (I),,,,,,,Not Available
+580,MSE,UNDER GRADUATE PROJECT IV(MSE499),,SLOT-BLANK UGP-4 / REGULAR,0-0-0-0(9),DUGCMSE (I),dugc_mse@iitk.ac.in (I),,,,,,,Not Available
+581,MSE,CORROSION AND OXIDATION OF METALS AND ALLOYS(MSE611),,"DE-3 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),KALLOL MONDAL (I),kallol@iitk.ac.in (I),M (T106) Th (T106)  12:00-13:15,T106,,,,,Not Available
+582,MSE,STRUCTURE AND CHARACTERIZATION OF MATERIALS(MSE615),,"PG-2 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),TANMOY MAITI(I),tmaiti@iitk.ac.in (I),M (L15) Th (L15)  09:00-10:15,L15,,,,,Document
+583,MSE,TRANSPORT PHENOMENA(MSE626),,"PG-3 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),RAJIV  SHEKHAR (I),vidtan@iitk.ac.in (I),M (L15) Th (L15)  10:30-12:00,L15,,,,,Not Available
+584,MSE,ELECTRONIC DEVICES AND CHARACTERIZATION(MSE628),,"DE-3 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),DEEPAK GUPTA (I),saboo@iitk.ac.in (I),M (T107) Th (T107)  12:00-13:15,T107,,,,,Not Available
+585,MSE,PHYSICAL & MATHEMATICAL MODELLING OF STEELMAKING PROCESSES(MSE629),,"PG-11 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),DIPAK  MAZUMDAR (I),dipak@iitk.ac.in (I),"T (T110)  10:00-11:00 ,W (T110) F (T110)  15:00-16:00",T110,,,,,Document
+586,MSE,MICROSCOPY AND MICROANALYSIS OF MATERIALS(MSE642),,"PG-10 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),NILESH PRAKASH GURAO(I),npgurao@iitk.ac.in (I),T (WL228) W (WL228) Th (WL228)  08:00-09:00,WL228,,,,,Document
+587,MSE,FUNDAMENTALS OF STEREOLOGY & APPLICATIONS TO MICROSTRUTURAL ANALYSIS(MSE650),,"DE-7 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),SANDEEP  SANGAL (I),sangals@iitk.ac.in (I),"M (T105) F (T105)  08:00-09:00 ,T (T105)  09:00-10:00",T105,,,,,Not Available
+588,MSE,ADVANCED CONCEPTS IN IRONMAKING(MSE651),,"PG-6 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Rahul Sarkar(I),rsarkar@iitk.ac.in (I),W (T204) F (T204)  10:30-12:00,T204,,,,,Not Available
+589,MSE,DISLOCATIONS AND PLASTICITY(MSE658),,"DE-1 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),SUDHANSHU SHEKHAR  SINGH (I),sudhanss@iitk.ac.in (I),"M (T207) Th (T207)  09:00-10:15 ,F (T207)  14:00-15:00",T207,,,,,Not Available
+590,MSE,POWDER METALLURGY(MSE659),,"OE-3 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),SHOBIT OMAR(I),somar@iitk.ac.in (I),W (T111) F (T111)  10:30-12:00,T111,,,,,Document
+591,MSE,ELECTRONIC AND METALLURGICAL WASTE RECYCLING(MSE662),,"PG-5 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Arunabh Meshram(I),arunabhm@iitk.ac.in (I),W (L10) F (L10)  09:00-10:15,L10,,,,,Document
+592,MSE,SOLIDIFICATION PROCESSING(MSE670),,"OE-6 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),KRISHANU  BISWAS (I),kbiswas@iitk.ac.in (I),W (L03) F (L03)  15:30-17:00,L03,,,,,Not Available
+593,MSE,HEAT TREATMENT AND SURFACE HARDENING(MSE671),,"PG-12 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Raghupathy Yuvaraj(I),raghu@iitk.ac.in (I),"T (T110)  11:00-12:00 ,W (T110)  16:00-17:00 ,Th (T110)  17:00-18:00",T110,,,,,Document
+594,MSE,MATERIALS SCIENCE TECHNOLOGIES FOR APPLICATIONS IN LIFE SCIENCES(MSE693),,"OE-4 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),VIVEK  VERMA (I),vverma@iitk.ac.in (I),M (L06) Th (L06)  14:00-15:15,L06,,,,,Document
+595,MSE,NANOSTRUCTURES AND NANOMATERIALS: CHARACTERIZATION AND PROPERTIES(MSE694),,"PG-4 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),MONICA KATIYAR (I),mk@iitk.ac.in (I),M (L12) Th (L12)  12:00-13:15,L12,,,,,Document
+596,MSE,M.TECH THESIS(MSE699),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),"DPGCMSE (I), DUGCMSE (O)","dpgc_mse@iitk.ac.in (I), dugc_mse@iitk.ac.in (O)",,,,,,,Not Available
+597,MSE,PH D THESIS(MSE799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCMSE (I),dpgc_mse@iitk.ac.in (I),,,,,,,Not Available
+598,MSE,SEMINAR(MSE801),,PG-9 PRF / REGULAR,0-0-0-0(0),"SOMNATH BHOWMICK(I), Niraj Chawake(O)","bsomnath@iitk.ac.in (I), nchawake@iitk.ac.in (O)",W (T208) F (T208)  17:00-18:30,T208,,,,,Document
+599,MSE,MANUFACTURING PROCESSES I(TA211),,SLOT-BLANK IC / REGULAR,0-0-3-0(3),KANTESH BALANI (I),kbalani@iitk.ac.in (I),,,,,MWF 14:00-16:50,,Document
+600,MSP,STRUCTURAL & MAGNETIC PROPERTIES OF MATERIALS(MS601),,"PG-2 PRF,OE,Minor / REGULAR",3-0-0-0(9),"SRI  SIVAKUMAR (I), YOGESH MORESHWAR  JOSHI (O), Rohit Medwal(O)","srisiva@iitk.ac.in (I), joshi@iitk.ac.in (O), rmedwal@iitk.ac.in (O)",M (T211) Th (T211)  09:00-10:15,T211,,,,,Document
+601,MSP,ELECTRICAL AND DIELECTRIC MATERIALS(MS602),,"PG-4 PRF,OE,Minor / REGULAR",3-0-0-0(9),"Amit   Verma(I), MD JALEEL  AKHTAR   (O)","amitkver@iitk.ac.in (I), mjakhtar@iitk.ac.in (O)",M (ACMS: C R) Th (ACMS: C R)  12:00-13:15,ACMS: C R,,,,,Document
+602,MSP,MECHANICAL PROPERTIES OF MATERIALS(MS603),,"PG-5 PRF,OE,Minor / REGULAR",3-0-0-1(9),KAMAL K  KAR   (I),kamalkk@iitk.ac.in (I),W (T112) F (T112)  09:00-10:15,T112,,,,,Not Available
+603,MSP,GRADUATE SEMINAR(MS698),,"SLOT-BLANK PRF,OE,Minor / REGULAR",0-0-0-0(0),Y N  MOHAPATRA   (I),ynm@iitk.ac.in (I),,,,,,,Not Available
+604,MSP,M TECH THESIS(MS699),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),"DPGCMSP (I), DUGCMSP (O)","dpgc_msp@iitk.ac.in (I), dugc_msp@iitk.ac.in (O)",,,,,,,Not Available
+605,MSP,PHD THESIS(MS799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCMSP (I),dpgc_msp@iitk.ac.in (I),,,,,,,Not Available
+606,MTH,COMPLEX VARIABLES(MSO202M),,"ESO-3-1 PRF,IC / FIRST-HALF",3-1-0-0(6),Saurabh Singh(I),saurabs@iitk.ac.in (I),W (L20) Th (L20) F (L20)  09:00-10:00,L20,M (DJAC: 206H) M (DJAC: 205H) M (DJAC: 203H) M (L20) M (L09) M (L03)  09:00-10:00,"L03 ,L09 ,L20 ,DJAC: 203H ,DJAC: 205H ,DJAC: 206H",,,Document
+607,MTH,PARTIAL DIFFERENTIAL EQUATIONS(MSO203M),,"ESO-3-1 ESO/SO,IC / SECOND-HALF",3-1-0-0(6),DHIRENDRA  BAHUGUNA (I),dhiren@iitk.ac.in (I),WThF 09:00-10:00,,M 09:00-10:00,,,,Document
+608,MTH,INTRODUCTION TO PROBABILITY THEORY(MSO205),,"ESO-2 ESO/SO,IC / REGULAR",3-1-0-0(11),Suprio Bhar(I),suprio@iitk.ac.in (I),M (L02) Th (L02) F (L02)  11:00-12:00,L02,W (L02)  11:00-12:00,L02,,,Document
+609,MTH,MATHEMATICS I(MTH101A) /A,,MTH111 (1) IC / REGULAR,3-1-0-0(11),"Amit     Shekhar Kuber (I), SASMITA  PATNAIK (O)","askuber@iitk.ac.in (I), sasmita@iitk.ac.in (O)",MThF 16:00-17:00,,T 16:00-17:00,,,,Document
+610,MTH,MATHEMATICS I(MTH101A) /C,,MTH111 (2) IC / REGULAR,3-1-0-0(11),"Amit     Shekhar Kuber (I), SASMITA  PATNAIK (O)","askuber@iitk.ac.in (I), sasmita@iitk.ac.in (O)",MThF 10:00-11:00,,T 10:00-11:00,,,,Not Available
+611,MTH,MATHEMATICS - II(MTH102A),,MTH102A IC / REGULAR,3-1-0-0(11),"Ajay Singh Ramdin Thakur (I), Pooja Singla(O)","asthakur@iitk.ac.in (I), psingla@iitk.ac.in (O)",M (T207) W (T207) Th (T207)  17:00-18:00,T207,T (T207)  17:00-18:00,T207,,,Not Available
+612,MTH,SINGLE VARIABLE CALCULUS(MTH111M) /C,,MTH111 (2) IC / FIRST-HALF,3-1-0-0(6),"Amit     Shekhar Kuber (I), SASMITA  PATNAIK (O)","askuber@iitk.ac.in (I), sasmita@iitk.ac.in (O)",M (L19) Th (L19) F (L19)  10:00-11:00,L19,T (L05) T (L04) T (L03)  10:00-11:00,"L03 ,L04 ,L05",,,Document
+613,MTH,SINGLE VARIABLE CALCULUS(MTH111M) /D,,MTH111 (2) IC / FIRST-HALF,3-1-0-0(6),"SASMITA  PATNAIK (I), Amit     Shekhar Kuber (O)","sasmita@iitk.ac.in (I), askuber@iitk.ac.in (O)",M (L18) Th (L18) F (L18)  10:00-11:00,L18,T (L13) T (L12) T (L11) T (L10)  10:00-11:00,"L10 ,L11 ,L12 ,L13",,,Not Available
+614,MTH,SINGLE VARIABLE CALCULUS(MTH111M) /A,,MTH111 (1) IC / FIRST-HALF,3-1-0-0(6),"Amit     Shekhar Kuber (I), SASMITA  PATNAIK (O)","askuber@iitk.ac.in (I), sasmita@iitk.ac.in (O)",M (L19) Th (L19) F (L19)  16:00-17:00,L19,T (L05) T (L04) T (L03)  16:00-17:00,"L03 ,L04 ,L05",,,Not Available
+615,MTH,SINGLE VARIABLE CALCULUS(MTH111M) /B,,MTH111 (1) IC / FIRST-HALF,3-1-0-0(6),"SASMITA  PATNAIK (I), Amit     Shekhar Kuber (O)","sasmita@iitk.ac.in (I), askuber@iitk.ac.in (O)",M (L18) Th (L18) F (L18)  16:00-17:00,L18,T (L13) T (L12) T (L11) T (L10)  16:00-17:00,"L10 ,L11 ,L12 ,L13",,,Not Available
+616,MTH,APPLICATION OF SINGLE VARIABLE CALCULUS & SEVERAL VARIABLE CALCULUS(MTH112M) /C,,MTH111 (2) IC / SECOND-HALF,3-1-0-0(6),"NANDINI  NILAKANTAN (I), P  SHUNMUGARAJ (O)","nandini@iitk.ac.in (I), psraj@iitk.ac.in (O)",MThF 10:00-11:00,,T 10:00-11:00,,,,Not Available
+617,MTH,APPLICATION OF SINGLE VARIABLE CALCULUS & SEVERAL VARIABLE CALCULUS(MTH112M) /D,,MTH111 (2) IC / SECOND-HALF,3-1-0-0(6),"P  SHUNMUGARAJ (I), NANDINI  NILAKANTAN (O)","psraj@iitk.ac.in (I), nandini@iitk.ac.in (O)",MThF 10:00-11:00,,T 10:00-11:00,,,,Not Available
+618,MTH,APPLICATION OF SINGLE VARIABLE CALCULUS & SEVERAL VARIABLE CALCULUS(MTH112M) /A,,MTH111 (1) IC / SECOND-HALF,3-1-0-0(6),"NANDINI  NILAKANTAN (I), P  SHUNMUGARAJ (O)","nandini@iitk.ac.in (I), psraj@iitk.ac.in (O)",MThF 16:00-17:00,,T 16:00-17:00,,,,Not Available
+619,MTH,APPLICATION OF SINGLE VARIABLE CALCULUS & SEVERAL VARIABLE CALCULUS(MTH112M) /B,,MTH111 (1) IC / SECOND-HALF,3-1-0-0(6),"P  SHUNMUGARAJ (I), NANDINI  NILAKANTAN (O)","psraj@iitk.ac.in (I), nandini@iitk.ac.in (O)",MThF 16:00-17:00,,T 16:00-17:00,,,,Not Available
+620,MTH,LINEAR ALGEBRA(MTH113M),,MTH102A IC / FIRST-HALF,3-1-0-0(6),"Pooja Singla(I), Ajay Singh Ramdin Thakur (O)","psingla@iitk.ac.in (I), asthakur@iitk.ac.in (O)",M (T207) W (T207) Th (T207)  17:00-18:00,T207,T (T207)  17:00-18:00,T207,,,Document
+621,MTH,ORDINARY DIFFERENTIAL EQUATIONS(MTH114M),,MTH102A IC / SECOND-HALF,3-1-0-0(6),"Ajay Singh Ramdin Thakur (I), Pooja Singla(O)","asthakur@iitk.ac.in (I), psingla@iitk.ac.in (O)",MWTh 17:00-18:00,,T 17:00-18:00,,,,Not Available
+622,MTH,A FIRST COURSE IN LINEAR ALGEBRA(MTH201),,3-2-1 DC / REGULAR,3-1-0-0(11),Sachin Subhash Sharma (I),sachinsh@iitk.ac.in (I),M (L03) W (L03) F (L03)  17:00-18:00,L03,T (L03)  17:00-18:00,L03,,,Document
+623,MTH,A FIRST COURSE IN LINEAR ALGEBRA(MTH201B),,"3-2-1 OE,DC / REGULAR",3-1-0-0(11),Santosh  Nadimpalli(I),nsantosh@iitk.ac.in (I),M (MTH: FB557) W (MTH: FB557) F (MTH: FB557)  17:00-18:00,MTH: FB557,T (MTH: FB557)  17:00-18:00,MTH: FB557,,,Document
+624,MTH,SET THEORY AND DISCRETE MATHEMATICS(MTH202),,"PG-2a DE,PRF,OE,DC / REGULAR",3-1-0-0(11),ALOK KUMAR  MALOO (I),akmaloo@iitk.ac.in (I),M (L02) T (L02) Th (L02)  10:00-11:00,L02,F (L02)  14:00-15:00,L02,,,Document
+625,MTH,MATRIX ALGEBRA AND LINEAR ESTIMATION (MODULE I)(MTH206M),,"VLM05 DE,DC / FIRST-HALF",3-1-0-0(6),Soumyarup Sadhukhan(I),soumyarups@iitk.ac.in (I),M (MTH: FB557) W (MTH: FB557) F (MTH: FB557)  10:00-11:00,MTH: FB557,Th (MTH: FB557)  10:00-11:00,MTH: FB557,,,Document
+626,MTH,MATRIX ALGEBRA AND LINEAR ESTIMATION (MODULE II)(MTH207M),,VLM05 DC / SECOND-HALF,3-1-0-0(6),Soumyarup Sadhukhan(I),soumyarups@iitk.ac.in (I),MWF 10:00-11:00,,Th 10:00-11:00,,,,Not Available
+627,MTH,DATA SCIENCE LAB 1(MTH208),,"SLOT-BLANK OE,DC,DM / REGULAR",0-0-3-2(5),Dootika  Vats(I),dootika@iitk.ac.in (I),,,,,"T (DJAC: 204H Lab)  09:00-10:15 ,Th (DJAC: 204H Lab)  14:00-15:15",DJAC: 204H Lab,Document
+628,MTH,ANALYSIS - I(MTH301),,3-1-1 DC / REGULAR,3-1-0-0(11),Arijit  Ganguly(I),aganguly@iitk.ac.in (I),M (L10) W (L10) F (L10)  12:00-13:00,L10,Th (L10)  12:00-13:00,L10,,,Not Available
+629,MTH,SET THEORY & LOGIC(MTH302),,"3-1-1 PRF,DC / REGULAR",3-1-0-0(11),Ashutosh Kumar(I),krashu@iitk.ac.in (I),M (L08) W (L20) F (L09)  12:00-13:00,"L08 ,L09 ,L20",Th (L08)  12:00-13:00,L08,,,Document
+630,MTH,UG PROJECT (UGP-I)(MTH391A),,"SLOT-BLANK DE,PRF,UGP-1 / REGULAR",0-0-0-4(4),PREENA  SAMUEL (I),preena@iitk.ac.in (I),,,,,,,Not Available
+631,MTH,UNDER GRADUATE PROJECT II(MTH392A),,"SLOT-BLANK DE,PRF,UGP-2 / REGULAR",0-0-0-9(9),PREENA  SAMUEL (I),preena@iitk.ac.in (I),,,,,,,Not Available
+632,MTH,UG PROJECT (UGP-III)(MTH393A),,"SLOT-BLANK PRF,UGP-3 / REGULAR",0-0-0-9(9),PREENA  SAMUEL (I),preena@iitk.ac.in (I),,,,,,,Not Available
+633,MTH,UNDER GRADUATE PROJECT IV(MTH394A),,"SLOT-BLANK PRF,UGP-4 / REGULAR",0-0-0-9(9),PREENA  SAMUEL (I),preena@iitk.ac.in (I),,,,,,,Not Available
+634,MTH,COMPLEX ANALYSIS(MTH403),,"SLOT-2-1 PRF,DC / REGULAR",3-1-0-0(11),PARASAR  MOHANTY (I),parasar@iitk.ac.in (I),"M (L04) F (L04)  08:00-09:00 ,T (L01)  09:00-10:00","L04 ,L01",W (L04)  15:00-16:00,L04,,,Document
+635,MTH,ANALYSIS II(MTH404),( MTH301 OR MTH301A  ),SLOT-1-1-3 DE / REGULAR,3-1-0-0(11),Satyajit Guin(I),sguin@iitk.ac.in (I),T (T201) W (T201) Th (T201)  08:00-09:00,T201,W (T201)  14:00-15:00,T201,,,Document
+636,MTH,FUNCTIONAL ANALYSIS(MTH405),( MTH301 OR MTH301A  ),PG-8a DE / REGULAR,3-1-0-0(11),KAUSHIK BAL(I),kaushik@iitk.ac.in (I),M (T112) T (T112) Th (T112)  15:00-16:00,T112,F (T112)  12:00-13:00,T112,,,Not Available
+637,MTH,COMPUTER PROGRAMMING AND DATA STRUCTURES(MTH409),,"PG-9A-1 DE,PRF,DC / REGULAR",2-1-1-0(9),B V R  KUMAR (I),bvrk@iitk.ac.in (I),M (L15) T (L15)  16:00-17:00,L15,Th (L15)  16:00-17:00,L15,F 16:00-17:00,,Not Available
+638,MTH,ORDINARY DIFFERENTIAL EQUATIONS(MTH421),,"SLOT-1-1 PRF,DC / REGULAR",3-1-0-0(11),MALAY  BANERJEE (I),malayb@iitk.ac.in (I),T (L04) W (L04) Th (L04)  08:00-09:00,L04,F (L04)  15:00-16:00,L04,,,Document
+639,MTH,PARTIAL DIFFERENTIAL EQUATIONS(MTH424),,"PG-8a DE,DC / REGULAR",3-1-0-0(11),Indranil Chowdhury(I),indranil@iitk.ac.in (I),M (L09) T (L09) Th (L09)  15:00-16:00,L09,F (L09)  15:00-16:00,L09,,,Document
+640,MTH,NUMERICAL ANALYSIS & SCIENTIFIC COMPUTING II(MTH430A),( MTH308 OR MTH308B  ),"PG-9a PRF,DC / REGULAR",3-0-1-0(10),AKASH ANAND(I),akasha@iitk.ac.in (I),M (L06) T (L06) Th (L06)  16:00-17:00,L06,,,F (DJAC: 204H Lab)  14:00-15:00,DJAC: 204H Lab,Document
+641,MTH,INTRODUCTION TO SAMPLING THEORY(MTH432M),,"SLOT-1-1 DE,DC / FIRST-HALF",3-1-0-0(6),SHALABH   (I),shalab@iitk.ac.in (I),"T (L13) W (L13) Th (L13)  08:00-09:00 ,F (L13)  14:00-15:00",L13,,,,,Document
+642,MTH,REAL ANALYSIS(MTH433),,CORE 12 PRF / REGULAR,3-1-0-0(11),SAMEER LAXMAN  CHAVAN (I),chavan@iitk.ac.in (I),M (L13) T (L17) F (L17)  12:00-13:00,"L13 ,L17",Th (L17)  12:00-13:00,L17,,,Document
+643,MTH,COMPLEX ANALYSIS(MTH434M),,PG-9A-1 DC / SECOND-HALF,3-1-0-0(6),ABHIJIT PAL(I),abhipal@iitk.ac.in (I),MTTh 16:00-17:00,,F 14:00-15:00,,,,Document
+644,MTH,BASIC ALGEBRAIC GEOMETRY(MTH436),,PG-7a DE / REGULAR,3-0-0-0(9),Narasimha Bonala(I),chary@iitk.ac.in (I),M (T211) T (T211) Th (T211)  14:00-15:00,T211,,,,,Not Available
+645,MTH,LINEAR REGRESSION AND ANOVA(MTH441),,"OE-1 PRF,DC / REGULAR",3-0-1-0(10),Satya Singh(I),singhsp@iitk.ac.in (I),M (L02) W (L02) F (L02)  17:00-18:00,L02,,,T 17:00-18:00,,Document
+646,MTH,TIME SERIES ANALYSIS(MTH442),,PG-10 PRF / REGULAR,3-0-1-0(10),Arnab Hazra(I),ahazra@iitk.ac.in (I),T (L05) W (L05) Th (L05)  08:00-09:00,L05,,,T 18:00-19:00,,Document
+647,MTH,STATISTICAL & AI TECHNIQUES IN DATA MINING(MTH443A),( MSO201A OR MSO201 OR MSO205 OR MSO205A OR MTH418A OR MTH418  ),CORE 10 PRF / REGULAR,3-0-1-0(10),AMIT MITRA (I),amitra@iitk.ac.in (I),M (L03) W (L03) F (L03)  10:00-11:00,L03,,,Th 17:00-18:00,,Not Available
+648,MTH,UNDER GRADUATE PROJECT I(MTH496),,SLOT-BLANK UGP-1 / REGULAR,0-0-0-9(9),PREENA  SAMUEL (I),preena@iitk.ac.in (I),,,,,,,Not Available
+649,MTH,UNDER GRADUATE PROJECT II(MTH497),,SLOT-BLANK UGP-2 / REGULAR,0-0-0-9(9),PREENA  SAMUEL (I),preena@iitk.ac.in (I),,,,,,,Not Available
+650,MTH,UNDER GRADUATE PROJECT III(MTH498),,SLOT-BLANK UGP-3 / REGULAR,0-0-0-9(9),PREENA  SAMUEL (I),preena@iitk.ac.in (I),,,,,,,Not Available
+651,MTH,UNDER GRADUATE PROJECT IV(MTH499),,SLOT-BLANK UGP-4 / REGULAR,0-0-0-9(9),PREENA  SAMUEL (I),preena@iitk.ac.in (I),,,,,,,Not Available
+652,MTH,INFERENCE - II(MTH515),( MTH418 OR MTH418A  ),"PG-1 DE,PRF,DC / REGULAR",3-1-0-0(11),NEERAJ MISRA (I),neeraj@iitk.ac.in (I),"M (L14) F (L14)  08:00-09:00 ,T (L14)  09:00-10:00",L14,W (L14)  14:00-15:00,L14,,,Document
+653,MTH,NON-PARAMETRIC INFERENCE(MTH516),( ESO209 OR MTH411  ),"PG-8a DE,PRF / REGULAR",3-1-0-0(11),SHARMISHTHA  MITRA   (I),smitra@iitk.ac.in (I),M (L14) T (L14) Th (L14)  15:00-16:00,L14,W (L14)  18:00-19:00,L14,,,Not Available
+654,MTH,PROJECT-I(MTH598),,SLOT-BLANK PRF / REGULAR,0-0-0-9(9),PREENA  SAMUEL (I),preena@iitk.ac.in (I),,,,,,,Not Available
+655,MTH,PROJECT- II(MTH599),,SLOT-BLANK PRF / REGULAR,0-0-0-9(9),PREENA  SAMUEL (I),preena@iitk.ac.in (I),,,,,,,Not Available
+656,MTH,ALGEBRA II(MTH611),,PG-2a DE / REGULAR,3-0-0-0(9),Sudhanshu  Shekhar (I),sudhansh@iitk.ac.in (I),M (T206) T (T206) Th (T206)  10:00-11:00,T206,,,,,Not Available
+657,MTH,INTRODUCTION TO COMMUTATIVE ALGEBRA(MTH612),,"PG-5 DE,PRF / REGULAR",3-0-0-0(9),ASHIS MANDAL(I),amandal@iitk.ac.in (I),W (T204) F (T204)  09:00-10:15,T204,,,,,Document
+658,MTH,MEASURE THEORY(MTH620),,PG-4 DE / REGULAR,3-0-0-0(9),RAMA RAWAT (I),rrawat@iitk.ac.in (I),M (T204) Th (T204)  12:00-13:15,T204,,,,,Not Available
+659,MTH,INTRODUCTION TO HYPERBOLIC GEOMETRY(MTH633),,"PG-3a DE,PRF / REGULAR",3-0-0-0(9),Bidyut Sanki(I),bidyut@iitk.ac.in (I),M (EEM111) T (EEM111) Th (EEM111)  11:00-12:00,EEM111,,,,,Document
+660,MTH,ALGEBRAIC TOPOLOGY(MTH649),,PG-13a DE / REGULAR,3-0-0-0(9),DEBASIS SEN(I),debasis@iitk.ac.in (I),W (T211) F (T211)  17:00-18:30,T211,,,,,Not Available
+661,MTH,SOBOLEV SPACES AND APPLICATIONS(MTH656),,"PG-11a DE,PRF / REGULAR",3-0-0-0(9),Mrinmay Biswas(I),mbiswas@iitk.ac.in (I),"M (T208) Th (T208)  09:00-10:00 ,T (T208)  12:00-13:00",T208,,,,,Document
+662,MTH,NONLINEAR DYNAMICAL SYSTEMS(MTH658),( MTH421 OR MTH421A  ),"PG-9a DE,PRF / REGULAR",3-0-0-0(9),SAKTIPADA  GHORAI (I),sghorai@iitk.ac.in (I),M (T210) T (T210) Th (T210)  16:00-17:00,T210,,,,,Document
+663,MTH,INTRODUCTION TO ALGEBRAIC GEOMETRY AND ALGEBRAIC GROUPS(MTH667),,"PG-6 DE,PRF / REGULAR",3-0-0-0(9),PREENA  SAMUEL (I),preena@iitk.ac.in (I),W (T201) F (T201)  10:30-12:00,T201,,,,,Not Available
+664,MTH,POTENTIAL THEORY IN THE COMPLEX PLANE(MTH670),,"PG-3a DE,PRF / REGULAR",3-0-0-0(9),Vikramjeet Chandel(I),vschandel@iitk.ac.in (I),M (MTH: FB557) T (MTH: FB557) Th (MTH: FB557)  11:00-12:00,MTH: FB557,,,,,Document
+665,MTH,AN INTRODUCTION TO VON NEUMANN ALGEBRAS(MTH680),,"PG-2a DE,PRF / REGULAR",3-0-0-0(9),Keshab Bakshi(I),keshab@iitk.ac.in (I),M (WL237) T (WL237) Th (WL237)  10:00-11:00,WL237,,,,,Document
+666,MTH,NON-LINEAR REGRESSION(MTH686),,"PG-9a DE,PRF / REGULAR",3-0-0-0(9),DEBASIS  KUNDU (I),kundu@iitk.ac.in (I),M (L09) T (L09) Th (L09)  16:00-17:00,L09,,,,,Not Available
+667,MTH,MS PROJECT I(MTH697A),,SLOT-BLANK PRF / REGULAR,0-0-0-9(9),PREENA  SAMUEL (I),preena@iitk.ac.in (I),,,,,,,Not Available
+668,MTH,MS PROJECT II(MTH698A),,SLOT-BLANK PRF / REGULAR,0-0-0-9(9),PREENA  SAMUEL (I),preena@iitk.ac.in (I),,,,,,,Not Available
+669,MTH,MS PROJECT III(MTH699A),,SLOT-BLANK PRF / REGULAR,0-0-0-9(9),PREENA  SAMUEL (I),preena@iitk.ac.in (I),,,,,,,Not Available
+670,MTH,MS PROJECT - IV(MTH700A),,SLOT-BLANK DE / REGULAR,0-0-0-9(9),PREENA  SAMUEL (I),preena@iitk.ac.in (I),,,,,,,Not Available
+671,MTH,A FIRST COURSE IN ALGEBRAIC NUMBER THEORY(MTH712),,"PG-9a DE,PRF / REGULAR",3-0-0-0(9),SOMNATH  JHA (I),jhasom@iitk.ac.in (I),M (T211) T (T211) Th (T211)  16:00-17:00,T211,,,,,Document
+672,MTH,INTRODUCTION TO HOMOGENIZATION(MTH719),,"PG-5 DE,PRF / REGULAR",3-0-0-0(9),T  MUTHUKUMAR (I),tmk@iitk.ac.in (I),WF 09:00-10:15,,,,,,Not Available
+673,MTH,TOPICS IN LIE GROUPS AND LIE ALGEBRAS(MTH739),,"PG-12a DE,PRF / REGULAR",3-0-0-0(9),SANTOSHA KUMAR PATTANAYAK(I),santosha@iitk.ac.in (I),"W (T206) F (T206)  15:00-16:00 ,M (T206)  17:00-18:00",T206,,,,,Not Available
+674,MTH,ANALYSIS(MTH753),,"PG-10 DE,PRF / REGULAR",3-0-0-0(9),P Muthukumar(I),muthu@iitk.ac.in (I),T (T101) W (T101) Th (T101)  08:00-09:00,T101,,,,,Document
+675,MTH,PROBABILITY THEORY(MTH754),,"PG-11 DE,PRF / REGULAR",3-0-0-0(9),SUBHRA SANKAR DHAR(I),subhra@iitk.ac.in (I),T (T211) W (T211)  12:00-13:15,T211,,,,,Document
+676,MTH,STATISTICAL INFERENCE(MTH755),,"PG-13a DE,PRF / REGULAR",3-0-0-0(9),"AMIT MITRA (I), DEBASIS  KUNDU (O)","amitra@iitk.ac.in (I), kundu@iitk.ac.in (O)",W (T112) F (T112)  17:00-18:30,T112,,,,,Not Available
+677,MTH,RESEARCH(MTH799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCMTH (I),dpgc_math@iitk.ac.in (I),,,,,,,Not Available
+678,MTH,INTRODUCTION TO PROFESSION AND COMMUNICATIONS SKILLS (MATHEMATICS)(MTH888M),,"PG-6 DE,PRF / SECOND-HALF",3-0-0-0(5),MOHUA  BANERJEE (I),mohua@iitk.ac.in (I),WF 10:30-12:00,,,,,,Not Available
+679,MTH,INTRODUCTION TO PROFESSION AND COMMUNICATIONS SKILLS (STATISTICS)(MTH889M),,"PG-6 DE,PRF / SECOND-HALF",3-0-0-0(5),SHALABH   (I),shalab@iitk.ac.in (I),WF 10:30-12:00,,,,,,Not Available
+680,NET,PHD THESIS(NT799),,"SLOT-BLANK DC,Thesis / REGULAR",0-0-0-0(0),DPGCNET (I),dpgc_net@iitk.ac.in (I),,,,,,,Not Available
+681,PHY,HIGH PERFORMANCE COMPUTING WITH APPLICATIONS(IDC606),,"PG-6 PRF,OE,Minor / REGULAR",3-0-0-0(9),MAHENDRA KUMAR  VERMA (I),mkv@iitk.ac.in (I),W (L10) F (L10)  10:30-12:00,L10,,,,,Document
+682,PHY,PHYSICS LABORATORY(PHY111) /A,,SLOT-BLANK IC / REGULAR,0-0-3-0(3),MANAS  KHAN(I),mkhan@iitk.ac.in (I),,,,,MTWThF 10:00-13:00,,Document
+683,PHY,PHYSICS LABORATORY(PHY111) /B,,SLOT-BLANK IC / REGULAR,0-0-3-0(3),"MANAS  KHAN(I), Diptarka Das(O)","mkhan@iitk.ac.in (I), didas@iitk.ac.in (O)",,,,,MTWThF 10:00-13:00,,Not Available
+684,PHY,CLASSICAL DYNAMICS(PHY112),,CORE 9 IC / REGULAR,3-1-0-0(11),Arijit Kundu(I),kundua@iitk.ac.in (I),M (L19) Th (L19) F (L19)  09:00-10:00,L19,T (L19) T (L13) T (L12) T (L11) T (L10)  09:00-10:00,"L10 ,L11 ,L12 ,L13 ,L19",,,Document
+685,PHY,INTRODUCTION TO ELECTROMAGNETISM(PHY113),,CORE 9 IC / REGULAR,3-1-0-0(11),Supratik Banerjee(I),sbanerjee@iitk.ac.in (I),M (L18) T (L18) F (L18)  09:00-10:00,L18,Th (L16) Th (L09) Th (L08) Th (L03) Th (L01)  09:00-10:00,"L01 ,L03 ,L08 ,L09 ,L16",,,Not Available
+686,PHY,QUANTUM PHYSICS(PHY114),,CORE 9 IC / REGULAR,3-1-0-0(11),"ANAND KUMAR  JHA (I), Chanchal  Sow(O)","akjha@iitk.ac.in (I), chanchal@iitk.ac.in (O)",M (L16) T (L16) F (L16)  09:00-10:00,L16,Th (DJAC: 206H) Th (DJAC: 205H) Th (DJAC: 203H)  09:00-10:00,"DJAC: 203H ,DJAC: 205H ,DJAC: 206H",,,Document
+687,PHY,OSCILLATIONS AND WAVES(PHY115),,CORE 9 IC / REGULAR,3-1-0-0(11),Sivasurender Chandran(I),schandran@iitk.ac.in (I),M (L17) Th (L17) F (L17)  09:00-10:00,L17,T (DJAC: 206H) T (DJAC: 205H) T (DJAC: 203H)  09:00-10:00,"DJAC: 203H ,DJAC: 205H ,DJAC: 206H",,,Document
+688,PHY,OPTICS(PHY224),,"3-2-1 IC,DC / REGULAR",3-0-3-0(12),"Venkata Jayasurya Yallapragada(I), Chandrima Banerjee(O)","jayasurya@iitk.ac.in (I), cbanerjee@iitk.ac.in (O)",T (T210) W (T210)  17:00-18:00,T210,,,ThF 14:00-17:00,,Document
+689,PHY,PRINCIPLES OF LASERS & THEIR APPLICATIONS(PHY303),,SLOT-BLANK DE / REGULAR,3-0-0-0(9),Not Offered (I),automation@iitk.ac.in (I),,,,,,,Document
+690,PHY,MODERN OPTICS (ITS PHYSICS & ENGINEERING)(PHY307),,"OE-2 DE,PRF,OE / REGULAR",3-0-0-0(9),S ANANTHA  RAMAKRISHNA   (I),sar@iitk.ac.in (I),W (T207) F (T207)  09:00-10:15,T207,,,,,Document
+691,PHY,MODERN PHYSICS LABORATORY(PHY315),,"SLOT-2 PRF,DC / REGULAR",1-0-6-0(9),RAJEEV  GUPTA   (I),guptaraj@iitk.ac.in (I),M (WL226)  08:00-09:00,WL226,,,TW 14:00-17:00,,Document
+692,PHY,CLASSICAL MECHANICS(PHY401),,"PG-8 PRF,DC / REGULAR",3-1-0-0(11),TAPOBRATA  SARKAR   (I),tapo@iitk.ac.in (I),T (L07) F (L07)  12:00-13:15,L07,W (L07)  12:00-13:00,L07,,,Document
+693,PHY,ORDER AND CHAOS(PHY404),,"OE-3 DE,OE / REGULAR",3-0-0-0(9),SAGAR  CHAKRABORTY (I),sagarc@iitk.ac.in (I),W (T203) F (T203)  10:30-12:00,T203,,,,,Document
+694,PHY,SPECIAL & GENERAL RELATIVITY(PHY407),,"PG-10 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),KAUSHIK  BHATTACHARYA   (I),kaushikb@iitk.ac.in (I),T (L15) W (L15) Th (L15)  08:00-09:00,L15,,,,,Not Available
+695,PHY,MATHEMATICAL METHODS I(PHY421),,"DE-3-1 PRF,DC / REGULAR",3-1-0-0(11),TARUN KANTI  GHOSH   (I),tkghosh@iitk.ac.in (I),M (L01) Th (L01)  12:00-13:15,L01,F (L01)  08:00-09:00,L01,,,Not Available
+696,PHY,QUANTUM MECHANICS I(PHY431),,"DE-1-1 DE,PRF,OE,DC,Minor / REGULAR",3-1-0-0(11),JOYDEEP  CHAKRABORTTY (I),joydeep@iitk.ac.in (I),M (L04) Th (L04)  09:00-10:15,L04,T (L04)  09:00-10:00,L04,,,Document
+697,PHY,ELECTRONICS(PHY441),,"PG-3a PRF,DC / REGULAR",2-1-3-0(11),"Rohit Medwal(I), K P  RAJEEV   (O)","rmedwal@iitk.ac.in (I), kpraj@iitk.ac.in (O)",M (T201) T (T201) Th (T201)  11:00-12:00,T201,,,,,Not Available
+698,PHY,EXPERIMENTAL PHYSICS I(PHY461),,"SLOT-BLANK PRF,DC / REGULAR",0-0-8-0(8),Jayita  Nayak(I),jnayak@iitk.ac.in (I),,,,,TWThF 14:00-18:00,,Not Available
+699,PHY,EXPERIMENTAL PHYSICS I(PHY461A),,SLOT-BLANK PRF / REGULAR,0-0-8-0(8),Jayita  Nayak(I),jnayak@iitk.ac.in (I),,,,,TWThF 14:00-18:00,,Not Available
+700,PHY,EXPERIMENTAL PHYSICS II(PHY462),,"SLOT-BLANK PRF,DC / REGULAR",0-0-8-0(8),Jayita  Nayak(I),jnayak@iitk.ac.in (I),,,,,TWThF 14:00-18:00,,Not Available
+701,PHY,M SC REVIEW PROJECT II(PHY501),,SLOT-BLANK IC / REGULAR,0-0-9-0(9),Nilay Kundu(I),nilayhep@iitk.ac.in (I),,,,,,,Document
+702,PHY,M.SC. REVIEW PROJECT  III(PHY502),,SLOT-BLANK IC / REGULAR,0-0-9-0(9),Nilay Kundu(I),nilayhep@iitk.ac.in (I),,,,,,,Document
+703,PHY,BACHELOR OF SCIENCE PROJECT -1(PHY555A),,SLOT-BLANK UGP-1 / REGULAR,0-0-0-9(9),SOUMIK  MUKHOPADHYAY (I),soumikm@iitk.ac.in (I),,,,,,,Document
+704,PHY,BACHELOR OF SCIENCE PROJECT -II(PHY556),,SLOT-BLANK IC / REGULAR,0-0-0-9(9),SOUMIK  MUKHOPADHYAY (I),soumikm@iitk.ac.in (I),,,,,,,Document
+705,PHY,M.SC. PROJECT I(PHY563),,SLOT-BLANK IC / REGULAR,0-0-9-0(9),ADITYA HEMCHANDRA  KELKAR (I),akelkar@iitk.ac.in (I),,,,,,,Document
+706,PHY,M.SC. PROJECT II(PHY565),,SLOT-BLANK IC / REGULAR,0-0-9-0(9),ADITYA HEMCHANDRA  KELKAR (I),akelkar@iitk.ac.in (I),,,,,,,Document
+707,PHY,M.SC.RESEARCH PROJECT I(PHY596),,SLOT-BLANK IC / REGULAR,0-0-9-0(9),M K  HARBOLA   (I),mkh@iitk.ac.in (I),,,,,,,Not Available
+708,PHY,M.SC. RESEARCH PROJECT I(PHY598),,SLOT-BLANK IC / REGULAR,0-0-9-0(9),M K  HARBOLA   (I),mkh@iitk.ac.in (I),,,,,,,Not Available
+709,PHY,ADVANCED STATISTICAL MECHANICS(PHY613),,"PG-3a DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Adhip Agarwala(I),adhip@iitk.ac.in (I),M (L09) T (L09) Th (L17)  11:00-12:00,"L09 ,L17",,,,,Document
+710,PHY,CLASSICAL ELECTRODYNAMICS II(PHY614),,"PG-1 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),G SENGUPTA     (I),sengupta@iitk.ac.in (I),"M (T205) F (T205)  08:00-09:00 ,T (T205)  09:00-10:00",T205,,,,,Document
+711,PHY,ELECTRONIC STRUCTURE OF MATERIALS(PHY621),( PHY543  ),"PG-6 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Koushik Pal(I),koushik@iitk.ac.in (I),W (T209) F (T209)  10:30-12:00,T209,,,,,Document
+712,PHY,CONDENSED MATTER PHYSICS(PHY623),,"PG-2a DE,PRF,OE,Minor / REGULAR",3-1-0-0(11),Sudeep Ghosh(I),skghosh@iitk.ac.in (I),M (L09) T (L09) Th (L09)  10:00-11:00,L09,F (L09)  14:00-15:00,L09,,,Document
+713,PHY,MAGNETISM IN MATERIALS(PHY624),( PHY204 OR PHY432 OR PHY602  ),"OE-5 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),ZAKIR  HOSSAIN   (I),zakir@iitk.ac.in (I),"T (T212)  14:00-15:15 ,M (T212)  15:30-17:00",T212,,,,,Document
+714,PHY,PHYSICS OF SOFT MATTER AND FLUIDS(PHY628),,"PG-11a DE,PRF,OE,Minor / REGULAR",3-1-0-0(11),Jayanta Bhattacharjee(I),jayantakb@iitk.ac.in (I),M (T111) Th (T111)  12:00-13:15,T111,T (T111)  17:10-18:00,T111,,,Not Available
+715,PHY,PHYSICS OF SEMICONDUCTOR NANOSTRUCTURES(PHY631),,"PG-6 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Sudipta Dubey(I),sudiptad@iitk.ac.in (I),W (T102) F (T102)  10:30-12:00,T102,,,,,Document
+716,PHY,INTRODUCTION TO CONFORMAL FIELD THEORY(PHY652),,"PG-10 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Apratim Kaviraj(I),akaviraj@iitk.ac.in (I),T (WL235) W (WL235) Th (WL235)  08:00-09:00,WL235,,,,,Document
+717,PHY,MACHINE LEARNING IN PARTICLE PHYSICS(PHY654),,"OE-4 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Swagata Mukherjee(I),swagata@iitk.ac.in (I),M (L10) Th (L10)  14:00-15:15,L10,,,,,Document
+718,PHY,PHOTONIC DEVICES(PHY664),,"PG-4 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),VIJAYA  RAMARAO   (I),rvijaya@iitk.ac.in (I),M (T108) Th (T108)  12:00-13:15,T108,,,,,Document
+719,PHY,QUANTUM FIELD THEORY(PHY681),( PHY432  ),"SLOT-BLANK DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Not Offered (I),automation@iitk.ac.in (I),,,,,,,Not Available
+720,PHY,CONCEPTS OF PLASMA PHYSICS(PHY682),,"PG-5 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),SUDEEP  BHATTACHARJEE   (I),sudeepb@iitk.ac.in (I),W (T205) F (T205)  09:00-10:15,T205,,,,,Document
+721,PHY,TECHNIQUES IN EXPERIMENTAL HIGH ENERGY PHYSICS(PHY683),,"OE-5 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Navaneeth Poonthottathil(I),navaneeth@iitk.ac.in (I),"T (T209)  14:00-15:15 ,M (T209)  15:30-17:00",T209,,,,,Document
+722,PHY,INTRODUCTION TO QUANTUM FIELD THEORY(PHY685),,"PG-4-1 DE,PRF,OE,Minor / REGULAR",3-1-0-0(11),ARJUN  BAGCHI (I),abagchi@iitk.ac.in (I),"M (L14) Th (L14)  12:00-13:15 ,T (L14)  17:00-18:00",L14,,,,,Document
+723,PHY,PHYSICS AT LARGE HADRON COLLIDER(PHY690B),,"PG-5 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Sanmay Ganguly(I),sanmay@iitk.ac.in (I),W (T209) F (T209)  09:00-10:15,T209,,,,,Document
+724,PHY,FUNDAMETALS OF ASTROPHYSICS(PHY690C),,"OE-4 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Gopal Hazra(I),hazra@iitk.ac.in (I),M (T205) Th (T205)  14:00-15:15,T205,,,,,Document
+725,PHY,PHOTONIC DEVICES(PHY690V),,"SLOT-BLANK DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Not Offered (I),automation@iitk.ac.in (I),,,,,,,Not Available
+726,PHY,M.SC.RESEARCH PROJECT I(PHY696),,SLOT-BLANK IC / REGULAR,0-0-0-0(9),M K  HARBOLA   (I),mkh@iitk.ac.in (I),,,,,,,Not Available
+727,PHY,M.SC.RESEARCH PROJECT I(PHY698),,SLOT-BLANK IC / REGULAR,0-0-9-0(9),M K  HARBOLA   (I),mkh@iitk.ac.in (I),,,,,,,Not Available
+728,PHY,PHYSICS SEMINAR I(PHY701),,"SLOT-BLANK DE,PRF,OE,Minor / REGULAR",0-0-0-0(0),AMIT KUMAR  AGARWAL (I),amitag@iitk.ac.in (I),,,,,,,Not Available
+729,PHY,PHYSICS SEMINAR II(PHY702),,"SLOT-BLANK DE,PRF,OE,Minor / REGULAR",0-0-0-0(0),AMIT KUMAR  AGARWAL (I),amitag@iitk.ac.in (I),,,,,,,Not Available
+730,PHY,RESEARCH(PHY799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCPHY (I),dpgc_phy@iitk.ac.in (I),,,,,,,Not Available
+731,PHY,INTRODUCTION TO PROFESSION AND COMMUNICATION SKILLS FOR PHYSICISTS(PHY888),,"SLOT-6 PRF,DC / REGULAR",0-1-0-1(3),S ANANTHA  RAMAKRISHNA   (I),sar@iitk.ac.in (I),T (L15)  17:00-18:00,L15,,,,,Document
+732,PSE,INTRODUCTION TO PHOTONICS(PSE601),,PG-6 PRF / REGULAR,3-0-0-0(9),"Mohammed Ibrahim Sugarno(I), PRADEEP  KUMAR K   (O)","ibrahim@iitk.ac.in (I), pradeepk@iitk.ac.in (O)",W (PSE: SL215) F (PSE: SL215)  10:30-12:00,PSE: SL215,,,,,Document
+733,PSE,PRINCIPLES OF LASERS AND DETECTORS(PSE602),,PG-3 PRF / REGULAR,3-0-0-0(9),Sapam Chanu(I),sranjita@iitk.ac.in (I),M (PSE: SL215) Th (PSE: SL215)  10:30-12:00,PSE: SL215,,,,,Document
+734,PSE,M. TECH THESIS(PSE699),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),"DPGCPSE (I), DUGCPSE (O)","dpgc_pse@iitk.ac.in (I), dugc_pse@iitk.ac.in (O)",,,,,,,Not Available
+735,PSE,PHD THESIS(PSE799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCPSE (I),dpgc_pse@iitk.ac.in (I),,,,,,,Not Available
+736,PSE,MS - RESEARCH THESIS(PSE899),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCPSE (I),dpgc_pse@iitk.ac.in (I),,,,,,,Not Available
+737,SEE,UNDER GRADUATE PROJECT I(SEE496),,SLOT-BLANK UGP-1 / REGULAR,0-0-0-0(9),DUGCSEE (I),dugc_see@iitk.ac.in (I),,,,,,,Not Available
+738,SEE,THERMO-FLUID ENGINEERING(SEE601),,"PG-14 DE,PRF,DC,Minor / REGULAR",3-0-0-0(9),Laltu Chandra(I),lchandra@iitk.ac.in (I),"T (T110)  14:00-15:15 ,M (T110)  15:30-17:00",T110,,,,,Document
+739,SEE,PHYSICS OF ENERGY MATERIALS(SEE602),,"PG-2 DE,PRF,OE,DC,Minor / REGULAR",3-0-0-0(9),"Sudarshan Narayanan(I), Rajeev Jindal(O)","sudarshan@iitk.ac.in (I), rajeevj@iitk.ac.in (O)",M (L13) Th (L13)  09:00-10:15,L13,,,,,Document
+740,SEE,ELECTRICAL POWER ENGINEERING(SEE603),,"PG-6 DE,PRF,OE,DC,Minor / REGULAR",3-0-0-0(9),Prabodh Bajpai(I),pbajpai@iitk.ac.in (I),W (WL226) F (WL226)  10:30-12:00,WL226,,,,,Document
+741,SEE,ELECTROCHEMICAL ENERGY SYSTEMS(SEE606),,"PG-9 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),"Soumyabrata Roy(I), Sudarshan Narayanan(O), RAJU KUMAR GUPTA(O), Lalit Pant(O)","soumyar@iitk.ac.in (I), sudarshan@iitk.ac.in (O), guptark@iitk.ac.in (O), lalit@iitk.ac.in (O)",W (WL226) F (WL226)  17:00-18:30,WL226,,,,,Document
+742,SEE,INTRODUCTION TO BIOENERGY AND BIOFUELS(SEE608),,"PG-4 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Deepika Swami(I),dswami@iitk.ac.in (I),M (T110) Th (T110)  12:00-13:15,T110,,,,,Not Available
+743,SEE,MATHEMATICAL AND COMPUTATIONAL TOOLS FOR ENGINEERING(SEE609),,"PG-3 DE,PRF,OE,DC,Minor / REGULAR",3-0-0-0(9),Lalit Pant(I),lalit@iitk.ac.in (I),M (DJAC: 206H) Th (DJAC: 206H)  10:30-12:00,DJAC: 206H,,,,,Document
+744,SEE,SUSTAINABLE ENERGY AND ENABLING NET ZERO EMISSIONS(SEE622),,"PG-5 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),"Rajeev Jindal(I), Anna Agarwal(O)","rajeevj@iitk.ac.in (I), anna@iitk.ac.in (O)",W (L13) F (L13)  09:00-10:15,L13,,,,,Document
+745,SEE,DESIGN STRATEGIES FOR NET-ZERO ENERGY BUILDINGS(SEE624),,"PG-4 PRF,OE,DC,Minor / REGULAR",3-0-0-0(9),Aakash Rai(I),aakashrai@iitk.ac.in (I),M (T205) Th (T205)  12:00-13:15,T205,,,,,Document
+746,SEE,"STRUCTURAL, MICROSTRUCTURAL AND SPECTROSCOPIC CHARACTERIZATION OF MATERIALS(SEE625)",,"PG-15 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),"ASHISH GARG(I), Srinivas Yadavalli(O)","ashishg@iitk.ac.in (I), srinivask@iitk.ac.in (O)",T (T104) Th (T104)  15:30-17:00,T104,,,,,Not Available
+747,SEE,ELECTRIC VEHICLES(SEE627),,"PG-5 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),Amarendra Edpuganti(I),amarendrae@iitk.ac.in (I),W (DJAC: 205H) F (DJAC: 205H)  09:00-10:15,DJAC: 205H,,,,,Document
+748,SEE,"ECOLOGY, EQUITY AND THE ECONOMY(SEE629M)",,PG-1 PRF / FIRST-HALF,3-0-0-0(5),"Gurudas Nulkar(I), ASHISH GARG(O)","gurudasn@iitk.ac.in (I), ashishg@iitk.ac.in (O)","M (T103) F (T103)  08:00-09:00 ,T (T103)  09:00-10:00 ,W (T103)  14:00-15:00",T103,,,,,Not Available
+749,SEE,M TECH THESIS(SEE699),,SLOT-BLANK Thesis / REGULAR,0-0-0-0(0),"DPGCSEE (I), DUGCSEE (O)","dpgc_see@iitk.ac.in (I), dugc_see@iitk.ac.in (O)",,,,,,,Not Available
+750,SEE,PHD THESIS(SEE799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCSEE (I),dpgc_see@iitk.ac.in (I),,,,,,,Not Available
+751,SEE,INTRODUCTION TO PROFESSION & COMMUNICATION(SEE888),,"PG-13 PRF,DC,Minor / REGULAR",1-0-0-0(3),Amarendra Edpuganti(I),amarendrae@iitk.ac.in (I),M (T110) Th (T110)  14:00-15:15,T110,,,,,Document
+752,SEE,MS - RESEARCH THESIS(SEE899),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCSEE (I),dpgc_see@iitk.ac.in (I),,,,,,,Not Available
+753,SPASE,GALAXIES AND OBSERVATIONAL COSMOLOGY(SPA401),,PG-2 OE / REGULAR,3-0-0-0(9),"PANKAJ JAIN (I), Sharvari Nadkarni Ghosh (O)","pkjain@iitk.ac.in (I), sharvari@iitk.ac.in (O)",M (L06) Th (L06)  09:00-10:15,L06,,,,,Not Available
+754,SPASE,INTRODUCTION TO CELESTIAL OBSERVATIONAL TECHNIQUES(SPA613M),,"PG-3 PRF,OE,Minor / FIRST-HALF",3-0-0-0(5),Prashant Pathak(I),ppathak@iitk.ac.in (I),M (T204) Th (T204)  10:30-12:00,T204,,,,,Document
+755,SPASE,INTRODUCTION TO CELESTIAL MECHANICS(SPA614M),,"PG-4 PRF,OE,Minor / SECOND-HALF",3-0-0-0(5),Sharvari Nadkarni Ghosh (I),sharvari@iitk.ac.in (I),MTh 12:00-13:15,,,,,,Not Available
+756,SPASE,STARS AND STELLAR EVOLUTION(SPA616),,"PG-9 DE,PRF,OE,Minor / REGULAR",3-0-0-0(9),"Kartick Sarkar(I), Rohit Sharma(O)","kcsarkar@iitk.ac.in (I), rsharma@iitk.ac.in (O)",W (T205) F (T205)  17:00-18:30,T205,,,,,Document
+757,SPASE,SPACE INSTRUMENTATION LABORATORY(SPA617M),,"SLOT-BLANK PRF,Minor / SECOND-HALF",0-0-9-0(5),"Amitesh Omar(I), Prashant Pathak(O), J Yadav(O)","aomar@iitk.ac.in (I), ppathak@iitk.ac.in (O), jsyadav@iitk.ac.in (O)",,,,,TWTh 14:00-17:00,,Document
+758,SPASE,INTRODUCTION TO RADIATIVE PROCESSES IN SPACE(SPA618M),,"PG-4 PRF,OE,Minor / FIRST-HALF",3-0-0-0(5),Kartick Sarkar(I),kcsarkar@iitk.ac.in (I),M (T104) Th (T104)  12:00-13:15,T104,,,,,Document
+759,SPASE,MATHEMATICAL TECHNIQUES IN SPACE SCIENCES & ENGINEERING(SPA622M),,PG-6 PRF / FIRST-HALF,3-0-0-0(5),"Yamini Jangir(I), PANKAJ JAIN (O)","jangir@iitk.ac.in (I), pkjain@iitk.ac.in (O)",W (WL237) F (WL237)  10:30-12:00,WL237,,,,,Not Available
+760,SPASE,NUMERICAL TECHNIQUES IN SPACE SCIENCES & ENGINEERING(SPA623M),,PG-6 PRF / SECOND-HALF,2-0-3-0(5),Rohit Sharma(I),rsharma@iitk.ac.in (I),WF 10:30-11:30,,,,M 14:00-17:00,,Not Available
+761,SPASE,SPACE ENVIRONMENTS AND SPACE SYSTEMS(SPA626),,PG-5 PRF / REGULAR,3-0-0-0(9),Soumyabrata Chakrabarty(I),soumyac@iitk.ac.in (I),W (T206) F (T206)  09:00-10:15,T206,,,,,Not Available
+762,SPASE,HIGH ENERGY ASTROPHYSICS OF BINARY STAR SYSTEMS(SPA660),,"PG-7 DE,PRF,OE / REGULAR",3-0-0-0(9),Kunal Mooley(I),kmooley@iitk.ac.in (I),"W (SPACE: SR)  12:00-13:30 ,T (SPACE: SR)  17:00-18:30",SPACE: SR,,,,,Not Available
+763,SPASE,PHD THESIS(SPA799),,"SLOT-BLANK PRF,Thesis / REGULAR",0-0-0-0(0),DPGCSSA (I),dpgc_ssa@iitk.ac.in (I),,,,,,,Not Available
+764,SPASE,SPACE SCIENCES SEMINAR(SPA801),,SLOT-BLANK PRF / REGULAR,0-0-0-0(0),DPGCSSA (I),dpgc_ssa@iitk.ac.in (I),,,,,,,Not Available
+765,SPEC,MORNING EXERCISE(PE111),,SLOT-BLANK IC / REGULAR,0-0-0-0(3),INDRA SEKHAR SEN(I),isen@iitk.ac.in (I),,,,,,,Document
+766,SPEC,EVENING EXERCISE(PE112),,SLOT-BLANK IC / REGULAR,0-0-0-0(3),INDRA SEKHAR SEN(I),isen@iitk.ac.in (I),,,,,,,Document
