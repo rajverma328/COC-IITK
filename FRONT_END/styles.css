@@ -5,7 +5,9 @@ body {
     padding: 0;
     color: #333;
 }
-
+.check-box{
+    visibility: hidden;
+}
 .container {
     max-width: 100%;
     margin: 50px auto;
@@ -22,6 +24,16 @@ h1 {
 
 ol {
     list-style: none;
+}
+#tt{
+    visibility: hidden;
+    height: 3em;
+}
+
+.head_time{
+    height: 4em;
+    font-weight: bold;
+    align-content: center;
 }
 
 .timetable {
@@ -42,10 +54,7 @@ ol {
 }
 
 .timings {
-    margin: 1em 0 0 0;
-    padding: 0 3px 0 0;
     width: 3em;
-    height: 104em;
     display: flex;
     flex-direction: column;
     align-items: flex-end;
@@ -85,6 +94,7 @@ ol {
     line-height: 3em;
     text-align: center;
     border-right: 1px solid #ddd; /* Vertical lines */
+    background-color: #d7d7d7b6;
 }
 
 .hour {
@@ -95,6 +105,7 @@ ol {
     color: white;
     border-right: 1px solid #ddd; /* Vertical lines */
     border-bottom: 1px solid #ddd; /* Horizontal lines */
+    border-radius: 5px;
 }
 
 .hour__08 { top: 3em; }
@@ -121,45 +132,117 @@ ol {
 .class5 { background: #1abc9c; }
 
 @media (min-width: 1300px) {
+    .check-box{
+        visibility: visible;
+        position:absolute;
+        left: 90%;
+        top: 20%;
+    }
+    .switch {
+        --inactive-bg: #cfd8dc;
+        --active-bg: #00e676;
+        --size: 2rem;
+        appearance: none;
+        width: calc(var(--size) * 2.2);
+        height: var(--size);
+        display: inline-block;
+        border-radius: calc(var(--size) / 2);
+        cursor: pointer;
+        background-color: var(--inactive-bg);
+        background-image: radial-gradient(
+            circle calc(var(--size) / 2.1),
+            #fff 100%,
+            #0000 0
+          ),
+          radial-gradient(circle calc(var(--size) / 1.5), #0003 0%, #0000 100%);
+        background-repeat: no-repeat;
+        background-position: calc(var(--size) / -1.75) 0;
+        transition: background 0.2s ease-out;
+      }
+      .switch:checked {
+        background-color: var(--active-bg);
+        background-position: calc(var(--size) / 1.75) 0;
+      }
+
+      .toggle1{
+        .day {
+            position: relative;
+            border-bottom: 1px solid #ddd; /* Horizontal lines */
+            padding: 0;
+            min-width: calc(100% / 5);
+            transition: min-width 0.2s ease-in-out;
+            background-color: #f0f8ff; /* Default background color */
+        }
+        .week{
+            overflow-x: hidden;
+        }
+    }    
+}
+
+.toggle0{
     .timetable {
         flex-direction: column;
     }
     .timings {
         margin: 0;
-        padding: 0 0 3px 3%;
-        width: 96%;
+        width: 100%;
         height: 3em;
+        display: flexbox;
         flex-direction: row;
         justify-content: space-between;
+        padding-bottom: 0.5em;
     }
     .name {
-        width: 4%;
+        background-color:#00023b1a;
+        width: 9%;
         line-height: 5em;
         height: 5em;
+        font-weight: bold;
     }
     .week {
         flex-direction: column;
     }
+    #tt{
+        height: 1.3em;
+        visibility:visible;
+        text-align: center;
+        width:9%;
+        font-weight: bolder;
+        font-size:x-large;
+    }
+    .head_time{
+        height: 1.5em;
+        text-align: center;
+        font-weight: bolder;
+        width:7%;
+        font-size: large;
+    }
+
+    #id{
+        width:7%;
+    }
     .hour {
         top: 0;
-        width: 6%;
+        width: 7%;
         height: 100%;
+        border-radius: 10px;
+        align-content: center;
     }
-    .hour__08 { left: 4%; }
-    .hour__09 { left: 10%; }
-    .hour__10 { left: 16%; }
-    .hour__11 { left: 22%; }
-    .hour__12 { left: 28%; }
-    .hour__13 { left: 34%; }
-    .hour__14 { left: 40%; }
-    .hour__15 { left: 46%; }
-    .hour__16 { left: 52%; }
-    .hour__17 { left: 58%; }
-    .hour__18 { left: 64%; }
-    .hour__19 { left: 70%; }
-    .hour__20 { left: 76%; }
-    .hour--two { width: 12%; }
-    .hour--three { width: 18%; }
+    .hour__08 { left: 9%; }
+    .hour__09 { left: 16%; }
+    .hour__10 { left: 23%; }
+    .hour__11 { left: 30%; }
+    .hour__12 { left: 37%; }
+    .hour__13 { left: 44%; }
+    .hour__14 { left: 51%; }
+    .hour__15 { left: 58%; }
+    .hour__16 { left: 65%; }
+    .hour__17 { left: 72%; }
+    .hour__18 { left: 79%; }
+    .hour__19 { left: 86%; }
+    .hour__20 { left: 93%; }
+    .hour--two { width: 14%; }
+    .hour--three { width: 21%; }
 }
 
 footer {

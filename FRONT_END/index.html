@@ -7,27 +7,31 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
+    <div id="orienter" class="container toggle1">
         <h1>Weekly Timetable</h1>
+        <div class="check-box">
+            <input id="rc_switch" class="switch" type="checkbox" onchange="toggleClass()" style="--size: 40px; --inactive-bg: #FF8A65; --active-bg: #4DB6AC">
+        </div>
         <section class="timetable">
-            <ol class="timings">
-            <li>08:00</li>
-            <li>09:00</li>
-            <li>10:00</li>
-            <li>11:00</li>
-            <li>12:00</li>
-            <li>13:00</li>
-            <li>14:00</li>
-            <li>15:00</li>
-            <li>16:00</li>
-            <li>17:00</li>
-            <li>18:00</li>
-            <li>19:00</li>
-            <li>20:00</li>
-            </ol>
+            <div class="timings">
+            <div id="tt">Days</div>
+            <div class="head_time">08:00</div>
+            <div class="head_time">09:00</div>
+            <div class="head_time">10:00</div>
+            <div class="head_time">11:00</div>
+            <div class="head_time">12:00</div>
+            <div class="head_time">13:00</div>
+            <div class="head_time">14:00</div>
+            <div class="head_time">15:00</div>
+            <div class="head_time">16:00</div>
+            <div class="head_time">17:00</div>
+            <div class="head_time">18:00</div>
+            <div class="head_time">19:00</div>
+            <div class="head_time">20:00</div>
+            </div>
             <ol class="week">
             <li class="day" id="mon">
-                <span class="name">Mon</span>
+                <span class="name">Monday</span>
                 <div class="hour hour__10 class1">
                 <div class="title">ST2334</div>
                 <div>LEC[SL1]</div>
@@ -42,7 +46,7 @@
                 </div>
             </li>
             <li class="day" id="tue">
-                <span class="name">Tue</span>
+                <span class="name">Tuesday</span>
                 <div class="hour hour__08 hour--two class3">
                 <div class="title">MA2213</div>
                 <div>LEC[SL1]</div>
@@ -61,7 +65,7 @@
                 </div>
             </li>
             <li class="day" id="wed">
-                <span class="name">Wed</span>
+                <span class="name">Wednesday</span>
                 <div class="hour hour__10 class4">
                 <div class="title">CS2020</div>
                 <div>LEC[01]</div>
@@ -72,7 +76,7 @@
                 </div>
             </li>
             <li class="day" id="thu">
-                <span class="name">Thu</span>
+                <span class="name">Thursday</span>
                 <div class="hour hour__10 class1">
                 <div class="title">ST2334</div>
                 <div>LEC[SL1]</div>
@@ -83,7 +87,7 @@
                 </div>
             </li>
             <li class="day" id="fri">
-                <span class="name">Fri</span>
+                <span class="name">Friday</span>
                 <div class="hour hour__08 class3">
                 <div class="title">MA2213</div>
                 <div>LEC[SL1]</div>
