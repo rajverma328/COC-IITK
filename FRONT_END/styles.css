@@ -186,7 +186,7 @@ ol {
     transition-property: top,transform;
     transition-delay: 0s;
     }
-    
+
     #rc_switch:checked + .toggle .bar--top {
     bottom: calc(50% - 11px - 4px);
     margin-bottom: calc(11px + 4px/ 2);
