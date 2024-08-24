@@ -83,3 +83,16 @@ function populateCourseDropdown(courses) {
 
 // Initialize the application
 fetchCourseData();
+
+function reset_button() {
+    // Reset the branch dropdown to the default option
+    document.getElementById("branch-select").selectedIndex = 0;
+    // Disable and reset the course dropdown to the default option
+    const courseSelect = document.getElementById("course-select");
+    courseSelect.selectedIndex = 0;
+    courseSelect.disabled = true;
+}
+
+function add_button(){
+    
+}
