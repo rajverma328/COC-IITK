@@ -4,9 +4,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Responsive Timetable</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}"> <!-- Updated path -->
 </head>
 <body>
+    <div id="input_handler" class="container">
+        <h1>Enter courses taken</h1>
+
+        <div id="branch_pos">
+        <label for="branch-select">Branch:</label>
+        <select id="branch-select">
+            <option value="">Select Branch</option>
+        </select>
+        </div>
+    
+        <div id="course_pos">
+        <label for="course-select">Course:</label>
+        <select id="course-select" disabled>
+            <option value="">Select Course</option>
+        </select>
+        </div>
+
+        <div id="button_pos">
+            <button class="btn" id="btn_add"> ADD
+            </button>
+            <button class="btn" id="btn_reset"> RESET
+            </button>
+        </div>
+
+    </div>
     <div id="orienter" class="container toggle1">
         <div id="menuToggle">
             <input id="rc_switch" type="checkbox" onchange="toggleClass()">
@@ -113,6 +138,6 @@
             </ol>
         </section>
     </div>
-    <script src="scripts.js"></script>
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
 </body>
 </html>
