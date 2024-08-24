@@ -1,6 +1,7 @@
 from datetime import datetime
 import pandas as pd
 import numpy as np
+from tqdm import tqdm
 
 #### CODE TO CALCULATE CLASS DURATION ####
 def calculate_duration(start_time, end_time):
@@ -10,68 +11,84 @@ def calculate_duration(start_time, end_time):
     duration = end - start
     hours, remainder = divmod(duration.total_seconds(), 3600)
     minutes, _ = divmod(remainder, 60)
-    return f"({int(hours)}.{int(minutes / 15)})"  # Rounded to nearest quarter-hour
+    return f"({int(hours)}.{int(minutes / 60*10)})"  # Rounded to nearest quarter-hour
 
-def clean_time_entry(entry):
-    """Clean and format a time entry string."""
+# Function to recover combinations
+def recover_combinations(combinations_list):
+    days = ['M', 'T', 'W', 'Th', 'F']
+    recovered_combinations = []
+    for comb in combinations_list:
+        recovered_combinations.append(comb)
+    return recovered_combinations
+
+def clean_time_entry(entry):        ## THANKS RAGHAV(daddy2002)
     if pd.isna(entry) or entry.lower() == 'nan':
-        return None
-
+        return 'null'
     # Split the entry by spaces and process each part
-    parts = entry.split()
+    try:
+        parts =  entry.split(',')
+    except:
+        parts = parts
     
-    if len(parts) < 3:
-        return None
-    
-    # Extract day and time range
-    day = parts[0]
-    time_range = parts[-1]  # Last part should be the time range
-    
-    if '-' in time_range:
-        start_time, end_time = time_range.split('-')
-        duration = calculate_duration(start_time, end_time)
-        return f"{day} ({start_time}-{end_time}) {duration}"
-    else:
-        return None
+    daytime = {'M':'null', 'T':'null', 'W':'null', 'Th':'null', 'F':'null'}
+    days_char = [
+    'M', 'T', 'W', 'Th', 'F',
+    'MT', 'MW', 'MTh', 'MF',
+    'TW', 'TTh', 'TF',
+    'WTh', 'WF',
+    'ThF',
+    'MTW', 'MTTh', 'MTF',
+    'MWTh', 'MWF',
+    'MThF',
+    'TWTh', 'TWF',
+    'TThF',
+    'WThF',
+    'MTWTh', 'MTWF',
+    'MTThF', 'MWThF',
+    'TWThF',
+    'MTWThF']
+
+    for part in parts:
+        cont = part.split()
+        time_range = cont[-1]
+        if '-' in time_range:
+            start_time, end_time = time_range.split('-')
+            duration = calculate_duration(start_time, end_time)
+        for day in days_char:
+            if (day in cont):
+                # print(day)
+                day = recover_combinations(day)
+                for daisy in day:
+                    daytime[daisy] = ([time_range,duration])
+    # print(daytime)
+    return daytime
 
 def process_times(row):
-    """Process and format times from the row."""
-    times = [clean_time_entry(row[col]) for col in ['Time', 'Time.1', 'Time.2']]
-    
-    # Initialize a dictionary to track days and their corresponding times
-    days = {
-        'M': 'null',
-        'T': 'null',
-        'W': 'null',
-        'Th': 'null',
-        'F': 'null'
-    }
-    
-    for time in times:
-        if time:
-            parts = time.split(' ', 1)
-            if len(parts) == 2:
-                day = parts[0]
-                details = parts[1]
-                if day in days:
-                    days[day] = details
-    
-    # Format the output
-    formatted_output = ', '.join(days[day] if days[day] != 'null' else 'null' for day in ['M', 'T', 'W', 'Th', 'F'])
-    return formatted_output
-
+    lec_time = clean_time_entry(row['Time'])
+    # print(lec_time)
+    tut_time = clean_time_entry(row['Time.1'])
+    # print(tut_time)
+    lab_time = clean_time_entry(row['Time.2'])
+    # print(lab_time)
+    row['lec'] = lec_time
+    row['tut'] = tut_time
+    row['lab'] = lab_time
+    return row
 
 def interpret_data(df):
     #### Managing Credits Column in Data Frame ####
     # Drop rows with any missing values
     df = df.drop_duplicates()  # Remove duplicate rows
     # Extract Credits as integers from the format '0-0-0-0(3)'
+
     df['Credits'] = df['Credits'].str.extract(r'\((\d+)\)')
     # Handle NaN values before conversion
     df['Credits'] = df['Credits'].fillna(0)  # Replace NaN with 0
     df['Credits'] = df['Credits'].astype(int)  # Convert to integer
+
     # Apply the processing function to each row
-    df['Schedule'] = df.apply(process_times, axis=1)
+    tqdm.pandas() 
+    df = df.progress_apply(process_times, axis=1)
     # Drop original columns if needed
     df = df.drop(columns=['Time', 'Time.1', 'Time.2'])
     #### Managing Credits Column in Data Frame ####
@@ -80,16 +97,26 @@ def interpret_data(df):
 if __name__ == "__main__":
     print("NOT FOR THIS PURPOSE")
     ## DEV TOOLS
-    data = {
-    'Course Name/Group Name': ['Test Course'],
-    'Credits': ['0-0-0-0(3)'],
-    'Time': ['M (EEM117) W (EEM117) F (EEM117) 17:00-18:00'],
-    'Time.1': ['T (EEM117) 09:00-10:00'],
-    'Time.2': ['nan']
-    }
-    df = pd.DataFrame(data)
-    output = interpret_data(df)
-    print(output)
-    print('..............................')
-    print(output['Schedule'][0])
+    # data = {
+    # 'Course Name/Group Name': ['Test Course'],
+    # 'Credits': ['0-0-0-0(3)'],
+    # 'Time': ['M (EEM117) W (EEM117) F (EEM117) 17:00-18:30'],
+    # # 'Time':['TF (boobies) 9:00-10:00'], 
+    # 'Time.1': ['TF (EEM117) 09:00-10:00, M (EEM117) 09:45-10:45'],
+    # 'Time.2': ['nan']
+    # }
+
+    # data = {
+    # 'Course Name/Group Name': ['Test Course', 'Test Course 2', 'Test Course 3'],
+    # 'Credits': ['0-0-0-0(3)', '0-0-0-0(3)', '0-0-0-0(3)'],
+    # 'Time': ['TF (EEM117) 09:00-10:00, M (EEM117) 09:45-10:45', 'TF (EEM118) 10:00-11:00', 'M (EEM119) 11:15-12:15'],
+    # 'Time.1': ['TF (EEM117) 09:00-10:00, M (EEM117) 09:45-10:45','nan','nan'],
+    # 'Time.2': ['nan','nan','nan']
+    # }
+    # df = pd.DataFrame(data)
+    # print(df)
+    # output = interpret_data(df)
+    # pd.set_option("display.max_columns", None)
+    # print(output)
+    # print('..............................')
     # interpret_data(data)
