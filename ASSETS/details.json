@@ -1,0 +1,3832 @@
+[
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO AEROSPACE ENGINEERING(AE201M)",
+        "Credits":5,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"DYNAMICS(AE209)",
+        "Credits":8,
+        "Schedule":"(12:00-13:00) (1.0), null, null, null, (12:00-13:00) (1.0)"
+    },
+    {
+        "Course Name\/Group Name":"COMPRESSIBLE AERODYNAMICS(AE311)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"FLIGHT MECHANICS(AE321)",
+        "Credits":9,
+        "Schedule":"null, (16:00-17:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"AEROSPACE STRUCTURES I(AE333)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"TECHNICAL COMMUNICATION(AE401A)",
+        "Credits":2,
+        "Schedule":"null, (10:00-12:00) (2.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ROCKET PROPULSION(AE441A)",
+        "Credits":5,
+        "Schedule":"null, null, (08:00-09:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"EXPERIMENTS IN AEROSPACE ENGINEERING III(AE451A)",
+        "Credits":5,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"AIRCRAFT DESIGN-I(AE461A)",
+        "Credits":7,
+        "Schedule":"null, null, null, null, (15:00-16:00) (1.0)"
+    },
+    {
+        "Course Name\/Group Name":"B TECH PROJECT(AE471A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDERGRADUATE PROJECT III(AE472A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"BOUNDARY LAYER THEORY(AE481)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRO TO AEROSPACE ENGG.(AE601)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATHEMATICS FOR AEROSPACE ENGG.(AE602)",
+        "Credits":9,
+        "Schedule":"null, (12:00-13:15) (1.1), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"AERODYNAMICS-I(AE610)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MEASUREMENTS IN FLUID MECHANICS(AE611)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"VISCOUS FLOWS(AE614)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"MULTIDISCIPLINARY DESIGN OPTIMIZATION(AE631)",
+        "Credits":9,
+        "Schedule":"null, (17:15-18:00) (0.3), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SATELLITE ATTITUDE DYNAMICS AND CONTROL(AE642)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SPORTS AERODYNAMICS(AE643)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SCIENTIFIC MACHINE LEARNING FOR FLUID MECHANICS(AE646)",
+        "Credits":9,
+        "Schedule":"(12:00-13:00) (1.0), (14:00-16:00) (2.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"FLIGHT DYNAMICS(AE647)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"AEROMECHANICS OF UNMANNED AERIAL SYSTEMS(AE656)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"FUNDAMENTALS OF COMBUSTION(AE663)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"APPLIED COMPRESSIBLE FLOWS(AE664)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"AEROSPACE STRUCTURAL ANALYSIS - I(AE670)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"AEROACOUSTICS(AE671)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"DYNAMICS AND VIBRATION(AE688)",
+        "Credits":9,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M TECH THESIS(AE699)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CONTINUUM MECHANICS(AE702)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMPUTATIONAL METHODS(AE703)",
+        "Credits":9,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"EXPERIMENTAL STRESS ANALYSIS(AE707)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"OPTIMAL SPACE FLIGHT CONTROL(AE777)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(AE799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"AEROSPACE ENGINEERING POSTGRADUATE SEMINAR(AE801)",
+        "Credits":0,
+        "Schedule":"null, (17:00-18:30) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO PROFESSION & COMMUNICATION(AE888)",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MS - RESEARCH THESIS(AE899)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ENGINEERING GRAPHICS(TA111) \/A",
+        "Credits":9,
+        "Schedule":"(15:00-16:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ENGINEERING GRAPHICS(TA111) \/B",
+        "Credits":9,
+        "Schedule":"(15:00-16:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ORGAN SYSTEM PHYSIOLOGY AND ANATOMY(BSE211)",
+        "Credits":9,
+        "Schedule":"(12:00-13:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"BIOCHEMISTRY(BSE221)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MOLECULAR CELL BIOLOGY(BSE311)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MOLECULAR BIOLOGY LAB(BSE312)",
+        "Credits":9,
+        "Schedule":"null, null, null, (17:00-18:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"BIOMATERIALS(BSE411)",
+        "Credits":9,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"BIOMATERIALS(BSE411A)",
+        "Credits":11,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"BIOMATERIAL PHYSIOLOGY & BIO-MEMS LABORATORY(BSE412)",
+        "Credits":9,
+        "Schedule":"null, (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"BIOMATERIAL  PHYSIOLOGY & BIO-MEMS LABORATORY(BSE412A)",
+        "Credits":9,
+        "Schedule":"null, (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"METHODS IN BIOTECHNOLOGY-I  EXPERIMENTAL BIOSEPERATION(BSE492)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT I(BSE496)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT III(BSE498)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UG PROJECT (UGP-III)(BSE498A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PROFESSIONAL COMMUNICATION(BSE601)",
+        "Credits":0,
+        "Schedule":"(08:00-09:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MODERN INSTRUMENTAL METHODS IN BIOLOGICAL SCIENCES(BSE611)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"BIOMATERIALS(BSE613)",
+        "Credits":11,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"BIOCHEMISTRY STRUCTURAL BIOLOGY(BSE631)",
+        "Credits":9,
+        "Schedule":"null, null, (12:00-13:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"MICROBIOLOGY AND IMMUNOLOGY(BSE642)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"CELLULAR MOLECULAR BIOLOGY(BSE651)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHYSIOLOGY(BSE655)",
+        "Credits":9,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"NEUROBIOLOGY(BSE656)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"STATISTICS FOR MODERN BIOLOGY(BSE658)",
+        "Credits":9,
+        "Schedule":"null, (15:00-16:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"BIOLOGICAL MEMBRANES(BSE661)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"ADVANCED CELL BIOLOGY(BSE672)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ELECTRONICS AND SIGNAL PROCESSING FOR BIOLOGISTS(BSE698X)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M.TECH THESIS(BSE699)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SEMINAR(BSE701)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SEMINAR(BSE702)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"HEALTHCARE VENTURES & ENTERPRISES II(BSE798A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(BSE799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PRINCIPLES OF BIOTECHNOLOGY(ESO206)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO BIOLOGY(LIF111)",
+        "Credits":6,
+        "Schedule":"null, null, (11:00-12:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"ENVIRONMENT AND SUSTAINABILITY(CE212)",
+        "Credits":9,
+        "Schedule":"(08:00-09:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CIVIL ENGINEERING MATERIALS(CE243)",
+        "Credits":8,
+        "Schedule":"(12:00-13:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"FLUID MECHANICS FOR CIVIL ENGINEERS(CE261)",
+        "Credits":10,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ENVIRONMENTAL QUALITY AND PROCESSES PRACTICAL(CE311)",
+        "Credits":4,
+        "Schedule":"null, (11:00-12:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PRINCIPLES OF GEOINFORMATICS(CE331)",
+        "Credits":8,
+        "Schedule":"(15:00-17:00) (2.0), null, (15:00-16:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"GEOINFORMATICS LAB(CE331P)",
+        "Credits":2,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CIVIL ENGINEERING COMMUNICATION SKILLS(CE341)",
+        "Credits":2,
+        "Schedule":"null, (18:00-19:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"FOUNDATION DESIGN(CE351)",
+        "Credits":10,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ENGINEERING HYDROLOGY(CE361)",
+        "Credits":6,
+        "Schedule":"(12:00-13:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"DESIGN OF REINFORCED CONCRETE STRUCTURES(CE371)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"REINFORCED CEMENT CONCRETE DESIGN(CE372A)",
+        "Credits":6,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO TRANSPORTATION ENGINEERING(CE381)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CONSTRUCTION MANAGEMENT(CE441B)",
+        "Credits":5,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"APPLICATION OF GEOTECHNICAL ENGINEERING(CE451)",
+        "Credits":11,
+        "Schedule":"(17:15-18:00) (0.3), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SPECIAL TOPICS IN STRUCTURAL DESIGN(CE471)",
+        "Credits":11,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"TRANSPORTATION FACILITIES DESIGN(CE481)",
+        "Credits":11,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE RESEARCH -II(CE491A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE RESEARCH -III(CE492A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATHEMATICS FOR CIVIL ENGINEERS(CE603)",
+        "Credits":5,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"NUMERICAL METHODS FOR CIVIL ENGINEERS(CE604)",
+        "Credits":5,
+        "Schedule":"null, null, null, (15:30-17:00) (1.2), null"
+    },
+    {
+        "Course Name\/Group Name":"PROBABILITY AND STATISTICS FOR CIVIL ENGINEERS(CE605)",
+        "Credits":5,
+        "Schedule":"null, (17:00-18:30) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"OPTIMIZATION METHODS FOR CIVIL ENGINEERS(CE606M)",
+        "Credits":5,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ADVANCED HYDROLOGY(CE610)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"ADVANCED HYDRAULICS(CE611)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"STRUCTURAL DYNAMICS(CE620)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ENGINEERING MECHANICS(CE621)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ADVANCED GEOTECHNICAL ENGINEERING(CE631)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"REINFORCED EARTH STRUCTURES(CE633)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"GEOTECHNICAL MEASUREMENTS AND EXPLORATION(CE638)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"INFRASTRUCTURE ASSET MANAGEMENT(CE640)",
+        "Credits":6,
+        "Schedule":"null, null, (09:00-10:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"QUALITY AND SAFETY IN CONSTRUCTION(CE645M)",
+        "Credits":5,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHYSICO-CHEMICAL PRINCIPLES AND PROCESS(CE664)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ECOLOGICAL AND BIOLOGICAL PRINCIPLES AND PROCESS(CE665)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"AIR POLLUTION AND ITS CONTROL(CE666)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO REMOTE SENSING(CE671)",
+        "Credits":11,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHYSICAL GEODESY(CE678)",
+        "Credits":11,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"TRAFFIC ENGINEERING(CE683)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M TECH SEMINAR I(CE697)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M. TECH THESIS(CE699)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CONSTRUCTION EQUIPMENT AND METHODS FOR BRIDGES(CE713M)",
+        "Credits":5,
+        "Schedule":"null, null, (15:30-17:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"CONTRACT MANAGEMENT(CE715M)",
+        "Credits":5,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PROJECT MANAGEMENT AND CONTROL(CE716)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"FINITE ELEMENT METHODS FOR CIVIL ENGINEERING APPLICATIONS(CE723)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNSATURATED SOIL MECHANICS(CE732)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"FLOOD MODELLING(CE736)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"HYDROMETRY(CE738)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SURFACE WATER QUALITY MODELING(CE760M)",
+        "Credits":5,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ATMOSPHERIC MODELING(CE762M)",
+        "Credits":5,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ADJUSTMENT COMPUTATIONS FOR GEOINFORMATICS-I(CE770)",
+        "Credits":6,
+        "Schedule":"null, null, (12:00-13:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"REFERENCE FRAMES  COORDINATE SYSTEMS AND MAP PROJECTIONS(CE772M)",
+        "Credits":6,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"GEODETIC ASTRONOMY AND INTRODUCTION TO SATELLITE GEODESY(CE773M)",
+        "Credits":6,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MACHINE LEARNING AND DATA ANALYTICS FOR CIVIL ENGINEERING APPLICATIONS(CE784)",
+        "Credits":11,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ANALYSIS AND DESIGN OF BITUMINOUS PAVEMENTS(CE786)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMPUTATIONAL TOOLS FOR TRANSPORTATION ENGINEERING(CE787)",
+        "Credits":11,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"LITERATURE SEARCH AND REVIEW(CE791)",
+        "Credits":5,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SCIENTIFIC WRITING SKILLS(CE792)",
+        "Credits":5,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SCIENTIFIC PRASENTATION SKILLS(CE793)",
+        "Credits":5,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SCIENTIFIC DATA ANALYSIS PRESENTATION AND INTERPRETATION(CE794)",
+        "Credits":5,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD SEMINAR I(CE797)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD SEMINAR II(CE798)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(CE799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MS RESEARCH SEMINAR I(CE897)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MS - RESEARCH THESIS(CE899)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MECHANICS OF SOLIDS(ESO202)",
+        "Credits":11,
+        "Schedule":"(10:00-11:00) (1.0), null, (10:00-11:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMPUTATIONAL METHODS IN ENGINEERING(ESO208)",
+        "Credits":11,
+        "Schedule":"(11:00-12:00) (1.0), null, (11:00-12:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO COGNITIVE SCIENCE(CGS401)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMPUTATIONAL TOOLS FOR COGNITIVE SCIENCE(CGS600)",
+        "Credits":11,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"FOUNDATIONS OF COGNITIVE SCIENCE(CGS601)",
+        "Credits":9,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"BASIC STATISTICS DATA ANALYSIS & INFERENCE(CGS602)",
+        "Credits":11,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"EXPERIMENT DESIGN AND ANALYSIS(CGS610M)",
+        "Credits":5,
+        "Schedule":"null, (14:00-15:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"BASICS OF PSYCHOPHYSICS(CGS611M)",
+        "Credits":5,
+        "Schedule":"null, (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"COGNITIVE UNDERPINNINGS OF LEARNING AND TECHNOLOGY(CGS614)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"TOPICS IN TRANSLATIONAL NEUROSCIENCE(CGS641)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CONSCIOUSNESS(CGS652)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PROJECT(CGS702)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(CGS799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SEMINAR ON COGNITIVE SCIENCE(CGS801)",
+        "Credits":0,
+        "Schedule":"(14:00-15:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MS - RESEARCH THESIS(CGS899)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO CHEMICAL ENGINEERING(CHE201)",
+        "Credits":3,
+        "Schedule":"null, (10:00-11:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO CHE + PROCESS CALCULATION(CHE251)",
+        "Credits":12,
+        "Schedule":"(12:00-13:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"TRANSPORT PHENOMENA: FUNDAMENTALS AND APPLICATIONS(CHE311)",
+        "Credits":12,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CHEMICAL REACTION ENGINEERING(CHE331)",
+        "Credits":12,
+        "Schedule":"(14:00-17:00) (3.0), (12:00-13:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UG PROJECT (UGP-I)(CHE349A)",
+        "Credits":4,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PROCESS DYNAMICS AND CONTROL(CHE381)",
+        "Credits":12,
+        "Schedule":"(11:00-12:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UG PROJECT II(CHE398A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CHEMICAL ENGINEERING DESIGN(CHE453A)",
+        "Credits":11,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNIT OPERATIONS AND PROCESS CONTROL LABORATORY(CHE492A)",
+        "Credits":8,
+        "Schedule":"null, null, (15:00-16:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT I(CHE496)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT II(CHE497)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT-III(CHE497A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT IV(CHE498A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"TRANSPORT PHENOMENA(CHE611)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"THE STRUCTURE & RHEOLOGY OF COMPLEX FLUIDS(CHE613)",
+        "Credits":9,
+        "Schedule":"(14:00-15:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO GRANULAR MECHANICS(CHE616)",
+        "Credits":9,
+        "Schedule":"null, null, (12:00-13:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"THERMODYNAMICS(CHE621)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CHEMICAL REACTION ENGINEERING(CHE631)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PRINCIPLES OF HETEROGENEOUS CATALYSIS(CHE633)",
+        "Credits":9,
+        "Schedule":"null, (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATHEMATICAL METHODS IN CHEMICAL ENGINEERING(CHE641)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MESOSCALE AND CONTINUUM SIMULATIONS IN CHEMICAL ENGINEERING(CHE643)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PROCESS ENGG. PRINCIPLES IN MICRO. FABRICATION(CHE659)",
+        "Credits":9,
+        "Schedule":"(14:00-15:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ELECTROCHEMICAL ENERGY CONVERSION AND STORAGE(CHE664)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"SPECIAL TOPICS(CHE679)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"AN INTRODUCTION TO SYSTEMS BIOLOGY(CHE684)",
+        "Credits":9,
+        "Schedule":"null, null, (12:00-13:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"M TECH THESIS(CHE699)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"DEEP LEARNING FOR CHEMICAL ENGINEERING(CHE798B)",
+        "Credits":9,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(CHE799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"GRADUATE SEMINAR(CHE801)",
+        "Credits":0,
+        "Schedule":"null, (11:00-12:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MS - RESEARCH THESIS(CHE899)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"THERMODYNAMICS(ESO201)",
+        "Credits":11,
+        "Schedule":"(10:00-11:00) (1.0), null, null, (10:00-11:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"GENERAL CHEMISTRY(CHM102A) \/A",
+        "Credits":8,
+        "Schedule":"(14:00-15:00) (1.0), null, null, null, (15:00-16:00) (1.0)"
+    },
+    {
+        "Course Name\/Group Name":"GENERAL CHEMISTRY(CHM102A) \/B",
+        "Credits":8,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CHEMISTRY LABORATORY(CHM111) \/C",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CHEMISTRY LABORATORY(CHM111) \/D",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"GENERAL CHEMISTRY: PHYSICAL CHEMISTRY(CHM112M) \/A",
+        "Credits":4,
+        "Schedule":"(14:00-15:00) (1.0), null, null, null, (15:00-16:00) (1.0)"
+    },
+    {
+        "Course Name\/Group Name":"GENERAL CHEMISTRY: PHYSICAL CHEMISTRY(CHM112M) \/B",
+        "Credits":4,
+        "Schedule":"null, (15:00-16:00) (1.0), null, null, (15:00-16:00) (1.0)"
+    },
+    {
+        "Course Name\/Group Name":"GENERAL CHEMISTRY: INORGANIC & ORGANIC CHEMISTRY(CHM113M) \/A",
+        "Credits":4,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"GENERAL CHEMISTRY: INORGANIC & ORGANIC CHEMISTRY(CHM113M) \/B",
+        "Credits":4,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"BASIC ORGANIC CHEMISTRY-I(CHM201)",
+        "Credits":9,
+        "Schedule":"(12:00-13:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"BAISC PHYSICAL CHEMISTRY I(CHM221)",
+        "Credits":9,
+        "Schedule":"(11:00-12:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"BASIC INORGANIC CHEMISTRY - I(CHM241)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ORGANIC CHEMISTRY I(CHM303)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ORGANIC QUALITATIVE & QUANTITATIVE ANALYSIS(CHM305)",
+        "Credits":6,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHYSICAL CHEMISTRY I(CHM321)",
+        "Credits":9,
+        "Schedule":"(10:00-11:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INORGANIC CHEMISTRY I(CHM345)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CHEMISTRY COMMUNICATION SKILLS(CHM361)",
+        "Credits":6,
+        "Schedule":"null, (15:00-17:00) (2.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CHEMISTRY COMMUNICATION SKILLS(CHM361A)",
+        "Credits":2,
+        "Schedule":"null, (15:00-17:00) (2.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT-I(CHM391)",
+        "Credits":4,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ORGANIC CHEMISTRY I(CHM401)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHYSICAL CHEMISTRY LAB(CHM423)",
+        "Credits":6,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHYSICAL CHEMISTRY LABORATORY(CHM423A)",
+        "Credits":6,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT-III(CHM491A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ORGANIC PREPARATION LAB(CHM503)",
+        "Credits":6,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATHEMATICS FOR CHEMISTRY(CHM521)",
+        "Credits":6,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATHEMATICS FOR CHEMISTRY(CHM600)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ADVANCED ORGANIC CHEMISTRY II(CHM602)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PRINCIPLES OF ORGANIC CHEMISTRY(CHM609)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHYSICAL ORGANIC CHEMISTRY(CHM611)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CHEMISTRY OF ORGANOMETALLIC COMPOUNDS(CHM616)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"CHEMICAL BINDING(CHM621)",
+        "Credits":9,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PRINCIPLES OF PHYSICAL CHEMISTRY(CHM629)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"APPLICATIONS OF MODERN INSTRUMENTAL METHODS(CHM631)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"ORBITAL INTERACTIONS IN CHEMISTRY(CHM645)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"BIO-INORGANIC CHEMISTRY(CHM646)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"THE CHEMISTRY OF METAL-CARBON BOND: STRUCTURE REACTIVITY & APPLICATIONS(CHM648)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PRINCIPLES OF INORGANIC CHEMISTRY(CHM649)",
+        "Credits":9,
+        "Schedule":"null, (17:15-18:30) (1.1), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"QUANTUM DYNAMICS IN CHEMISTRY(CHM667)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ADVANCED MAIN GROUP CHEMISTRY(CHM668)",
+        "Credits":9,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MOLECULAR REACTION DYNAMICS(CHM679)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"MODERN CHEMISTRY AND APPLICATIONS OF LANTHANIDES(CHM682)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CHEMISTRY OF DRUG DESIGN AND METABOLISM(CHM698)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"M. Sc. PROJECT(CHM699)",
+        "Credits":18,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"RESEARCH(CHM799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"GENERAL SEMINAR2(CHM800)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"GRADUATE SEMINAR(CHM801)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO PROFESSION AND COMMUNICATION SKILLS IN CHEMISTRY(CHM888)",
+        "Credits":6,
+        "Schedule":"null, (15:00-17:00) (2.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ATOMS  MOLECULES AND PHOTONS(CSO202)",
+        "Credits":11,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, (09:00-10:00) (1.0)"
+    },
+    {
+        "Course Name\/Group Name":"ENGLISH LANGUAGE & COMMUNICATION (BASIC) (SCHEME)(ELC111)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, (17:00-18:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"ENGLISH LANGUAGE & COMMUNICATION (INTERMEDIATE) (SCHEME)(ELC112)",
+        "Credits":9,
+        "Schedule":"(08:00-09:00) (1.0), null, null, (08:00-09:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"ENGLISH LANGUAGE & COMMUNICATION (ADVANCED) (SCHEME)(ELC113)",
+        "Credits":9,
+        "Schedule":"(08:00-09:00) (1.0), null, null, (08:00-09:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"ENGLISH LANGUAGE AND COMMUNICATION(ELC114)",
+        "Credits":9,
+        "Schedule":"null, null, (15:00-16:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"PRACTICAL ETHICS(ETH111)",
+        "Credits":3,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"TOPICS IN INNOVATION AND ENTREPRENEURSHIP(SEP698)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATHEMATICS FOR COMPUTER SCIENCE -I(CS201)",
+        "Credits":9,
+        "Schedule":"(12:00-13:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PRINCIPLES OF DATA BASE SYSTEMS(CS315)",
+        "Credits":9,
+        "Schedule":"null, null, (15:30-17:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"OPERATING SYSTEMS(CS330)",
+        "Credits":13,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"THEORY OF COMPUTATION(CS340)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ALGORITHMS-II(CS345)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PRINCIPLES OF PROGRAMMING LANGAUGES(CS350)",
+        "Credits":9,
+        "Schedule":"null, null, (15:30-17:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO COMPUTER GRAPHICS(CS360)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UG PROJECT (UGP-I)(CS395A)",
+        "Credits":4,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UG PROJECT (UGP-II)(CS396A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PARALLEL PROGRAMMING(CS433)",
+        "Credits":9,
+        "Schedule":"null, null, (12:00-13:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO SOFTWARE ENGINEERING(CS455)",
+        "Credits":9,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT I(CS496)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT-II(CS497)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT-III(CS498)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT-III(CS498A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT-IV(CS499)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT-IV(CS499A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"DESIGN AND ANALYSIS OF ALGORITHMS(CS602)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PROGRAMMING FOR PERFORMANCE(CS610)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMPUTER SYSTEMS SECURITY(CS628)",
+        "Credits":9,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"EMBEDDED AND CYBER-PHYSICAL SYSTEMS(CS637)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMPUTATIONAL COMPLEXITY(CS640)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PARALLEL ALGORITHMS(CS646)",
+        "Credits":9,
+        "Schedule":"null, null, (12:00-13:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"FUNCTIONAL PROGRAMMING(CS653)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"TOPICS IN MALWARE ANALYSIS & INTRUSION DETECTION(CS658)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO INTERNET OF THINGS & ITS INDUSTRIAL APPLICATIONS(CS667)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMPLEXITY MEASURES FOR BOOLEAN FUNCTIONS(CS672)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"POST QUANTUM SECURITY(CS674)",
+        "Credits":9,
+        "Schedule":"null, null, (12:00-13:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"TOPICS IN LARGE DATA ANALYSIS AND VISUALIZATION(CS677)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"DATA MINING(CS685)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMPUTATIONAL GENOMICS(CS690)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SPECIAL TOPICS IN COMPUTER SCIENCE(CS697)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M TECH THESIS(CS699)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SECURE COMPUTATION(CS714)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SENSING COMMUNICATIONS AND NETWORKING FOR SMART WIRELESS DEVICES(CS724)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"TOPICS IN OPERATING SYSTEMS(CS730)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ARITHMETIC CIRCUIT COMPLEXITY(CS748)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO MACHINE LEARNING(CS771)",
+        "Credits":9,
+        "Schedule":"(18:00-19:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"STATISTICAL NATURAL LANGUAGE PROCESSING(CS779)",
+        "Credits":9,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMPUTATIONAL COGNITIVE SCIENCE(CS786)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SPECIAL TOPICS IN COMPUTER SCIENCE(CS797)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SECURE COMPUTATION(CS798K)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(CS799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO THE PROFESSION AND COMMUNICATIONS SKILLS(CS888)",
+        "Credits":6,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"MS - RESEARCH THESIS(CS899)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"FUNDAMENTALS OF COMPUTING - I(ESC111M) \/C",
+        "Credits":7,
+        "Schedule":"(12:00-13:00) (1.0), null, (17:00-18:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"FUNDAMENTALS OF COMPUTING - I(ESC111M) \/D",
+        "Credits":7,
+        "Schedule":"(12:00-13:00) (1.0), (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"FUNDAMENTALS OF COMPUTING - II(ESC112M) \/C",
+        "Credits":7,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"FUNDAMENTALS OF COMPUTING - II(ESC112M) \/D",
+        "Credits":7,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"DATA STRUCTURE & ALGORITHM(ESO207)",
+        "Credits":12,
+        "Schedule":"(10:00-11:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"DESIGN THINKING & RESEARCH METHODS(DES604)",
+        "Credits":9,
+        "Schedule":"null, (14:00-15:30) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTEGRATED PRODUCT DEVELOPMENT-I(DES633)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"METHODS FOR DESIGN RESEARCH(DES635)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"HUMAN MACHINE INTERACTION(DES638)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"DESIGN FOR HUMAN MACHINE SYSTEMIC RELATIONSHIPS(DES640)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"DESIGN FOR INDUSTRY 4.0 AND INDUSTRIAL INTERNET OF THINGS(DES641)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"DESIGN PROJECT I(DES681)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M DES THESIS(DES699)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PH.D THESIS(DES799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SEMINAR I(DES801)",
+        "Credits":0,
+        "Schedule":"null, (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO MANAGEMENT(DMS201)",
+        "Credits":9,
+        "Schedule":"(08:00-09:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PROBABILITY AND STATISTICS(DMS602)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO COMPUTING(DMS603)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"OPERATIONS RESEARCH FOR MANAGEMENT(DMS605)",
+        "Credits":9,
+        "Schedule":"null, (17:00-18:30) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMPUTER AIDED DECISION SYSTEMS(DMS624)",
+        "Credits":9,
+        "Schedule":"null, null, (12:00-13:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO STOCHASTIC PROCESSES AND THEIR APPLICATIONS(DMS625)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO GAME THEORY(DMS636)",
+        "Credits":9,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"DATA MINING AND KNOWLEDGE DISCOVERY(DMS672)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"INDEPENDENT STUDY(DMS797)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"RESEARCH SEMINAR(DMS801)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ACCOUNTING & FINANCE(MBA601)",
+        "Credits":10,
+        "Schedule":"null, (17:00-18:30) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ECONOMIC ANALYSIS FOR MANAGEMENT(MBA606)",
+        "Credits":10,
+        "Schedule":"null, (14:00-15:30) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ORGANIZATION STRUCTURE AND BEHAVIOUR(MBA611)",
+        "Credits":10,
+        "Schedule":"null, null, null, null, (17:00-18:30) (1.2)"
+    },
+    {
+        "Course Name\/Group Name":"STRATEGIC MANAGEMENT(MBA623)",
+        "Credits":10,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MARKETING MANAGEMENT(MBA631)",
+        "Credits":10,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"BUSINESS PROCESS MANAGEMENT(MBA647)",
+        "Credits":10,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"QUANTITATIVE METHODS FOR DECISION MAKING(MBA651)",
+        "Credits":10,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"STATISTICAL MODELLING FOR BUSINESS ANALYTICS(MBA652)",
+        "Credits":10,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SUPPLY CHAIN MANAGEMENT(MBA664)",
+        "Credits":10,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PROJECT MANAGEMENT(MBA666)",
+        "Credits":10,
+        "Schedule":"null, (14:00-15:30) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO CLIMATE CHANGE ECONOMICS AND POLICY(MBA667)",
+        "Credits":10,
+        "Schedule":"null, (17:00-18:30) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO POLICY MAKING(MBA669)",
+        "Credits":10,
+        "Schedule":"null, null, null, null, (17:00-18:30) (1.2)"
+    },
+    {
+        "Course Name\/Group Name":"MANAGING SERVICE OPERATIONS(MBA671)",
+        "Credits":10,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"BEHAVIORAL FINANCE(MBA680)",
+        "Credits":10,
+        "Schedule":"null, (14:00-15:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"POWER SECTOR REFORM & REGULATION: THEORY AND PRACTICE(MBA683)",
+        "Credits":10,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MANAGEMENT SEMINARS(MBA698.)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CAPSTONE PROJECT I(MBA701)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SOCIAL MEDIA ANALYTICS I(MBA749M)",
+        "Credits":5,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SOCIAL MEDIA ANALYTICS II(MBA750M)",
+        "Credits":5,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CAUSAL INFERENCE METHODS FOR BUSINESS ANALYTICS(MBA753M)",
+        "Credits":5,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"FINANCIAL INTERMEDIATION & COMMERCIAL BANKING(MBA773M)",
+        "Credits":5,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CREDIT RISK MANAGEMENT & MODELLING(MBA774M)",
+        "Credits":5,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"RENEWABLE ENERGY - ECONOMICS  POLICY AND REGULATION(MBA782M)",
+        "Credits":5,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"DERIVATIVES & RISK MANAGEMENT FOR THE ENERGY AND ENVIRONMENTAL MARKETS(MBA784M)",
+        "Credits":5,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INVESTMENT BANKING: CAPITAL MARKET OPERATIONS(MBA785M)",
+        "Credits":5,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"ALERT MODELS IN FINANCE(MBA786M)",
+        "Credits":5,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"MANAGEMENT SEMINAR(MBA801)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PRODUCT DESIGN AND NEW PRODUCT MANAGEMENT(VLM601)",
+        "Credits":8,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SUPPLY CHAIN MANAGEMENT(VLM602)",
+        "Credits":4,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ADVANCE MATERIALS(VLM603)",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"AUTOMATION & ROBOTICS IN MANUFACTURING(VLM604)",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMPUTER INTEGRATED MANUFACTURING SYSTEMS(VLM605)",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"DATA ANALYSIS AND DECISION MAKING(VLM606)",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ECONOMY, SOCIETY & PUBLIC POLICY(ECO111)",
+        "Credits":11,
+        "Schedule":"(08:00-09:00) (1.0), null, null, null, (08:00-09:00) (1.0)"
+    },
+    {
+        "Course Name\/Group Name":"MICROECONOMICS I(ECO211)",
+        "Credits":11,
+        "Schedule":"(12:00-13:00) (1.0), null, null, (12:00-13:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"OPTIMIZATION(ECO271)",
+        "Credits":11,
+        "Schedule":"(09:00-10:00) (1.0), (10:00-11:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MICROECONOMICS II(ECO311)",
+        "Credits":11,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MACROECONOMICS II(ECO331)",
+        "Credits":11,
+        "Schedule":"(09:00-10:00) (1.0), null, (18:30-19:00) (0.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"ECONOMETRICS II(ECO351)",
+        "Credits":11,
+        "Schedule":"(11:00-12:00) (1.0), null, (11:00-12:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"GAME THEORY(ECO371)",
+        "Credits":11,
+        "Schedule":"(12:00-13:00) (1.0), null, (12:00-13:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"TECHNICAL COMMUNICATION(ECO397A)",
+        "Credits":2,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UG PROJECT (UGP-I)(ECO398A)",
+        "Credits":4,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INDUSTRIAL ECONOMICS(ECO411A)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTERNATIONAL ECONOMICS AND FINANCE(ECO412A)",
+        "Credits":9,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT-III(ECO498A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ECONOMIC GROWTH THEORY AND PRACTICE(ECO523)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PRODUCTIVITY AND EFFICIENCY ANALYSIS(ECO572)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"APPLIED MACROECONOMICS(ECO612)",
+        "Credits":9,
+        "Schedule":"null, null, (12:00-13:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATHEMATICAL METHODS FOR ECONOMICS(ECO671)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M SC THESIS(ECO699)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MICROECONOMICS(ECO701)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ECONOMETRICS(ECO704)",
+        "Credits":9,
+        "Schedule":"null, null, (12:00-13:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"ECONOMIC GROWTH AND GEOPOLITICS(ECO715)",
+        "Credits":9,
+        "Schedule":"null, (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"EMPIRICAL METHODS IN HEALTH ECONOMICS AND PUBLIC POLICY(ECO717)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ENVIRONMENTAL ECONOMICS: POLICY AND TRADE(ECO725)",
+        "Credits":9,
+        "Schedule":"null, null, (15:30-17:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"PUBLIC ECONOMICS AND PUBLIC POLICY(ECO731)",
+        "Credits":9,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"LAW AND ECONOMICS(ECO751)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"FINANCIAL ECONOMETRICS(ECO764)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(ECO799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PG SEMINAR(ECO801)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PROFESSIONAL DEVELOPMENT & COMMUNICATION SKILLS(ECO888)",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"APPLIED PROBABILITY AND STATISTICS(HSO201)",
+        "Credits":11,
+        "Schedule":"(11:00-12:00) (1.0), null, (11:00-12:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"SIGNALS  SYSTEMS AND NETWORKS(EE200)",
+        "Credits":11,
+        "Schedule":"(12:00-13:00) (1.0), null, null, (12:00-13:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"PRINCIPLES OF COMMUNICATIONS(EE320)",
+        "Credits":11,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, (15:00-16:00) (1.0)"
+    },
+    {
+        "Course Name\/Group Name":"POWER SYSTEMS(EE330)",
+        "Credits":11,
+        "Schedule":"(09:00-10:00) (1.0), null, null, (11:00-12:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"DIGITAL ELECTRONICS(EE370)",
+        "Credits":11,
+        "Schedule":"(11:00-12:00) (1.0), (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ELECTRICAL ENGINEERING LAB I(EE380)",
+        "Credits":12,
+        "Schedule":"null, (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ELECTRICAL ENGINEERING COMMUNICATION SKILLS(EE390)",
+        "Credits":2,
+        "Schedule":"null, (10:00-12:00) (2.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT II(EE392A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ELECTRICAL ENGINEERING LAB I(EE480A)",
+        "Credits":10,
+        "Schedule":"null, (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT -III(EE491A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT-IV(EE492A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT I(EE496)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT II(EE497)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT III(EE498)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"STATISTICAL SIGNAL PROCESSING-I(EE602)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"IMAGE PROCESSING(EE604)",
+        "Credits":9,
+        "Schedule":"null, null, (15:30-17:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO SIGNAL ANALYSIS(EE605)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"ANALOG\/DIGITAL VLSI CIRCUITS(EE610)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"SOLID STATE DEVICES I(EE614)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SEMICONDUCTOR DEVICE MODELLING(EE616)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"INDUSTRIAL AUTOMATION AND CONTROL(EE617)",
+        "Credits":9,
+        "Schedule":"null, null, (12:00-13:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTEGRATED CIRCUIT FABRICATION TECHNOLOGY(EE618)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"REPRESENTATION AND ANALYSIS OF RANDOM SIGNALS(EE621)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMMUNICATION THEORY(EE622)",
+        "Credits":9,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SPEECH SIGNAL PROCESSING(EE627)",
+        "Credits":4,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SIMULATON OF MODERN POWER SYSTEMS(EE630)",
+        "Credits":12,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ADVANCED POWER SYSTEM STABILITY(EE631)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ELECTRICAL INSULATION IN POWER APPARATUS AND SYSTEMS(EE634)",
+        "Credits":9,
+        "Schedule":"null, null, (12:00-13:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"HVDC TRANSMISSION & FLEXIBLE A C TRANSMISSION SYSTEMS(EE635)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"ADVANCED ENGINEERING ELECTROMAGNETICS(EE641)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ANTENNAS ANALYSIS & SYNTHESIS(EE642)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MONOLITHIC MICROWAVE ICS(EE645)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MICROWAVE MEASUREMENTS AND DESIGN(EE647)",
+        "Credits":9,
+        "Schedule":"null, null, (08:00-09:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"BASICS OF MODERN CONTROL SYSTEMS(EE650)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"DIGITAL CONTROL(EE653)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ROBUST CONTROL SYSTEMS(EE654)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"BASICS OF POWER ELECTRONIC CONVERTERS(EE660)",
+        "Credits":12,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"FUNDAMENTALS OF ELECTRIC DRIVES(EE664)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INFORMATION THEORY(EE667)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"WIRELESS COMMUNICATIONS(EE670)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MIMO WIRELESS COMMUNICATION(EE677)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SMART GRID TECHNOLOGIES(EE679)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"QUANTUM AND WAVE PHENOMENA(EE683)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"FIBER-OPTIC COMMUNICATIONS(EE684)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SEMICONDUCTOR OPTICAL COMMUNICATION DEVICES(EE685)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"SPECIAL TOPICS IN MICROELECTRONICS(EE698D)",
+        "Credits":9,
+        "Schedule":"null, null, (12:00-13:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"POWER CONVERTERS FOR EV CHARGING(EE698E)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"RF MICROELECTRONICS(EE698F)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MIXED -SIGNAL IC DESIGN(EE698I)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO COMPUTATIONAL BIOMEDICAL IMAGING(EE698J)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PROGRAMMING FOR SIGNAL PROCESSING(EE698K)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M TECH THESIS(EE699)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ADVANCED NETWORKING(EE798C)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"NANOPHOTONICS(EE798I)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTELLIGENT PATTERN RECOGNITION(EE798R)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SIGNAL PROCESSING FOR OPTICAL METROLOGY(EE798X)",
+        "Credits":9,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ROBOT SYSTEMS: DYNAMICS AND CONTROL(EE798Y)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATHEMATICAL ENGINEERING AND PHYSICS USING MACHINE LEARNING(EE798Z)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(EE799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ELECTRICAL ENGINEERING PG SEMINAR COURSE(EE801)",
+        "Credits":0,
+        "Schedule":"null, (11:00-12:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO PROFESSION AND COMMUNICATION SKILLS FOR ELECTRICAL ENGINEERS(EE888)",
+        "Credits":3,
+        "Schedule":"null, (12:00-13:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MS - RESEARCH THESIS(EE899)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO ELECTRONICS(ESC201)",
+        "Credits":14,
+        "Schedule":"(08:00-09:00) (1.0), null, null, (08:00-09:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"CRYSTALLOGRAPHY AND MINERALOGY(ES201)",
+        "Credits":11,
+        "Schedule":"(12:00-12:50) (0.3), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHYSICAL HYDROLOGY(ES202)",
+        "Credits":9,
+        "Schedule":"(11:00-11:50) (0.3), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"GEOMORPHOLOGY(ES203)",
+        "Credits":6,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"FUNDAMENTALS OF STRATIGRAPHY(ES301)",
+        "Credits":6,
+        "Schedule":"(08:00-08:45) (0.3), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ORE GEOLOGY(ES302)",
+        "Credits":9,
+        "Schedule":"null, (12:00-13:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"STRUCTURAL GEOLOGY(ES303)",
+        "Credits":9,
+        "Schedule":"null, (08:00-09:00) (1.0), (14:00-17:00) (3.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"GEOMORPHOLOGY AND EARTH SURFACE PROCESSES(ES313A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT -III(ES393A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMMUNICATION SKILLS IN EARTH SCIENCES(ES400A)",
+        "Credits":2,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SEDIMENTARY PROCESSES & STRATIGRAPHIC PRINCIPLES(ES412A)",
+        "Credits":8,
+        "Schedule":"(08:00-09:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"GEOLOGICAL EVOLUTION OF INDIAN PLATE(ES417A)",
+        "Credits":6,
+        "Schedule":"null, (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ENGINEERING GEOLOGY(ES452A)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"VOLCANOLOGY(ES457A)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MS PROJECT(ES599)",
+        "Credits":36,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SATELLITE REMOTE SENSING & GIS FOR GEORESOURCE EVALUATION(ES644)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ISOTOPE GEOCHEMISTRY AND APPLICATIONS(ES649)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATHEMATICS FOR EARTH SCIENCES(ES651)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"ADVANCED STRUCTURAL GEOLOGY(ES654)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"SOLID EARTH GEOPHYSICS(ES655)",
+        "Credits":11,
+        "Schedule":"(09:00-10:15) (1.1), null, (14:00-15:50) (1.3), null, null"
+    },
+    {
+        "Course Name\/Group Name":"APPLIED HYDROGEOLOGY(ES666)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"SEISMIC EXPLORATION AND SUBSURFACE IMAGING(ES682)",
+        "Credits":9,
+        "Schedule":"null, null, (12:00-13:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"M TECH THESIS(ES699)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PH D THESIS(ES799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO PROFESSION & COMMUNICATION SKILLS IN EARTH SCIENCES(ES888)",
+        "Credits":3,
+        "Schedule":"(15:30-17:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"FUNDAMENTALS OF EARTH SCIENCES(ESO213)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO WESTERN ART(ART103)",
+        "Credits":11,
+        "Schedule":"(17:00-18:00) (1.0), null, null, (17:00-18:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"MODERN ART(ART402)",
+        "Credits":9,
+        "Schedule":"(17:10-18:00) (0.3), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ART CRITICISM: THEORY AND PRACTICE(ART406)",
+        "Credits":9,
+        "Schedule":"null, (12:00-13:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ART AS A MEDIUM OF COMMUNICATION(ART704)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"RESEARCH METHODS IN VISUAL CULTURE(ART708)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"CREATIVE PAINTING-METHODOLOGY & PRACTICES(ART711)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO LINGUISTICS(ENG122)",
+        "Credits":11,
+        "Schedule":"(17:00-18:00) (1.0), null, null, (17:00-18:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"SECOND LANGUAGE ACQUISITION(ENG408)",
+        "Credits":9,
+        "Schedule":"null, (12:00-13:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"THE INDO-ANGLIAN NOVEL(ENG431)",
+        "Credits":9,
+        "Schedule":"null, (12:00-13:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MODERN DRAMA(ENG433)",
+        "Credits":9,
+        "Schedule":"null, (12:00-13:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INDIAN LITERATURE(ENG437)",
+        "Credits":9,
+        "Schedule":"null, (12:00-13:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"POSTCOLONIAL LITERATURE(ENG438)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"NATURAL LANGUAGE SEMANTICS(ENG443)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ACADEMIC WRITING(ENG450)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CLIMATE FICTION AND FILMS(ENG456)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"FILM AND THEORY(ENG457)",
+        "Credits":9,
+        "Schedule":"null, (12:00-13:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"AUTOBIOGRAPHICAL LITERATURE(ENG460)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SYNTAX AND STRUCTURES OF LANGUAGE(ENG467)",
+        "Credits":9,
+        "Schedule":"null, (12:00-13:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO INDIAN ENGLISH AUTOBIOGRAPHY(ENG611)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"NATION THEORY AND LITERATURE(ENG705)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"APPLIED LINGUISTICS(ENG708)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"LINGUISTIC ANALYSIS(ENG709)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INDIVIDUAL PROJECTS(ENG716)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"FEMINIST THEORY AND LITERATURE(ENG743)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"HISTORICAL LINGUISTICS(ENG754)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"RESEARCH METHODS IN ENGLISH AS A SECOND LANGUAGE STUDIES(ENG755)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"LANGUAGE DOCUMENTATION AND DESCRIPTION(ENG763)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"FILM THEORY AND HISTORIOGRAPHY(ENG765)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"PERSPECTIVES OF THE POSTHUMAN AND\/IN THE ANTHROPOCENE(ENG777)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(ENG799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(FA799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"DEMYSTIFYING CONSPIRACY THEORIES(IDC607)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO CRITICAL THINKING(PHI147)",
+        "Credits":11,
+        "Schedule":"(17:00-18:00) (1.0), null, null, (17:00-18:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"INDIVIDUAL VS AUTHORITY(PHI448)",
+        "Credits":9,
+        "Schedule":"null, (12:00-13:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHILOSOPHY OF COGNITIVE SCIENCE(PHI452)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"EXISTENTIALISM(PHI481)",
+        "Credits":9,
+        "Schedule":"null, (12:00-13:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ADVANCED TOPICS IN PHILOSOPHY OF SCIENCE(PHI755)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SOCIAL AND POLITICAL PHILOSPHY(PHI774)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"EVOLUTIONARY THEORIES OF KNOWLEDGE AND COGNITION(PHI786)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHILOSOPHY OF LITERATURE(PHI795)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(PHI799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO PSYCHOLOGY(PSY151)",
+        "Credits":11,
+        "Schedule":"(17:00-18:00) (1.0), null, null, (17:00-18:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"PSYCHOLOGY OF WELLBEING(PSY470)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(PSY799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO INDIAN SOCIETY(SOC173)",
+        "Credits":11,
+        "Schedule":"(17:00-18:00) (1.0), null, null, (17:00-18:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"SOCIOLOGY OF DEVELOPMENT(SOC470)",
+        "Credits":9,
+        "Schedule":"null, (12:00-13:15) (1.1), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ENVIRONMENTAL SOCIOLOGY(SOC475)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CONTEMPORARY APPLICATIONS OF SOCIAL DEMOGRAPHY(SOC476)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SOCIOLOGICAL THEORY(SOC721)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"SOCIOLOGY OF DEVELOPMENT(SOC732)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SOCIOLOGY OF ENVIRONMENT(SOC742)",
+        "Credits":9,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"METHODS OF SOCIOLOGICAL RESEARCH(SOC751)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(SOC799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SEMINAR(IME698)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M TECH THESIS(IME699)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(IME799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"FLUID MECHANICS AND RATE PROCESSES(ESO204)",
+        "Credits":11,
+        "Schedule":"(11:00-12:00) (1.0), null, null, (11:00-12:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"DYNAMICS(ME209)",
+        "Credits":9,
+        "Schedule":"(12:00-13:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ENERGY SYSTEMS I(ME301)",
+        "Credits":9,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO ELASTICITY(ME321)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"EXPERIMENTS IN MECHANICAL ENGINEERING I(ME333)",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO REFRIGERATION AND AIR CONDITIONING(ME340)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"HEAT TRANSFER(ME341)",
+        "Credits":9,
+        "Schedule":"(12:00-13:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"HEAT & MASS TRANSFER(ME341A)",
+        "Credits":10,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTERNAL COMBUSTION ENGINES(ME359)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SECONDARY MANUFACTURING PROCESSES(ME361)",
+        "Credits":7,
+        "Schedule":"null, null, (11:00-12:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"ROBOTICS(ME381)",
+        "Credits":7,
+        "Schedule":"(11:00-12:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ENERGY SYSTEMS-II(ME401A)",
+        "Credits":10,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ME PROJECT-1(ME451A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"NUMERICAL SOLUTIONS IN ENGINEERING MECHANICS(ME454)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT I(ME496)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT III(ME497A)",
+        "Credits":6,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"THERMAL ENVIROMENTAL CONTROL(ME613)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO SOLID MECHANICS(ME621)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"FINITE ELEMENT METHODS IN ENGINEERING MECHANICS(ME623)",
+        "Credits":9,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"APPLIED DYNAMICS AND VIBRATIONS(ME625)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"VIBRATION OF CONTINUOUS SYSTEM(ME626)",
+        "Credits":9,
+        "Schedule":"null, (14:00-15:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMPUTATIONAL FLUID DYNAMICS AND HEAT TRANSFER(ME630)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"VISCOUS FLOW THEORY(ME631)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CONDUCTION AND RADIATION(ME641)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"MACHINE LEARNING FOR ENGINEERS(ME644)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO TURBULENT FLUID MECHANICS(ME647)",
+        "Credits":9,
+        "Schedule":"null, (08:00-09:15) (1.1), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMPUTER AIDED DESIGN OF THERMAL SYSTEMS(ME648)",
+        "Credits":9,
+        "Schedule":"null, (14:00-15:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"RAILROAD VEHICLE DYNAMICS(ME660)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MACHINING SCIENCE II(ME662)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"METAL FORMING(ME663)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"FUNDAMENTALS OF CASTING &  SOLIDIFICATION(ME664)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MACHINING DYNAMICS(ME668)",
+        "Credits":9,
+        "Schedule":"null, (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ADDITIVE MANUFACTURING(ME670)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATHEMATICS FOR ENGINEERS(ME681)",
+        "Credits":9,
+        "Schedule":"null, (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"APPLIED NUMERICAL METHODS(ME685)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMPRESSIBILITY AND HIGH-SPEED FLOW(ME688)",
+        "Credits":9,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ENGINE MANAGEMENT(ME691)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ADVANCED THERMODYNAMICS(ME698L)",
+        "Credits":9,
+        "Schedule":"null, (17:00-18:30) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MECHANICS OF ELECTROMAGNETIC MATERIALS(ME698Q)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PLASTICITY IN CRYSTALLINE SOLIDS(ME698R)",
+        "Credits":9,
+        "Schedule":"null, (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M TECH THESIS(ME699)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"DESIGN FOR MANUFACTURE & ASSEMBLY(ME701)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"DYNAMIC FRACTURE MECHANICS(ME722)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMPUTER AIDED ENGINEERING DESIGN(ME751)",
+        "Credits":9,
+        "Schedule":"null, (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"VIBRATION CONTROL(ME756)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO ROBOTICS(ME762)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATERIALS SELECTION IN MECHANICAL DESIGN(ME770)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ENGINEERING ACOUSTICS AND ITS CONTROL(ME778)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(ME799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MECHANICAL ENGINEERING POSTGRADUATE SEMINAR I(ME801)",
+        "Credits":0,
+        "Schedule":"null, null, (15:00-16:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"BASIC CONTROL SYSTEMS FOR MECHANICAL ENGINEERS(ME850)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"MS - RESEARCH THESIS(ME899)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MANUFACTURING PROCESSES II(TA212)",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO MATERIALS SCIENCE AND ENGINEERING(ESO225)",
+        "Credits":8,
+        "Schedule":"(11:00-12:00) (1.0), null, null, (11:00-12:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"THERMODYNAMICS & PHASE EQUILIBRIA(MSE201)",
+        "Credits":11,
+        "Schedule":"(12:00-13:00) (1.0), null, null, (12:00-13:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"COMPUTATIONAL METHODS IN MATERIAL SCIENCE AND ENGINEERING(MSE204)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHASE TRANSFORMATIONS(MSE301)",
+        "Credits":9,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MECHANICAL BEHAVIOUR OF MATERIALS(MSE302)",
+        "Credits":9,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ELECTRONIC & MAGNETIC PROPERTIES OF MATERIALS(MSE303)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PRINCIPLES OF METAL EXTRACTION & REFINING(MSE304)",
+        "Credits":9,
+        "Schedule":"(11:00-12:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATERIALS PROCESSING(MSE305)",
+        "Credits":9,
+        "Schedule":"(12:00-13:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PROCESS ENGINEERING LABORATORY(MSE314A)",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MANUFACTURING PROCESSES LABORATORY(MSE315A)",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT I(MSE349A)",
+        "Credits":4,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MECHANICAL AND ELECTRONIC PROPERTIES OF MATERIALS LABORATORY(MSE351)",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PROCESS METALLURGY AND MANUFACTURING LABORATORY(MSE352)",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT II(MSE398A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT IV(MSE449A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT I(MSE496)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT II(MSE497)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT III(MSE497A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT III(MSE498)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT IV(MSE499)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CORROSION AND OXIDATION OF METALS AND ALLOYS(MSE611)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"STRUCTURE AND CHARACTERIZATION OF MATERIALS(MSE615)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"TRANSPORT PHENOMENA(MSE626)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ELECTRONIC DEVICES AND CHARACTERIZATION(MSE628)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHYSICAL & MATHEMATICAL MODELLING OF STEELMAKING PROCESSES(MSE629)",
+        "Credits":9,
+        "Schedule":"null, (15:00-16:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MICROSCOPY AND MICROANALYSIS OF MATERIALS(MSE642)",
+        "Credits":9,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"FUNDAMENTALS OF STEREOLOGY & APPLICATIONS TO MICROSTRUTURAL ANALYSIS(MSE650)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ADVANCED CONCEPTS IN IRONMAKING(MSE651)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"DISLOCATIONS AND PLASTICITY(MSE658)",
+        "Credits":9,
+        "Schedule":"(14:00-15:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"POWDER METALLURGY(MSE659)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"ELECTRONIC AND METALLURGICAL WASTE RECYCLING(MSE662)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"SOLIDIFICATION PROCESSING(MSE670)",
+        "Credits":9,
+        "Schedule":"null, null, (15:30-17:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"HEAT TREATMENT AND SURFACE HARDENING(MSE671)",
+        "Credits":9,
+        "Schedule":"null, (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATERIALS SCIENCE TECHNOLOGIES FOR APPLICATIONS IN LIFE SCIENCES(MSE693)",
+        "Credits":9,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"NANOSTRUCTURES AND NANOMATERIALS: CHARACTERIZATION AND PROPERTIES(MSE694)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M.TECH THESIS(MSE699)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PH D THESIS(MSE799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SEMINAR(MSE801)",
+        "Credits":0,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"MANUFACTURING PROCESSES I(TA211)",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"STRUCTURAL & MAGNETIC PROPERTIES OF MATERIALS(MS601)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ELECTRICAL AND DIELECTRIC MATERIALS(MS602)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MECHANICAL PROPERTIES OF MATERIALS(MS603)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"GRADUATE SEMINAR(MS698)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M TECH THESIS(MS699)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(MS799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMPLEX VARIABLES(MSO202M)",
+        "Credits":6,
+        "Schedule":"(09:00-10:00) (1.0), null, (09:00-10:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"PARTIAL DIFFERENTIAL EQUATIONS(MSO203M)",
+        "Credits":6,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO PROBABILITY THEORY(MSO205)",
+        "Credits":11,
+        "Schedule":"(11:00-12:00) (1.0), null, (11:00-12:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATHEMATICS I(MTH101A) \/A",
+        "Credits":11,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATHEMATICS I(MTH101A) \/C",
+        "Credits":11,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATHEMATICS - II(MTH102A)",
+        "Credits":11,
+        "Schedule":"(17:00-18:00) (1.0), (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SINGLE VARIABLE CALCULUS(MTH111M) \/C",
+        "Credits":6,
+        "Schedule":"(10:00-11:00) (1.0), (10:00-11:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SINGLE VARIABLE CALCULUS(MTH111M) \/D",
+        "Credits":6,
+        "Schedule":"(10:00-11:00) (1.0), (10:00-11:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SINGLE VARIABLE CALCULUS(MTH111M) \/A",
+        "Credits":6,
+        "Schedule":"(16:00-17:00) (1.0), (16:00-17:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SINGLE VARIABLE CALCULUS(MTH111M) \/B",
+        "Credits":6,
+        "Schedule":"(16:00-17:00) (1.0), (16:00-17:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"APPLICATION OF SINGLE VARIABLE CALCULUS & SEVERAL VARIABLE CALCULUS(MTH112M) \/C",
+        "Credits":6,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"APPLICATION OF SINGLE VARIABLE CALCULUS & SEVERAL VARIABLE CALCULUS(MTH112M) \/D",
+        "Credits":6,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"APPLICATION OF SINGLE VARIABLE CALCULUS & SEVERAL VARIABLE CALCULUS(MTH112M) \/A",
+        "Credits":6,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"APPLICATION OF SINGLE VARIABLE CALCULUS & SEVERAL VARIABLE CALCULUS(MTH112M) \/B",
+        "Credits":6,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"LINEAR ALGEBRA(MTH113M)",
+        "Credits":6,
+        "Schedule":"(17:00-18:00) (1.0), (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ORDINARY DIFFERENTIAL EQUATIONS(MTH114M)",
+        "Credits":6,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"A FIRST COURSE IN LINEAR ALGEBRA(MTH201)",
+        "Credits":11,
+        "Schedule":"(17:00-18:00) (1.0), (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"A FIRST COURSE IN LINEAR ALGEBRA(MTH201B)",
+        "Credits":11,
+        "Schedule":"(17:00-18:00) (1.0), (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SET THEORY AND DISCRETE MATHEMATICS(MTH202)",
+        "Credits":11,
+        "Schedule":"(10:00-11:00) (1.0), null, null, null, (14:00-15:00) (1.0)"
+    },
+    {
+        "Course Name\/Group Name":"MATRIX ALGEBRA AND LINEAR ESTIMATION (MODULE I)(MTH206M)",
+        "Credits":6,
+        "Schedule":"(10:00-11:00) (1.0), null, null, (10:00-11:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"MATRIX ALGEBRA AND LINEAR ESTIMATION (MODULE II)(MTH207M)",
+        "Credits":6,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"DATA SCIENCE LAB 1(MTH208)",
+        "Credits":5,
+        "Schedule":"null, (14:00-15:15) (1.1), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ANALYSIS - I(MTH301)",
+        "Credits":11,
+        "Schedule":"(12:00-13:00) (1.0), null, null, (12:00-13:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"SET THEORY & LOGIC(MTH302)",
+        "Credits":11,
+        "Schedule":"(12:00-13:00) (1.0), null, null, (12:00-13:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"UG PROJECT (UGP-I)(MTH391A)",
+        "Credits":4,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT II(MTH392A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UG PROJECT (UGP-III)(MTH393A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT IV(MTH394A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"COMPLEX ANALYSIS(MTH403)",
+        "Credits":11,
+        "Schedule":"(09:00-10:00) (1.0), null, (15:00-16:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"ANALYSIS II(MTH404)",
+        "Credits":11,
+        "Schedule":"null, (08:00-09:00) (1.0), (14:00-15:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"FUNCTIONAL ANALYSIS(MTH405)",
+        "Credits":11,
+        "Schedule":"(15:00-16:00) (1.0), null, null, null, (12:00-13:00) (1.0)"
+    },
+    {
+        "Course Name\/Group Name":"COMPUTER PROGRAMMING AND DATA STRUCTURES(MTH409)",
+        "Credits":9,
+        "Schedule":"(16:00-17:00) (1.0), null, null, (16:00-17:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"ORDINARY DIFFERENTIAL EQUATIONS(MTH421)",
+        "Credits":11,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, (15:00-16:00) (1.0)"
+    },
+    {
+        "Course Name\/Group Name":"PARTIAL DIFFERENTIAL EQUATIONS(MTH424)",
+        "Credits":11,
+        "Schedule":"(15:00-16:00) (1.0), null, null, null, (15:00-16:00) (1.0)"
+    },
+    {
+        "Course Name\/Group Name":"NUMERICAL ANALYSIS & SCIENTIFIC COMPUTING II(MTH430A)",
+        "Credits":10,
+        "Schedule":"(16:00-17:00) (1.0), null, null, null, (14:00-15:00) (1.0)"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO SAMPLING THEORY(MTH432M)",
+        "Credits":6,
+        "Schedule":"null, (14:00-15:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"REAL ANALYSIS(MTH433)",
+        "Credits":11,
+        "Schedule":"(12:00-13:00) (1.0), null, null, (12:00-13:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"COMPLEX ANALYSIS(MTH434M)",
+        "Credits":6,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"BASIC ALGEBRAIC GEOMETRY(MTH436)",
+        "Credits":9,
+        "Schedule":"(14:00-15:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"LINEAR REGRESSION AND ANOVA(MTH441)",
+        "Credits":10,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"TIME SERIES ANALYSIS(MTH442)",
+        "Credits":10,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"STATISTICAL & AI TECHNIQUES IN DATA MINING(MTH443A)",
+        "Credits":10,
+        "Schedule":"(10:00-11:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT I(MTH496)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT II(MTH497)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT III(MTH498)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT IV(MTH499)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INFERENCE - II(MTH515)",
+        "Credits":11,
+        "Schedule":"(09:00-10:00) (1.0), null, (14:00-15:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"NON-PARAMETRIC INFERENCE(MTH516)",
+        "Credits":11,
+        "Schedule":"(15:00-16:00) (1.0), null, (18:00-19:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"PROJECT-I(MTH598)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PROJECT- II(MTH599)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ALGEBRA II(MTH611)",
+        "Credits":9,
+        "Schedule":"(10:00-11:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO COMMUTATIVE ALGEBRA(MTH612)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"MEASURE THEORY(MTH620)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO HYPERBOLIC GEOMETRY(MTH633)",
+        "Credits":9,
+        "Schedule":"(11:00-12:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ALGEBRAIC TOPOLOGY(MTH649)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"SOBOLEV SPACES AND APPLICATIONS(MTH656)",
+        "Credits":9,
+        "Schedule":"(12:00-13:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"NONLINEAR DYNAMICAL SYSTEMS(MTH658)",
+        "Credits":9,
+        "Schedule":"(16:00-17:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO ALGEBRAIC GEOMETRY AND ALGEBRAIC GROUPS(MTH667)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"POTENTIAL THEORY IN THE COMPLEX PLANE(MTH670)",
+        "Credits":9,
+        "Schedule":"(11:00-12:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"AN INTRODUCTION TO VON NEUMANN ALGEBRAS(MTH680)",
+        "Credits":9,
+        "Schedule":"(10:00-11:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"NON-LINEAR REGRESSION(MTH686)",
+        "Credits":9,
+        "Schedule":"(16:00-17:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MS PROJECT I(MTH697A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MS PROJECT II(MTH698A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MS PROJECT III(MTH699A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MS PROJECT - IV(MTH700A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"A FIRST COURSE IN ALGEBRAIC NUMBER THEORY(MTH712)",
+        "Credits":9,
+        "Schedule":"(16:00-17:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO HOMOGENIZATION(MTH719)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"TOPICS IN LIE GROUPS AND LIE ALGEBRAS(MTH739)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"ANALYSIS(MTH753)",
+        "Credits":9,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PROBABILITY THEORY(MTH754)",
+        "Credits":9,
+        "Schedule":"null, (12:00-13:15) (1.1), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"STATISTICAL INFERENCE(MTH755)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"RESEARCH(MTH799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO PROFESSION AND COMMUNICATIONS SKILLS (MATHEMATICS)(MTH888M)",
+        "Credits":5,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO PROFESSION AND COMMUNICATIONS SKILLS (STATISTICS)(MTH889M)",
+        "Credits":5,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(NT799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"HIGH PERFORMANCE COMPUTING WITH APPLICATIONS(IDC606)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHYSICS LABORATORY(PHY111) \/A",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHYSICS LABORATORY(PHY111) \/B",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CLASSICAL DYNAMICS(PHY112)",
+        "Credits":11,
+        "Schedule":"(09:00-10:00) (1.0), (09:00-10:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO ELECTROMAGNETISM(PHY113)",
+        "Credits":11,
+        "Schedule":"(09:00-10:00) (1.0), null, null, (09:00-10:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"QUANTUM PHYSICS(PHY114)",
+        "Credits":11,
+        "Schedule":"(09:00-10:00) (1.0), null, null, (09:00-10:00) (1.0), null"
+    },
+    {
+        "Course Name\/Group Name":"OSCILLATIONS AND WAVES(PHY115)",
+        "Credits":11,
+        "Schedule":"(09:00-10:00) (1.0), (09:00-10:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"OPTICS(PHY224)",
+        "Credits":12,
+        "Schedule":"null, (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PRINCIPLES OF LASERS & THEIR APPLICATIONS(PHY303)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MODERN OPTICS (ITS PHYSICS & ENGINEERING)(PHY307)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"MODERN PHYSICS LABORATORY(PHY315)",
+        "Credits":9,
+        "Schedule":"(08:00-09:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CLASSICAL MECHANICS(PHY401)",
+        "Credits":11,
+        "Schedule":"null, (12:00-13:15) (1.1), (12:00-13:00) (1.0), null, null"
+    },
+    {
+        "Course Name\/Group Name":"ORDER AND CHAOS(PHY404)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"SPECIAL & GENERAL RELATIVITY(PHY407)",
+        "Credits":9,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATHEMATICAL METHODS I(PHY421)",
+        "Credits":11,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, (08:00-09:00) (1.0)"
+    },
+    {
+        "Course Name\/Group Name":"QUANTUM MECHANICS I(PHY431)",
+        "Credits":11,
+        "Schedule":"(09:00-10:15) (1.1), (09:00-10:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ELECTRONICS(PHY441)",
+        "Credits":11,
+        "Schedule":"(11:00-12:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"EXPERIMENTAL PHYSICS I(PHY461)",
+        "Credits":8,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"EXPERIMENTAL PHYSICS I(PHY461A)",
+        "Credits":8,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"EXPERIMENTAL PHYSICS II(PHY462)",
+        "Credits":8,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M SC REVIEW PROJECT II(PHY501)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M.SC. REVIEW PROJECT  III(PHY502)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"BACHELOR OF SCIENCE PROJECT -1(PHY555A)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"BACHELOR OF SCIENCE PROJECT -II(PHY556)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M.SC. PROJECT I(PHY563)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M.SC. PROJECT II(PHY565)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M.SC.RESEARCH PROJECT I(PHY596)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M.SC. RESEARCH PROJECT I(PHY598)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ADVANCED STATISTICAL MECHANICS(PHY613)",
+        "Credits":9,
+        "Schedule":"(11:00-12:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CLASSICAL ELECTRODYNAMICS II(PHY614)",
+        "Credits":9,
+        "Schedule":"(09:00-10:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ELECTRONIC STRUCTURE OF MATERIALS(PHY621)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"CONDENSED MATTER PHYSICS(PHY623)",
+        "Credits":11,
+        "Schedule":"(10:00-11:00) (1.0), null, null, null, (14:00-15:00) (1.0)"
+    },
+    {
+        "Course Name\/Group Name":"MAGNETISM IN MATERIALS(PHY624)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHYSICS OF SOFT MATTER AND FLUIDS(PHY628)",
+        "Credits":11,
+        "Schedule":"(12:00-13:15) (1.1), (17:10-18:00) (0.3), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHYSICS OF SEMICONDUCTOR NANOSTRUCTURES(PHY631)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO CONFORMAL FIELD THEORY(PHY652)",
+        "Credits":9,
+        "Schedule":"null, (08:00-09:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MACHINE LEARNING IN PARTICLE PHYSICS(PHY654)",
+        "Credits":9,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHOTONIC DEVICES(PHY664)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"QUANTUM FIELD THEORY(PHY681)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"CONCEPTS OF PLASMA PHYSICS(PHY682)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"TECHNIQUES IN EXPERIMENTAL HIGH ENERGY PHYSICS(PHY683)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO QUANTUM FIELD THEORY(PHY685)",
+        "Credits":11,
+        "Schedule":"(17:00-18:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHYSICS AT LARGE HADRON COLLIDER(PHY690B)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"FUNDAMETALS OF ASTROPHYSICS(PHY690C)",
+        "Credits":9,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHOTONIC DEVICES(PHY690V)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M.SC.RESEARCH PROJECT I(PHY696)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M.SC.RESEARCH PROJECT I(PHY698)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHYSICS SEMINAR I(PHY701)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHYSICS SEMINAR II(PHY702)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"RESEARCH(PHY799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO PROFESSION AND COMMUNICATION SKILLS FOR PHYSICISTS(PHY888)",
+        "Credits":3,
+        "Schedule":"null, (17:00-18:00) (1.0), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO PHOTONICS(PSE601)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"PRINCIPLES OF LASERS AND DETECTORS(PSE602)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M. TECH THESIS(PSE699)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(PSE799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MS - RESEARCH THESIS(PSE899)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"UNDER GRADUATE PROJECT I(SEE496)",
+        "Credits":9,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"THERMO-FLUID ENGINEERING(SEE601)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHYSICS OF ENERGY MATERIALS(SEE602)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ELECTRICAL POWER ENGINEERING(SEE603)",
+        "Credits":9,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"ELECTROCHEMICAL ENERGY SYSTEMS(SEE606)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO BIOENERGY AND BIOFUELS(SEE608)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATHEMATICAL AND COMPUTATIONAL TOOLS FOR ENGINEERING(SEE609)",
+        "Credits":9,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SUSTAINABLE ENERGY AND ENABLING NET ZERO EMISSIONS(SEE622)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"DESIGN STRATEGIES FOR NET-ZERO ENERGY BUILDINGS(SEE624)",
+        "Credits":9,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"STRUCTURAL, MICROSTRUCTURAL AND SPECTROSCOPIC CHARACTERIZATION OF MATERIALS(SEE625)",
+        "Credits":9,
+        "Schedule":"null, (15:30-17:00) (1.2), null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"ELECTRIC VEHICLES(SEE627)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"ECOLOGY, EQUITY AND THE ECONOMY(SEE629M)",
+        "Credits":5,
+        "Schedule":"(14:00-15:00) (1.0), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"M TECH THESIS(SEE699)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(SEE799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO PROFESSION & COMMUNICATION(SEE888)",
+        "Credits":3,
+        "Schedule":"(14:00-15:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MS - RESEARCH THESIS(SEE899)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"GALAXIES AND OBSERVATIONAL COSMOLOGY(SPA401)",
+        "Credits":9,
+        "Schedule":"(09:00-10:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO CELESTIAL OBSERVATIONAL TECHNIQUES(SPA613M)",
+        "Credits":5,
+        "Schedule":"(10:30-12:00) (1.2), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO CELESTIAL MECHANICS(SPA614M)",
+        "Credits":5,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"STARS AND STELLAR EVOLUTION(SPA616)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"SPACE INSTRUMENTATION LABORATORY(SPA617M)",
+        "Credits":5,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"INTRODUCTION TO RADIATIVE PROCESSES IN SPACE(SPA618M)",
+        "Credits":5,
+        "Schedule":"(12:00-13:15) (1.1), null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MATHEMATICAL TECHNIQUES IN SPACE SCIENCES & ENGINEERING(SPA622M)",
+        "Credits":5,
+        "Schedule":"null, null, (10:30-12:00) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"NUMERICAL TECHNIQUES IN SPACE SCIENCES & ENGINEERING(SPA623M)",
+        "Credits":5,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SPACE ENVIRONMENTS AND SPACE SYSTEMS(SPA626)",
+        "Credits":9,
+        "Schedule":"null, null, (09:00-10:15) (1.1), null, null"
+    },
+    {
+        "Course Name\/Group Name":"HIGH ENERGY ASTROPHYSICS OF BINARY STAR SYSTEMS(SPA660)",
+        "Credits":9,
+        "Schedule":"null, null, (17:00-18:30) (1.2), null, null"
+    },
+    {
+        "Course Name\/Group Name":"PHD THESIS(SPA799)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"SPACE SCIENCES SEMINAR(SPA801)",
+        "Credits":0,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"MORNING EXERCISE(PE111)",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    },
+    {
+        "Course Name\/Group Name":"EVENING EXERCISE(PE112)",
+        "Credits":3,
+        "Schedule":"null, null, null, null, null"
+    }
+]

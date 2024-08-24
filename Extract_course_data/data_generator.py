@@ -1,13 +1,24 @@
 ###### IMPORTANT LIBRARIES ######
-import csv
 import json
 import os
 import pandas as pd
 import numpy as np
+import data_interpreter as DI     # Custom defined shit
 
 ###### SEARCHING FOR READING CSV FILES ######
 # Specify the directory you want to check
+
+# IF RUNNING FROM VSCODE
+json_path = 'ASSETS/courses.json'
 folder_path = './'
+course_json_path = 'ASSETS/details.json'
+
+# IF USING BASH
+if __name__ == "__main__":
+    print("FOLLOW THE STEPS IN README PLEASE")
+# json_path = '../ASSETS/courses.json'
+# folder_path = '../'
+#course_json_path = '../ASSETS/details.json'
 
 # List to store found files
 files_found = []
@@ -36,11 +47,21 @@ col_name = df.columns.tolist()
 branch_name = df['Br'].unique()
 branch_name = np.append(['All Branches'], branch_name)
 branch_name = branch_name.tolist()
-print(branch_name)
+print("Branch names extracted succesfully")
 
 # Grouping courses by department
 branches_grouped = df.groupby('Br')['Course Name/Group Name'].apply(list).to_dict()
 courses = {'All Branches': df['Course Name/Group Name'].tolist(), **branches_grouped}
-with open('ASSETS/courses.json', 'w') as json_file:
+with open(json_path, 'w') as json_file:
     json.dump(courses, json_file, indent=4)
 
+# Columns to extract
+columns_to_extract = ['Course Name/Group Name', 'Credits', 'Time', 'Time.1', 'Time.2']
+extracted_df = df[columns_to_extract]
+# Saving the extracted data to a JSON file
+extracted_df = DI.interpret_data(extracted_df)
+# pd.set_option("display.max_columns", None)
+print(extracted_df)
+
+extracted_df.to_json(course_json_path, orient='records', indent=4)
+print(f"Data extracted and saved to {course_json_path}")
