@@ -30,6 +30,7 @@ while(1):
         exit()
     else:
         print("Invalid input. Please enter 'Y' or 'n'.")
+        exit()
 
 # List to store found files
 files_found = []
@@ -44,6 +45,7 @@ if files_found:
     print(f"Files found: {', '.join(files_found)}")
     if len(files_found) > 1:
         print("since the folder contains multiple readable fromat files please delete old ones")
+        exit()
 else:
     print("No CSV files found in the folder.")
     exit()
