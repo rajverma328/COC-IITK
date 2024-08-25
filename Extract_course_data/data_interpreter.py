@@ -11,14 +11,23 @@ def calculate_duration(start_time, end_time):
     duration = end - start
     hours, remainder = divmod(duration.total_seconds(), 3600)
     minutes, _ = divmod(remainder, 60)
-    return f"({int(hours)}.{int(minutes / 60*10)})"  # Rounded to nearest quarter-hour
+    return f"{int(hours)}.{int(minutes / 60*10)}"  # Rounded to nearest quarter-hour
 
 # Function to recover combinations
-def recover_combinations(combinations_list):
-    days = ['M', 'T', 'W', 'Th', 'F']
+def recover_combinations(combination):
+    # days_char = [
+    #     'M', 'T', 'W', 'Th', 'F'
+    # ]
     recovered_combinations = []
-    for comb in combinations_list:
-        recovered_combinations.append(comb)
+    i = 0
+    while i < len(combination):
+        if combination[i:i+2] == 'Th':  # Check for 'Th'
+            recovered_combinations.append('Th')
+            i += 2  # Skip the next character since 'Th' is two characters long
+        else:
+            recovered_combinations.append(combination[i])
+            i += 1  # Move to the next character
+    
     return recovered_combinations
 
 def clean_time_entry(entry):        ## THANKS RAGHAV(daddy2002)
@@ -58,6 +67,7 @@ def clean_time_entry(entry):        ## THANKS RAGHAV(daddy2002)
             if (day in cont):
                 # print(day)
                 day = recover_combinations(day)
+                # print(day)
                 for daisy in day:
                     daytime[daisy] = ([time_range,duration])
     # print(daytime)
@@ -109,14 +119,14 @@ if __name__ == "__main__":
     # data = {
     # 'Course Name/Group Name': ['Test Course', 'Test Course 2', 'Test Course 3'],
     # 'Credits': ['0-0-0-0(3)', '0-0-0-0(3)', '0-0-0-0(3)'],
-    # 'Time': ['TF (EEM117) 09:00-10:00, M (EEM117) 09:45-10:45', 'TF (EEM118) 10:00-11:00', 'M (EEM119) 11:15-12:15'],
+    # 'Time': ['MWTh (EEM117) 09:00-10:00, M (EEM117) 09:45-10:45', 'TF (EEM118) 10:00-11:00', 'M (EEM119) 11:15-12:15'],
     # 'Time.1': ['TF (EEM117) 09:00-10:00, M (EEM117) 09:45-10:45','nan','nan'],
     # 'Time.2': ['nan','nan','nan']
     # }
     # df = pd.DataFrame(data)
     # print(df)
     # output = interpret_data(df)
-    # pd.set_option("display.max_columns", None)
+    # # pd.set_option("display.max_columns", None)
     # print(output)
     # print('..............................')
-    # interpret_data(data)
+    # print(output['lec'][0])
