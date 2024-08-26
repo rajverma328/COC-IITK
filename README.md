@@ -4,6 +4,33 @@ Welcome to **COC-IIT-K**, short for *Clash Of Courses IIT Kanpur*, a web applica
 
 ## Project Structure
 
+COC-IIT-K
+├── ASSETS/
+│   ├── courses.json
+│   ├── details.json
+│   └── README.md
+├── BACK_END/
+│   ├── app.py
+│   ├── check_clash.py
+│   ├── course_schedule.py
+│   └── README.md
+├── Extract_course_data/
+│   ├── data_generator.py
+│   ├── data_interpreter.py
+│   └── README.md
+├── FRONT_END/
+│   ├── index.html
+│   ├── styles.css
+│   ├── scripts.js
+│   ├── (OTHER_OBJECTS)  # images & stuff
+│   └── README.md
+├── RECOMMENDATION/
+│   └── README.md
+├── Playground/
+│   ├── test.html
+│   └── README.md
+└── README.md  # This README file
+
 COC-IIT-K <br/>
 │ <br/>    
 ├── ASSETS/ <br/>
