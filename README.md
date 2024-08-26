@@ -1,7 +1,7 @@
 # COC-IIT-K: Clash Of Courses - IIT Kanpur
 
-<div align="center" style="background-color: #003366;">
-  <img src="FRONT_END/name.png" alt="WEVSITE LOGO" width="400" id="myImage"/>
+<div align="center">
+  <img src="FRONT_END/name.png" alt="Prefer Dark Mode Please" width="400"/>
 </div>
 
 Welcome to **COC-IIT-K**, short for *Clash Of Courses IIT Kanpur*, a web application designed to streamline and simplify your course timetable management. Whether you're dealing with course conflicts or just trying to keep your schedule organized, this tool provides an intuitive interface to help you manage your academic life at IIT Kanpur.
