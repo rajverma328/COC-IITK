@@ -105,11 +105,11 @@ function reset_button() {
     document.getElementById("branch-select").selectedIndex = 0;
     // Disable and reset the course dropdown to the default option
     const courseSelect = document.getElementById("course-select");
-    deleteDivs('mon')
-    deleteDivs('tue')
-    deleteDivs('wed')
-    deleteDivs('thu')
-    deleteDivs('fri')
+    deleteDivs('M')
+    deleteDivs('T')
+    deleteDivs('W')
+    deleteDivs('Th')
+    deleteDivs('F')
     courseSelect.selectedIndex = 0;
     courseSelect.disabled = true;
 }
@@ -133,10 +133,50 @@ async function fetchCourseSchedule(course) {
     }
 }
 
-function add_button(){
+function add_to_timetable(day_id, schedule, course, class_type, credits, class_color){
+    if(schedule != "null"){
+        var dayElement = document.getElementById(day_id);
+        const newDiv = document.createElement('div');
+        newDiv.className = 'hour' + ' ' + schedule + ' ' + class_color;
+        newDiv.innerHTML = `<div class="title">${course}</div> <div>${class_type} [${credits}]</div>`
+        dayElement.appendChild(newDiv);
+    }
+}
+
+async function add_button(){
     const courseSelect = document.getElementById("course-select");
     // console.log(extractBracketContent(courseSelect.value))
-    const secourse = courseSelect.value
-    const schedule = fetchCourseSchedule(extractBracketContent(secourse))
-    console.log(schedule)
+    const secourse = extractBracketContent(courseSelect.value);
+    const schedule = await fetchCourseSchedule(secourse);
+    lec = schedule[0];
+    tut = schedule[1];
+    lab = schedule[2];
+    credits = schedule[3];
+
+    if (lec != "null"){
+        for (const key in lec) {
+            if (lec.hasOwnProperty(key)) {
+                console.log(`${key}: ${lec[key]}`);
+                add_to_timetable(key, lec[key], secourse, "LEC", credits, "normal_lec")
+            }
+        }
+    }
+    console.log("...................................")
+    if (tut != "null"){
+        for (const key in tut) {
+            if (tut.hasOwnProperty(key)) {
+                console.log(`${key}: ${tut[key]}`);
+                add_to_timetable(key, tut[key], secourse, "TUT", credits, "normal_tut")
+            }
+        }
+    }
+    console.log("...................................")
+    if (lab != "null"){
+        for (const key in lab) {
+            if (lab.hasOwnProperty(key)) {
+                console.log(`${key}: ${lab[key]}`);
+                add_to_timetable(key, lab[key], secourse, "LAB", credits, "normal_lab")
+            }
+        }
+    }
 }

@@ -127,12 +127,12 @@ ol {
 
 .hour {
     position: absolute;
-    height: 4em;
+    /* height: 4em; */
     text-indent: 3px;
-    width: 100%;
+    width: 98%;
+    left:1%;
     color: white;
-    border-right: 1px solid #ddd; /* Vertical lines */
-    border-bottom: 1px solid #ddd; /* Horizontal lines */
+    border: 1px solid #ddd;
     border-radius: 5px;
     align-content: center;
 }
@@ -164,8 +164,18 @@ ol {
 .hour__19 { top: calc(47em + var(--offset)); }
 .hour__20 { top: calc(51em + var(--offset)); }
 
-.hour--two { height: 8em; }
-.hour--three { height: 12em; }
+.hour--0-5 { height: 2em; }
+.hour--0-7 { height: 3em; }
+.hour--0-8 { height: 3.33em; }
+.hour--1-0 { height: 4em; }
+.hour--1-2 { height: 5em; }
+.hour--1-5 { height: 6em; }
+.hour--1-8 { height: 7.33em; }
+.hour--2-0 { height: 8em; }
+.hour--2-7 { height: 11em; }
+.hour--2-8 { height: 11.33em; }
+.hour--3-0 { height: 12em; }
+.hour--4-0 { height: 16em; }
 
 .class1 { background: #3498db; }
 .class2 { background: #27ae60; }
@@ -173,6 +183,10 @@ ol {
 .class4 { background: #e67e22; }
 .class5 { background: #1abc9c; }
 
+.clash { background: #e74c3c; opacity: 0.5; }
+.normal_lec { background: #27ae60; }
+.normal_lab { background: #3498db; }
+.normal_tut { background: #e67e22; }
 
 /* Style the labels */
 label {
@@ -464,10 +478,11 @@ option {
     }
     .hour {
         top: 0;
-        width: 7%;
+        /* width: 7%; maygbe delete */
         height: 100%;
         border-radius: 10px;
         align-content: center;
+        border: 1px solid #ddd;
     }
 
     .hour-0 {--offset: 0%;}
@@ -496,9 +511,19 @@ option {
     .hour__18 { left: calc(79% + var(--offset)); }
     .hour__19 { left: calc(86% + var(--offset)); }
     .hour__20 { left: calc(93% + var(--offset)); }
-    
-    .hour--two { width: 14%; }
-    .hour--three { width: 21%; }
+
+    .hour--0-5 { width: 3.5%; }
+    .hour--0-7 { width: 5.25%; }
+    .hour--0-8 { width: 5.8275%; }
+    .hour--1-0 { width: 7%; }
+    .hour--1-2 { width: 8.75%; }
+    .hour--1-5 { width: 10.5%; }
+    .hour--1-8 { width: 12.8275%; }
+    .hour--2-0 { width: 14%; }
+    .hour--2-7 { width: 19.25%; }
+    .hour--2-8 { width: 19.8275%; }
+    .hour--3-0 { width: 21%; }
+    .hour--4-0 { width: 28%; }
 
     .check-box{
         top:5%;
