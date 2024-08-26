@@ -143,6 +143,34 @@ function add_to_timetable(day_id, schedule, course, class_type, credits, class_c
     }
 }
 
+function iterateAndCheckClashes(inputDiv) {
+    // Get all direct child divs of the inputDiv
+    inputDiv = document.getElementById(inputDiv)
+    let childDivs = inputDiv.querySelectorAll(':scope > div');
+    
+    // Iterate over each div
+    for (let i = 0; i < childDivs.length; i++) {
+        for (let j = i + 1; j < childDivs.length; j++) {
+            if (isOverlapping(childDivs[i], childDivs[j])) {
+                childDivs[i].classList.add("clash");
+                childDivs[j].classList.add("clash");
+                childDivs[j].classList.add("width_clash");
+            }
+        }
+    }
+}
+
+// Function to check if two divs are overlapping
+function isOverlapping(div1, div2) {
+    const rect1 = div1.getBoundingClientRect();
+    const rect2 = div2.getBoundingClientRect();
+
+    return !(rect1.right < rect2.left + 2 ||  // Add 1px offset to the right comparison
+        rect1.left > rect2.right - 2 ||  // Subtract 1px offset from the left comparison
+        rect1.bottom < rect2.top + 2 ||  // Add 1px offset to the bottom comparison
+        rect1.top > rect2.bottom - 2);   // Subtract 1px offset from the top comparison
+}
+
 async function add_button(){
     const courseSelect = document.getElementById("course-select");
     // console.log(extractBracketContent(courseSelect.value))
@@ -156,8 +184,8 @@ async function add_button(){
     if (lec != "null"){
         for (const key in lec) {
             if (lec.hasOwnProperty(key)) {
-                console.log(`${key}: ${lec[key]}`);
-                add_to_timetable(key, lec[key], secourse, "LEC", credits, "normal_lec")
+                // console.log(`${key}: ${lec[key]}`);
+                add_to_timetable(key, lec[key], secourse, "LEC", credits, "normal_lec");
             }
         }
     }
@@ -165,8 +193,8 @@ async function add_button(){
     if (tut != "null"){
         for (const key in tut) {
             if (tut.hasOwnProperty(key)) {
-                console.log(`${key}: ${tut[key]}`);
-                add_to_timetable(key, tut[key], secourse, "TUT", credits, "normal_tut")
+                // console.log(`${key}: ${tut[key]}`);
+                add_to_timetable(key, tut[key], secourse, "TUT", credits, "normal_tut");
             }
         }
     }
@@ -174,9 +202,14 @@ async function add_button(){
     if (lab != "null"){
         for (const key in lab) {
             if (lab.hasOwnProperty(key)) {
-                console.log(`${key}: ${lab[key]}`);
-                add_to_timetable(key, lab[key], secourse, "LAB", credits, "normal_lab")
+                // console.log(`${key}: ${lab[key]}`);
+                add_to_timetable(key, lab[key], secourse, "LAB", credits, "normal_lab");
             }
         }
     }
+    iterateAndCheckClashes("M")
+    iterateAndCheckClashes("T")
+    iterateAndCheckClashes("W")
+    iterateAndCheckClashes("Th")
+    iterateAndCheckClashes("F")
 }
