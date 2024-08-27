@@ -16,21 +16,21 @@ body {
 #logo {
     filter: invert(100%);
     position: relative;
-    left: 85%;
-    top: -10%;
-    width: 12vw;
-    height: 12vw;
+    left: 90%;
+    top: -15%;
+    width: 9vw;
+    height: 9vw;
 }
 
 #logo_name {
     position: relative;
-    left: -14%;
-    height: 15vw;
+    left: -10%;
+    height: 12vw;
 }
 
 #heading_bar {
     align-content: center;
-    height: 15vw;
+    height: 12vw;
     width: 100%;
     background-color: #003366;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -444,19 +444,19 @@ option {
     --color2: rgb(10, 25, 30);
     padding: 0.8em 1.75em;
     background-color: #f0f8ff;
-    border-radius: 20px;
-    border: .3px solid var(--color);
+    border-radius: 30px;
+    border: 2px solid var(--color);
     transition: .25s;
     position: relative;
     overflow: hidden;
     cursor: pointer;
     z-index: 1;
-    font-weight: 300;
+    font-weight: bold;
     font-size: 17px;
     font-family: 'Roboto', 'Segoe UI', sans-serif;
     text-transform: uppercase;
     color: var(--color);
-    margin: 2px;
+    margin-right: 2px;
 }
 
 .btn::after,
@@ -600,7 +600,7 @@ option {
 
     #button_pos {
         position: absolute;
-        left: 82%;
+        left: 81%;
         top: 117px;
     }
 

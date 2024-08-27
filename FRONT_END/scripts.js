@@ -1,5 +1,6 @@
 // This can be used to add interactivity later
 let total_credits_sum = 0;
+let course_code_cum = [];
 console.log("Timetable loaded successfully!");
 
 const checkbox = document.getElementById("rc_switch");
@@ -126,6 +127,7 @@ function reset_button() {
     courseSelect.disabled = true;
     clearFieldList();
     total_credits_sum = 0;
+    course_code_cum = [];
     let totalCreditsElement = document.getElementById('total_credits');
     // Convert the variable to a string and update the legend
     totalCreditsElement.textContent = 'Total Credits: 00';
@@ -203,7 +205,6 @@ function iterateAncRemoveClashes(inputDiv) {
 function isOverlapping(div1, div2) {
     const rect1 = div1.getBoundingClientRect();
     const rect2 = div2.getBoundingClientRect();
-
     return !(rect1.right < rect2.left + 2 ||  // Add 1px offset to the right comparison
         rect1.left > rect2.right - 2 ||  // Subtract 1px offset from the left comparison
         rect1.bottom < rect2.top + 2 ||  // Add 1px offset to the bottom comparison
@@ -238,6 +239,15 @@ function update_fieldset(credits, course, codecc) {
 async function add_button() {
     const courseSelect = document.getElementById("course-select");
     const secourse = extractBracketContent(courseSelect.value);
+    let index = course_code_cum.indexOf(secourse);
+    if (index == -1) {
+        course_code_cum.push(secourse)
+    }
+    else if (index !== -1) {
+        alert(`${secourse} already added please select some other course`);
+        return;
+    }
+    console.log(course_code_cum)
     const schedule = await fetchCourseSchedule(secourse);
     lec = schedule[0];
     tut = schedule[1];
@@ -291,6 +301,10 @@ function removeDivsById(id) {
 }
 function delete_course(ccodec) {
     // Find and delete the div element with the same ID
+    let index = course_code_cum.indexOf(ccodec);
+    if (index !== -1) {
+        course_code_cum.splice(index, 1);
+    }
     ccodec_div = ccodec + "_div";
     var buttonElement = document.getElementById(ccodec);
     buttonElement.parentNode.removeChild(buttonElement);
