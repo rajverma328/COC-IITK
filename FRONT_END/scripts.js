@@ -1,9 +1,10 @@
 // This can be used to add interactivity later
+let total_credits_sum = 0;
 console.log("Timetable loaded successfully!");
 
 const checkbox = document.getElementById("rc_switch");
 const element_orient = document.getElementById("orienter");
-function toggleClass(){
+function toggleClass() {
     if (checkbox.checked) {
         element_orient.classList.add("toggle0");
         element_orient.classList.remove("toggle1");
@@ -92,11 +93,22 @@ function deleteDivs(liId) {
         // Select all div elements inside the <li> element
         var divs = liElement.querySelectorAll('div');
         // Iterate over each div and remove it
-        divs.forEach(function(div) {
+        divs.forEach(function (div) {
             if (div !== liElement.querySelector('.name')) {
                 div.remove();
             }
         });
+    }
+}
+
+function clearFieldList() {
+    const fieldList = document.getElementById('selected_courses');
+    const buttons = fieldList.getElementsByTagName('button');
+    const legend = fieldList.getElementsByTagName('legend')[0];
+
+    // Remove all buttons
+    while (buttons.length > 0) {
+        buttons[0].parentNode.removeChild(buttons[0]);
     }
 }
 
@@ -112,6 +124,11 @@ function reset_button() {
     deleteDivs('F')
     courseSelect.selectedIndex = 0;
     courseSelect.disabled = true;
+    clearFieldList();
+    total_credits_sum = 0;
+    let totalCreditsElement = document.getElementById('total_credits');
+    // Convert the variable to a string and update the legend
+    totalCreditsElement.textContent = 'Total Credits: 00';
 }
 function extractBracketContent(optionValue) {
     const matches = [...optionValue.matchAll(/\(([^)]+)\)/g)];
@@ -133,11 +150,12 @@ async function fetchCourseSchedule(course) {
     }
 }
 
-function add_to_timetable(day_id, schedule, course, class_type, credits, class_color){
-    if(schedule != "null"){
+function add_to_timetable(day_id, schedule, course, class_type, credits, class_color) {
+    if (schedule != "null") {
         var dayElement = document.getElementById(day_id);
         const newDiv = document.createElement('div');
         newDiv.className = 'hour' + ' ' + schedule + ' ' + class_color;
+        newDiv.id = course + "_div";
         newDiv.innerHTML = `<div class="title">${course}</div> <div>${class_type} [${credits}]</div>`
         dayElement.appendChild(newDiv);
     }
@@ -147,7 +165,7 @@ function iterateAndCheckClashes(inputDiv) {
     // Get all direct child divs of the inputDiv
     inputDiv = document.getElementById(inputDiv)
     let childDivs = inputDiv.querySelectorAll(':scope > div');
-    
+
     // Iterate over each div
     for (let i = 0; i < childDivs.length; i++) {
         for (let j = i + 1; j < childDivs.length; j++) {
@@ -171,17 +189,42 @@ function isOverlapping(div1, div2) {
         rect1.top > rect2.bottom - 2);   // Subtract 1px offset from the top comparison
 }
 
-async function add_button(){
+function update_fieldset(credits, course, codecc) {
+    total_credits_sum = total_credits_sum + parseInt(credits)
+    // console.log(total_credits_sum)
+    let totalCreditsElement = document.getElementById('total_credits');
+    // Convert the variable to a string and update the legend
+    totalCreditsElement.textContent = `Total Credits: ${total_credits_sum.toString()}`;
+    const fieldset = document.getElementById('selected_courses');
+    // Create the button element
+    const button = document.createElement('button');
+    button.className = 'list_button';
+    button.id = codecc;
+    button.setAttribute('onclick', `delete_course("${codecc}")`);
+    // Create the first span element
+    const span1 = document.createElement('span');
+    span1.className = 'list_button_transition';
+    button.appendChild(span1);
+    // Create the second span element
+    const span2 = document.createElement('span');
+    span2.className = 'list_button_label';
+    span2.textContent = course + ` [${credits}]`;
+    button.appendChild(span2);
+    // Append the button to the fieldset
+    fieldset.appendChild(button);
+}
+
+async function add_button() {
     const courseSelect = document.getElementById("course-select");
-    // console.log(extractBracketContent(courseSelect.value))
     const secourse = extractBracketContent(courseSelect.value);
     const schedule = await fetchCourseSchedule(secourse);
     lec = schedule[0];
     tut = schedule[1];
     lab = schedule[2];
     credits = schedule[3];
+    update_fieldset(credits, courseSelect.value, secourse);
 
-    if (lec != "null"){
+    if (lec != "null") {
         for (const key in lec) {
             if (lec.hasOwnProperty(key)) {
                 // console.log(`${key}: ${lec[key]}`);
@@ -189,8 +232,8 @@ async function add_button(){
             }
         }
     }
-    console.log("...................................")
-    if (tut != "null"){
+    // console.log("...................................")
+    if (tut != "null") {
         for (const key in tut) {
             if (tut.hasOwnProperty(key)) {
                 // console.log(`${key}: ${tut[key]}`);
@@ -198,8 +241,8 @@ async function add_button(){
             }
         }
     }
-    console.log("...................................")
-    if (lab != "null"){
+    // console.log("...................................")
+    if (lab != "null") {
         for (const key in lab) {
             if (lab.hasOwnProperty(key)) {
                 // console.log(`${key}: ${lab[key]}`);
@@ -212,4 +255,34 @@ async function add_button(){
     iterateAndCheckClashes("W")
     iterateAndCheckClashes("Th")
     iterateAndCheckClashes("F")
+}
+function removeDivsById(id) {
+    // Select all <div> elements
+    var divElements = document.querySelectorAll('div');
+    // Iterate over each <div> element
+    divElements.forEach(function (divElement) {
+        // Check if the <div> has the specific id
+        if (divElement.id === id) {
+            divElement.remove();
+            // console.log('Removed <div> with id:', id);
+        }
+    });
+}
+function delete_course(ccodec) {
+    // Find and delete the div element with the same ID
+    ccodec_div = ccodec + "_div";
+    var buttonElement = document.getElementById(ccodec);
+    buttonElement.parentNode.removeChild(buttonElement);
+    if (buttonElement) {
+        var textDiv = buttonElement.querySelector('span:nth-of-type(2)');
+        if (textDiv) {
+            var textContent = textDiv.textContent;
+            var match = textContent.match(/\[(\d+)\]/);
+        }
+    }
+    total_credits_sum = total_credits_sum - parseInt(match[1]);
+    let totalCreditsElement = document.getElementById('total_credits');
+    // Convert the variable to a string and update the legend
+    totalCreditsElement.textContent = `Total Credits: ${total_credits_sum.toString()}`;
+    removeDivsById(ccodec_div)
 }

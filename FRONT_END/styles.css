@@ -50,6 +50,66 @@ body {
     position: relative;
 }
 
+fieldset {
+    margin: 50px auto;
+    width: 95%;
+    font-family: sans-serif;
+    border: 5px solid #003366;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+fieldset legend {
+    color: #003366;
+    font-size: x-large;
+    border-radius: 5px;
+    margin-left: 2%;
+    font-weight: bolder;
+}
+
+/* From Uiverse.io by cssbuttons-io */
+.list_button {
+    font-family: ui-monospace, "Liberation Mono", "Courier New", monospace;
+    font-size: 15px;
+    padding: 0.5em 1em;
+    font-weight: bold;
+    background: #2b8ef9;
+    color: white;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    border-radius: 0.5em;
+    cursor: pointer;
+    margin: 0.25em;
+}
+
+.list_button_label {
+    position: relative;
+    top: -1px;
+}
+
+.list_button_transition {
+    transition-duration: 300ms;
+    background-color: #ff0000cb;
+    border-radius: 0.5em;
+    width: 0;
+    height: 0;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.list_button:hover .list_button_transition {
+    width: 110%;
+    height: 110%;
+}
+
+.list_button:active {
+    transform: scale(0.97);
+}
+
+
 h1 {
     text-align: center;
     color: #003366;
