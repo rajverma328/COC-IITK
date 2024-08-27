@@ -59,13 +59,13 @@ The `ASSETS` folder contains important JSON files used for managing course data 
 You can view or download these files directly using the links below:
 - [courses.json](ASSETS/courses.json)
 - [details.json](ASSETS/details.json)
-
+---
 
 ### [BACK_END](BACK_END)
-
+---
 
 ### [Extract_course_data](Extract_course_data)
-
+---
 
 ### [FRONT_END Folder](FRONT_END)
 The `FRONT_END` folder contains all the essential files for the frontend of the project. Below is a detailed description of each item in this folder:
@@ -84,9 +84,10 @@ You can view or download these files directly using the links below:
 - [styles.css](FRONT_END/styles.css)
 - [scripts.js](FRONT_END/scripts.js)
 - [Other assets](FRONT_END)
-
+---
 
 ### [RECOMMENDATION](RECOMMENDATION)
-
+---
 
 ### [Playground](Playground)
+---
