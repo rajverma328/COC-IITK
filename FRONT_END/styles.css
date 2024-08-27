@@ -52,11 +52,10 @@ body {
 
 fieldset {
     margin: 50px auto;
-    width: 95%;
+    width: 90%;
     font-family: sans-serif;
     border: 5px solid #003366;
     border-radius: 20px;
-    padding: 15px;
 }
 
 fieldset legend {
