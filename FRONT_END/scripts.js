@@ -178,6 +178,27 @@ function iterateAndCheckClashes(inputDiv) {
     }
 }
 
+function iterateAncRemoveClashes(inputDiv) {
+    // Get all direct child divs of the inputDiv
+    inputDiv = document.getElementById(inputDiv)
+    let childDivs = inputDiv.querySelectorAll(':scope > div');
+    // Iterate over each div
+    if (childDivs.length == 1) {
+        childDivs[0].classList.remove("clash");
+        childDivs[0].classList.remove("width_clash");
+    }
+    for (let i = 0; i < childDivs.length; i++) {
+        for (let j = i + 1; j < childDivs.length; j++) {
+            if (!isOverlapping(childDivs[i], childDivs[j])) {
+                childDivs[i].classList.remove("clash");
+                childDivs[j].classList.remove("clash");
+                childDivs[i].classList.remove("width_clash");
+                childDivs[j].classList.remove("width_clash");
+            }
+        }
+    }
+}
+
 // Function to check if two divs are overlapping
 function isOverlapping(div1, div2) {
     const rect1 = div1.getBoundingClientRect();
@@ -285,4 +306,9 @@ function delete_course(ccodec) {
     // Convert the variable to a string and update the legend
     totalCreditsElement.textContent = `Total Credits: ${total_credits_sum.toString()}`;
     removeDivsById(ccodec_div)
+    iterateAncRemoveClashes("M")
+    iterateAncRemoveClashes("T")
+    iterateAncRemoveClashes("W")
+    iterateAncRemoveClashes("Th")
+    iterateAncRemoveClashes("F")
 }
