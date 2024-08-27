@@ -311,4 +311,9 @@ function delete_course(ccodec) {
     iterateAncRemoveClashes("W")
     iterateAncRemoveClashes("Th")
     iterateAncRemoveClashes("F")
+    iterateAndCheckClashes("M")
+    iterateAndCheckClashes("T")
+    iterateAndCheckClashes("W")
+    iterateAndCheckClashes("Th")
+    iterateAndCheckClashes("F")
 }
