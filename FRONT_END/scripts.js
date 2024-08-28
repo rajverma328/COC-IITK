@@ -131,6 +131,8 @@ function reset_button() {
     let totalCreditsElement = document.getElementById('total_credits');
     // Convert the variable to a string and update the legend
     totalCreditsElement.textContent = 'Total Credits: 00';
+    const avc = document.getElementById("input_handler_avc");
+    avc.classList.add('hidden')
 }
 function extractBracketContent(optionValue) {
     const matches = [...optionValue.matchAll(/\(([^)]+)\)/g)];
@@ -238,7 +240,7 @@ function update_fieldset(credits, course, codecc) {
 
 async function add_button() {
     const courseSelect = document.getElementById("course-select");
-    if (courseSelect.value == [null]){
+    if (courseSelect.value == [null]) {
         return;
     }
     const secourse = extractBracketContent(courseSelect.value);
@@ -333,4 +335,15 @@ function delete_course(ccodec) {
     iterateAndCheckClashes("W")
     iterateAndCheckClashes("Th")
     iterateAndCheckClashes("F")
+}
+
+// Adding fuctionality of checking availabilty of courses 
+
+function get_available_courses() {
+    const avc = document.getElementById("input_handler_avc");
+    avc.classList.remove('hidden')
+}
+
+function add_button_avc() {
+    
 }

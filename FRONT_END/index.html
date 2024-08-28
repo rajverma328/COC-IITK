@@ -20,14 +20,14 @@
 
         <div id="branch_pos">
             <label for="branch-select">Branch:</label>
-            <select id="branch-select">
+            <select id="branch-select" class="branch-select">
                 <option value="">Select Branch</option>
             </select>
         </div>
 
         <div id="course_pos">
             <label for="course-select">Course:</label>
-            <select id="course-select" disabled>
+            <select id="course-select" class="course-select" disabled>
                 <option value="">Select Course</option>
             </select>
         </div>
@@ -38,7 +38,6 @@
             <button class="btn" id="btn_reset" onclick="reset_button()"> RESET
             </button>
         </div>
-
     </div>
 
     <fieldset id="selected_courses">
@@ -52,6 +51,30 @@
             Topic Base Recommendation
         </button>
     </div>
+
+    <div id="input_handler_avc" class="container hidden">
+        <h1>Available Courses</h1>
+
+        <div id="branch_pos">
+            <label for="branch-select">Branch:</label>
+            <select id="branch-select-avc" class="branch-select">
+                <option value="">Select Branch</option>
+            </select>
+        </div>
+
+        <div id="course_pos">
+            <label for="course-select">Courses that are not clashing:</label>
+            <select id="course-select-avc" class="course-select" disabled>
+                <option value="">Select Course</option>
+            </select>
+        </div>
+
+        <div id="button_pos">
+            <button id="avc-button" onclick="add_button_avc()"> ADD COURSE
+            </button>
+        </div>
+    </div>
+
     <div id="orienter" class="container toggle1">
         <div id="menuToggle">
             <input id="rc_switch" type="checkbox" onchange="toggleClass()">

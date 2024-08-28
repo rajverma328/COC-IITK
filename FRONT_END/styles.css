@@ -395,7 +395,7 @@ label {
 }
 
 /* Style the select elements */
-#branch-select {
+.branch-select {
     width: 18%;
     min-width: 150px;
     padding: 10px;
@@ -410,12 +410,12 @@ option {
 }
 
 /* Add a hover effect for select elements */
-#branch-select:hover {
+.branch-select:hover {
     background-color: #fafafa;
     cursor: pointer;
 }
 
-#course-select {
+.course-select {
     width: 85%;
     min-width: 250px;
     padding: 10px;
@@ -426,13 +426,13 @@ option {
 }
 
 /* Add a hover effect for select elements */
-#course-select:hover {
+.course-select:hover {
     background-color: #fafafa;
     cursor: pointer;
 }
 
 /* Add a style for the disabled select */
-#course-select:disabled {
+.course-select:disabled {
     background-color: #959595;
     animation: blink-animation 1s steps(5, start) infinite;
     color: #ffffff;
@@ -467,6 +467,29 @@ option {
 }
 
 .uti_btn:hover {
+    background-color: #3b82f6;
+    box-shadow: 0 0 0 5px #3b83f65f;
+    color: #fff;
+}
+
+#avc-button {
+    font-family: monospace;
+    background-color: #d0e7ff;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+    color: #3b82f6;
+    border: none;
+    border-radius: 20px;
+    font-size: 25px;
+    font-weight: bolder;
+    height: 50px;
+    transition: .3s;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 250px;
+}
+
+#avc-button:hover {
     background-color: #3b82f6;
     box-shadow: 0 0 0 5px #3b83f65f;
     color: #fff;
@@ -638,7 +661,7 @@ option {
         top: 117px;
     }
 
-    #course-select {
+    .course-select {
         width: 60%;
         min-width: 250px;
         padding: 10px;
@@ -900,6 +923,10 @@ option {
         left: 5%;
         top: 250px;
     }
+}
+
+.hidden{
+    display: none;
 }
 
 footer {
