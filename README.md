@@ -75,7 +75,7 @@ COC-IIT-K
 The `ASSETS` folder contains important JSON files used for managing course data in the repository. Below is a description of the contents of this folder:
 #### Files
 - **`courses.json`**: This file includes course information categorized by branch. It organizes courses based on different branches, making it easier to manage and access courses specific to each branch.
-- **`details.json`**: This file contains detailed information about the courses, such as time, credits, and other relevant details. It provides a comprehensive overview of each course, including additional attributes that are important for course management.
+- **`details.json`**: This file contains detailed information about the courses, such as time, credits, and other relevant details. It provides a comprehensive overview of each course, including additional attributes that are important for course management and scheduling.
 
 - You can view or download these files directly using the links below:
   - [courses.json](ASSETS/courses.json)
