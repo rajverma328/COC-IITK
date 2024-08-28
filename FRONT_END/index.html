@@ -44,7 +44,14 @@
     <fieldset id="selected_courses">
         <legend id="total_credits">Total Credits : 00</legend>
     </fieldset>
-
+    <div id="utility_buttons">
+        <button onclick="get_available_courses()" class="uti_btn">
+            Check Available Courses
+        </button>
+        <button onclick="get_recommended_courses()" class="uti_btn">
+            Topic Base Recommendation
+        </button>
+    </div>
     <div id="orienter" class="container toggle1">
         <div id="menuToggle">
             <input id="rc_switch" type="checkbox" onchange="toggleClass()">

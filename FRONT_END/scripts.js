@@ -238,6 +238,9 @@ function update_fieldset(credits, course, codecc) {
 
 async function add_button() {
     const courseSelect = document.getElementById("course-select");
+    if (courseSelect.value == [null]){
+        return;
+    }
     const secourse = extractBracketContent(courseSelect.value);
     let index = course_code_cum.indexOf(secourse);
     if (index == -1) {
