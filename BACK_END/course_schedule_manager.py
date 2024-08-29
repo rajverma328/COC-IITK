@@ -1,7 +1,16 @@
 import pandas as pd
+import json
+
+with open('../ASSETS/courses.json', 'r') as file: # change for bash execution
+    my_dict = json.load(file)
+keys = list(my_dict.keys())
+# print(keys)
 
 df = pd.read_json('../ASSETS/details.json')
+# df = pd.read_json('ASSETS/details.json')
 course_code = df['Course Name/Group Name'].to_list()
+course_name = course_code
+
 def extract_last_bracket_content(course_name):
     # Find all occurrences of content in brackets
     brackets = []
@@ -42,11 +51,13 @@ def get_class_string(arr):
     return output_dict
 
 def get_schedule(course):
+    # print(course)
     try:
         index = course_code.index(course)
         # print(f"The index of {course} is {index}.")
     except ValueError:
         print(f"{course} is not in the list.")
+    # print(index)
     sched_lec = df['lec'][index]
     sched_lec = get_class_string(sched_lec)
 
@@ -61,12 +72,38 @@ def get_schedule(course):
     # print(sched_lec)
     return [sched_lec,sched_tut,sched_lab,credits]
 
-def get_available_courses():
-    
-    return 1
-
+def get_available_courses(selected_coursers):
+    available_courses= []
+    M = 0
+    T = 0
+    W = 0
+    Th = 0 
+    F = 0
+    for course in  selected_coursers:
+        try:
+            index = course_code.index(course)
+            # print(f"The index of {course} is {index}.")
+        except ValueError:
+            print(f"{course} is not in the list.")
+        M = M | df['M'][index]
+        T = T | df['T'][index]
+        W = W | df['W'][index]
+        Th = Th | df['Th'][index]
+        F = F | df['F'][index]     
+    for index, tc in df.iterrows():
+        # print(tc)
+        if ((M & tc['M'])|(T & tc['T'])|(W & tc['W'])|(Th & tc['Th'])|(F & tc['F']) == 0):
+            available_courses.append(tc['Course Name/Group Name'])
+    available_courses_codes = list(map(extract_last_bracket_content, available_courses))
+    return_dict = {}
+    return_dict[keys[0]] = available_courses 
+    for i in range(1, len(keys)):
+        indices = [j for j, s in enumerate(available_courses_codes) if s.startswith(keys[i])]
+        return_dict[keys[i]] = [available_courses[i] for i in indices]
+    return_dict = json.dumps(return_dict)
+    return return_dict
 
 if __name__ == "__main__":
     print("NOT FOR THIS PURPOSE")
     ## DEV TOOLS
-    get_schedule('EE380')
+    # get_available_courses(['EE380'])

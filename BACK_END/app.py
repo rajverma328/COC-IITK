@@ -20,8 +20,7 @@ def fetch_course_schedule(course):
 def available_courses():
     selected_courses = request.args.getlist('courses[]')
     # print("Selected courses:", selected_courses)
-
-    return jsonify("sched")
+    return csm.get_available_courses(selected_courses)
 
 if __name__ == '__main__':
     print("Intialising the server")

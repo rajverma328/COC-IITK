@@ -60,6 +60,7 @@ function populateBranchDropdown(data) {
 // Populate Course Dropdown
 function populateCourseDropdown(courses) {
     const courseSelect = document.getElementById('course-select');
+    // console.log(courses)
     courseSelect.innerHTML = ''; // Clear previous options
     courseSelect.disabled = false; // Enable the course dropdown
 
@@ -238,8 +239,8 @@ function update_fieldset(credits, course, codecc) {
     fieldset.appendChild(button);
 }
 
-async function add_button() {
-    const courseSelect = document.getElementById("course-select");
+async function add_button(liID) {
+    const courseSelect = document.getElementById(liID);
     if (courseSelect.value == [null]) {
         return;
     }
@@ -252,8 +253,8 @@ async function add_button() {
         alert(`${secourse} already added please select some other course`);
         return;
     }
-    // console.log(course_code_cum)
     const schedule = await fetchCourseSchedule(secourse);
+    // console.log(schedule)
     lec = schedule[0];
     tut = schedule[1];
     lab = schedule[2];
@@ -337,7 +338,17 @@ function delete_course(ccodec) {
     iterateAndCheckClashes("F")
 }
 
+///................................................................................................///
+///................................................................................................///
+///................................................................................................///
+
 // Adding fuctionality of checking availabilty of courses 
+// UPPER SEGMENT WORKS WELL 
+// FOR DEVELOPMENT NOT NESTEd
+
+///................................................................................................///
+///................................................................................................///
+///................................................................................................///
 
 function get_available_courses() {
     const avc = document.getElementById("input_handler_avc");
@@ -354,13 +365,64 @@ async function fetchAvailableCourses() {
             throw new Error(`HTTP error! Status: ${response.status}`);
         }
         const data = await response.json();
+        populateBranchDropdown_avc(data)
 
     } catch (error) {
         console.error('Error fetching the course data:', error);
     }
 }
 
+// Populate Branch Dropdown
+function populateBranchDropdown_avc(data) {
+    const courseSelect = document.getElementById('course-select-avc');
+    courseSelect.innerHTML = "<option value=\"\">Select Course</option>"; // Clear previous options
+    courseSelect.disabled = true; // Enable the course dropdown
+    const branchSelect = document.getElementById('branch-select-avc');
+    branchSelect.innerHTML = '' ;
+    const branches = Object.keys(data);
+
+    branches.forEach(branch => {
+        const option = document.createElement('option');
+        option.value = branch;
+        option.textContent = branch;
+        branchSelect.appendChild(option);
+    });
+
+    // Add event listener to load courses when a branch is selected
+    branchSelect.addEventListener('change', (event) => {
+        const selectedBranch = event.target.value;
+        populateCourseDropdown_avc(data[selectedBranch]);
+    });
+}
+
+// Populate Course Dropdown
+function populateCourseDropdown_avc(courses) {
+    const courseSelect = document.getElementById('course-select-avc');
+    courseSelect.innerHTML = ''; // Clear previous options
+    courseSelect.disabled = false; // Enable the course dropdown
+
+    // Add an initial option
+    const initialOption = document.createElement('option');
+    initialOption.value = '';
+    initialOption.textContent = 'Select Course';
+    courseSelect.appendChild(initialOption);
+
+    // Populate course options
+    if (courses) {
+        courses.forEach(course => {
+            const option = document.createElement('option');
+            option.value = course;
+            option.textContent = course;
+            courseSelect.appendChild(option);
+        });
+    } else {
+        // If no courses, disable the dropdown
+        courseSelect.disabled = true;
+    }
+}
+
 function add_button_avc() {
+    add_button('course-select-avc')
     fetchAvailableCourses();
 }
 
