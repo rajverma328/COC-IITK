@@ -252,7 +252,7 @@ async function add_button() {
         alert(`${secourse} already added please select some other course`);
         return;
     }
-    console.log(course_code_cum)
+    // console.log(course_code_cum)
     const schedule = await fetchCourseSchedule(secourse);
     lec = schedule[0];
     tut = schedule[1];
@@ -342,8 +342,28 @@ function delete_course(ccodec) {
 function get_available_courses() {
     const avc = document.getElementById("input_handler_avc");
     avc.classList.remove('hidden')
+    fetchAvailableCourses()
+}
+
+async function fetchAvailableCourses() {
+    try {
+        const queryString = course_code_cum.map(course => `courses[]=${encodeURIComponent(course)}`).join('&');
+        const url = `/API/available?${queryString}`;
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+        const data = await response.json();
+
+    } catch (error) {
+        console.error('Error fetching the course data:', error);
+    }
 }
 
 function add_button_avc() {
-    
+    fetchAvailableCourses();
+}
+
+function get_recommended_courses() {
+    alert("Not deployed yet");
 }

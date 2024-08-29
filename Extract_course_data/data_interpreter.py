@@ -2,6 +2,7 @@ from datetime import datetime
 import pandas as pd
 import numpy as np
 from tqdm import tqdm
+from datetime import datetime, timedelta
 
 #### CODE TO CALCULATE CLASS DURATION ####
 def calculate_duration(start_time, end_time):
@@ -73,6 +74,42 @@ def clean_time_entry(entry):        ## THANKS RAGHAV(daddy2002)
     # print(daytime)
     return daytime
 
+def get_time_segment_in_binary(stri):
+    # Define the start and end times
+    if stri == 'n':
+        stri = "08:00-08:00"
+    classt = stri.split('-')
+    ref_time = datetime.strptime("08:00", "%H:%M")
+    start_time = datetime.strptime(classt[0], "%H:%M") - ref_time
+    end_time = datetime.strptime(classt[1], "%H:%M") - ref_time
+    start_time = int(start_time.total_seconds() / (60*15))
+    end_time = int(end_time.total_seconds() / (60*15))
+    bin_val = 2**end_time - 2**start_time # 10-11 class answer: 1111 0000 0000
+    return bin_val
+    
+
+def add_day_binaries(row):
+    lec_time = row['lec']
+    tut_time = row['tut'] 
+    lab_time = row['lab']
+    if (lec_time == "null"):
+        lec_time = {'M':'null', 'T':'null', 'W':'null', 'Th':'null', 'F':'null'}
+    if (tut_time == "null"):
+        tut_time = {'M':'null', 'T':'null', 'W':'null', 'Th':'null', 'F':'null'}
+    if (lab_time == "null"):
+        lab_time = {'M':'null', 'T':'null', 'W':'null', 'Th':'null', 'F':'null'}
+    
+    days = ['M', 'T', 'W', 'Th', 'F']
+    for day in days:
+        arr_lec = lec_time[day]
+        arr_tut = tut_time[day]
+        arr_lab = lab_time[day]
+        arr_lec = get_time_segment_in_binary(arr_lec[0])
+        arr_tut = get_time_segment_in_binary(arr_tut[0])
+        arr_lab = get_time_segment_in_binary(arr_lab[0])
+        row[day] = arr_lab | arr_lec | arr_tut
+
+
 def process_times(row):
     lec_time = clean_time_entry(row['Time'])
     # print(lec_time)
@@ -83,6 +120,7 @@ def process_times(row):
     row['lec'] = lec_time
     row['tut'] = tut_time
     row['lab'] = lab_time
+    add_day_binaries(row)
     return row
 
 def interpret_data(df):

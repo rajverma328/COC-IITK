@@ -61,6 +61,11 @@ def get_schedule(course):
     # print(sched_lec)
     return [sched_lec,sched_tut,sched_lab,credits]
 
+def get_available_courses():
+    
+    return 1
+
+
 if __name__ == "__main__":
     print("NOT FOR THIS PURPOSE")
     ## DEV TOOLS
