@@ -365,6 +365,7 @@ async function fetchAvailableCourses() {
             throw new Error(`HTTP error! Status: ${response.status}`);
         }
         const data = await response.json();
+        // console.log(data)
         populateBranchDropdown_avc(data)
 
     } catch (error) {

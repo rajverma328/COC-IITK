@@ -1,8 +1,7 @@
 from datetime import datetime
 import pandas as pd
-import numpy as np
 from tqdm import tqdm
-from datetime import datetime, timedelta
+from datetime import datetime
 
 #### CODE TO CALCULATE CLASS DURATION ####
 def calculate_duration(start_time, end_time):

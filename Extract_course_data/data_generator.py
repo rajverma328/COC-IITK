@@ -72,6 +72,7 @@ print("Drop down menu updated in ./ASSETS/courses.json")
 # Columns to extract
 columns_to_extract = ['Course Name/Group Name', 'Credits', 'Time', 'Time.1', 'Time.2']
 extracted_df = df[columns_to_extract]
+# print(extracted_df['Course Name/Group Name'].to_list())
 # Saving the extracted data to a JSON file
 print("printing head of data farme")
 print(extracted_df.head())
