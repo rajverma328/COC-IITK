@@ -917,7 +917,9 @@ option {
     #input_handler {
         min-height: 300px;
     }
-
+    #input_handler_avc {
+        min-height: 300px;
+    }
     #button_pos {
         position: absolute;
         left: 5%;
