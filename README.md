@@ -23,11 +23,17 @@ It is optimised to run with debugging off on your local server, you can change b
 ### 2. Prepare Course CSV
 Please follow the steps mentioned here to procure the course data from [here](Extract_course_data/README.md) and place it in the cloned repository
 
-### 3. Run the Server
+### 3. Update data (if needed)
 ```bash
-bash update_and_launch.sh
+bash update_data.sh
 ```
-Run the above code to update the .json files and view the web-app work on `http://127.0.0.1:5000/` 
+Run the above code to update the .json files
+
+### 4. Run the Server
+```bash
+bash launch.sh
+```
+Run the above code to view the web-app work on `http://127.0.0.1:5000/` 
 
 ## Project Structure
 
@@ -43,7 +49,7 @@ COC-IIT-K
 ├── BACK_END/  
 │   ├── app.py  
 │   ├── check_clash.py  
-│   ├── course_schedule.py  
+│   ├── course_schedule_manager.py  
 │   └── README.md  
 │  
 ├── Extract_course_data/  
@@ -68,6 +74,7 @@ COC-IIT-K
 ├── LICENSE
 ├── Course_schedule_from_pingala.csv    # CSV taken from Pingala
 ├── updata_data.sh                      # Called to update
+├── launch.sh                           # To launch the webapp on localhost:5000
 └── README.md                           # This README file
 
 ```
@@ -88,12 +95,12 @@ The `BACK_END` folder contains the core backend scripts used for managing the ap
 #### Files
 - **`app.py`**: This is the main application script responsible for handling the core backend operations and routing within the project.
 - **`check_clash.py`**: This script is used to check for scheduling conflicts between courses. It ensures that no two courses overlap in timing.
-- **`course_schedule.py`**: Manages the logic related to course scheduling, including processing times, dates, and other relevant scheduling data.
+- **`course_schedule_manager.py`**: Manages the logic related to course scheduling, including processing times, dates, and other relevant scheduling data.
 
 - You can view or download these files directly using the links below:
   - [app.py](BACK_END/app.py)
   - [check_clash.py](BACK_END/check_clash.py)
-  - [course_schedule.py](BACK_END/course_schedule.py)
+  - [course_schedule_manager.py](BACK_END/course_schedule_manager.py)
 
 ---
 ### [Extract_course_data Folder](Extract_course_data)
@@ -132,6 +139,16 @@ The `FRONT_END` folder contains all the essential files for the frontend of the 
 The `PLAYGROUND` folder is your experimental space 🚀! It's where all the magic happens, from major milestones to all the little tweaks and fidgeting along the way. Whether it's testing new ideas, refining features, or just having some fun with code, this is where creativity meets functionality. Dive in to see the journey, trials, and triumphs that have shaped the project!🎨🔧
 
 ---
+
+## Future Work
+- Include session-management to make all users independent of each other, and have a session last for a user even after closing the request, as cookies
+- The courses you select provides a prior to what kind of courses you would want to take up, which should be recommended first. Make the selection bar more intelligent
+- The course code is not mapped to departments well (Ex: CSE dept. offers CSXXX course and not CSEXXX)
+- The codebase is not memory optimized, which leads to delays for every usage due to free hosting service used
+- The code base is frontend heavy and React/CSS pre-processors may be used for optimisation 
+- The frontend clash detection system fails below 75% zoom and show clashes b/w close by classes due to improper `em` handling while zooming
+> [!NOTE]
+> If you found solution to above or face any new prob. Report it to me 🤗
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
