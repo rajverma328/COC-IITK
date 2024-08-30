@@ -141,12 +141,12 @@ The `PLAYGROUND` folder is your experimental space 🚀! It's where all the magi
 ---
 
 ## Future Work
-- Include session-management to make all users independent of each other, and have a session last for a user even after closing the request, as cookies
-- The courses you select provides a prior to what kind of courses you would want to take up, which should be recommended first. Make the selection bar more intelligent
+- [ ] Include session-management to make all users independent of each other, and have a session last for a user even after closing the request, as cookies
+- [ ] The courses you select provides a prior to what kind of courses you would want to take up, which should be recommended first. Make the selection bar more intelligent
 - [ ] The course code is not mapped to departments well (Ex: CSE dept. offers CSXXX course and not CSEXXX)
 - [ ] The codebase is not memory optimized, which leads to delays for every usage due to free hosting service used
 - [ ] The code base is frontend heavy and React/CSS pre-processors may be used for optimisation 
-- [x] The frontend clash detection system fails below 75% zoom and show clashes b/w close by classes due to improper `em` handling while zooming
+- [x] ~~The frontend clash detection system fails below 75% zoom and show clashes b/w close by classes due to improper `em` handling while zooming~~
 > [!NOTE]
 > If you found solution to above or face any new prob. Report it to me 🤗
 
