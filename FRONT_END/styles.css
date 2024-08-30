@@ -11,6 +11,10 @@ body {
     --lec_background: #27ae60;
     --lab_background: #3498db;
     --tut_background: #e67e22;
+    -webkit-user-select: none;
+    -moz-user-select: -moz-none;
+    -ms-user-select: none;
+    user-select: none
 }
 
 #logo {
@@ -917,9 +921,11 @@ option {
     #input_handler {
         min-height: 300px;
     }
+
     #input_handler_avc {
         min-height: 300px;
     }
+
     #button_pos {
         position: absolute;
         left: 5%;
@@ -927,7 +933,7 @@ option {
     }
 }
 
-.hidden{
+.hidden {
     display: none;
 }
 

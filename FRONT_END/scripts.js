@@ -208,10 +208,10 @@ function iterateAncRemoveClashes(inputDiv) {
 function isOverlapping(div1, div2) {
     const rect1 = div1.getBoundingClientRect();
     const rect2 = div2.getBoundingClientRect();
-    return !(rect1.right < rect2.left + 2 ||  // Add 1px offset to the right comparison
-        rect1.left > rect2.right - 2 ||  // Subtract 1px offset from the left comparison
-        rect1.bottom < rect2.top + 2 ||  // Add 1px offset to the bottom comparison
-        rect1.top > rect2.bottom - 2);   // Subtract 1px offset from the top comparison
+    return !(rect1.right < rect2.left + 8 ||  // Add 1px offset to the right comparison
+        rect1.left > rect2.right - 8 ||  // Subtract 1px offset from the left comparison
+        rect1.bottom < rect2.top + 8 ||  // Add 1px offset to the bottom comparison
+        rect1.top > rect2.bottom - 8);   // Subtract 1px offset from the top comparison
 }
 
 function update_fieldset(credits, course, codecc) {
