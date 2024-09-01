@@ -94,12 +94,10 @@ The `BACK_END` folder contains the core backend scripts used for managing the ap
 
 #### Files
 - **`app.py`**: This is the main application script responsible for handling the core backend operations and routing within the project.
-- **`check_clash.py`**: This script is used to check for scheduling conflicts between courses. It ensures that no two courses overlap in timing.
 - **`course_schedule_manager.py`**: Manages the logic related to course scheduling, including processing times, dates, and other relevant scheduling data.
 
 - You can view or download these files directly using the links below:
   - [app.py](BACK_END/app.py)
-  - [check_clash.py](BACK_END/check_clash.py)
   - [course_schedule_manager.py](BACK_END/course_schedule_manager.py)
 
 ---
