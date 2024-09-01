@@ -1,4 +1,4 @@
-# [Extract_course_data Folder](Extract_course_data)
+# Extract_course_data Folder
 
 > [!IMPORTANT]
 > This folder contains code for updating json data
