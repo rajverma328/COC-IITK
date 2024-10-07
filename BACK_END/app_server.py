@@ -1,6 +1,6 @@
 import os
 from flask import Flask, request, render_template, send_from_directory, jsonify
-import course_schedule_manager as csm
+import BACK_END.course_schedule_manager_server as csm
 
 app = Flask(__name__, static_folder='../FRONT_END', template_folder='../FRONT_END')
 
