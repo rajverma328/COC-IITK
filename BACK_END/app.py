@@ -24,5 +24,5 @@ def available_courses():
 
 if __name__ == '__main__':
     print("Intialising the server")
-    app.run(debug=True)
+    app.run(debug=False)
     # app.run(host='0.0.0.0', port=5000)
