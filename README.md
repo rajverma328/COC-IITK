@@ -6,6 +6,8 @@
 
 Welcome to **COC-IIT-K**, short for *Clash Of Courses IIT Kanpur*, a web application designed to streamline and simplify your course timetable management. Whether you're dealing with course conflicts or just trying to keep your schedule organized, this tool provides an intuitive interface to help you manage your academic life at IIT Kanpur.
 
+Live version available : https://coc-iitk.onrender.com/
+
 ## Description
 
 **COC-IIT-K** is a powerful tool designed to help IIT Kanpur students efficiently create their academic schedules. 🎓 It offers an intuitive and user-friendly website 🌐 that automatically navigates through over 700+ courses 📚 across 20+ departments, ensuring that none of the selected courses clash with the user's existing schedule. ⏰ Built with a Flask backend, 🐍 **COC-IIT-K** provides comprehensive course coverage, handling all available courses without exceptions, making the scheduling process seamless and stress-free. 🎉
